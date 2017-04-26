@@ -1,0 +1,86 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "58fdfc5ed084d5167a04dce9",
+  "_accessibility": {
+    "_isTextProcessorEnabled": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": false,
+    "_isEnabled": false
+  },
+  "__v": 0,
+  "_id": "58fdfc60d084d5167a04deb8",
+  "_tutor": {
+    "_isEnabled": false
+  },
+  "_licencePage": {
+    "licence": "CC-BY-SA 4.0"
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "title": "ODI Training Team",
+        "description": "Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
+        "_graphic": {
+          "alt": "The Open Data Institute",
+          "src": "adapt/css/assets/logo-small.png"
+        }
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/edp.png",
+          "alt": "European Data Portal"
+        },
+        "description": "<p>Funding for module development and implementation provided by the <span>European Data Portal</span>. Original content is available&nbsp;<a href=\"http://europeandataportal.eu/elearning/en/\" target=\"_blank\">here</a>, used under a&nbsp;Creative Commons Attribution-ShareAlike 4.0 International Licence.</p>",
+        "title": "European Data Portal"
+      },
+      {
+        "title": "Sponge UK",
+        "description": "Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
+        "_graphic": {
+          "alt": "Sponge UK",
+          "src": "adapt/css/assets/sponge.png"
+        }
+      },
+      {
+        "title": "Adapt learning",
+        "description": "Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
+        "_graphic": {
+          "alt": "Adapt learning",
+          "src": "adapt/css/assets/adapt.png"
+        }
+      }
+    ]
+  },
+  "build": {
+    "includes": [
+      "adapt-theme-odi",
+      "adapt-contrib-boxMenu",
+      "adapt-odi-licence",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
+      "adapt-contrib-aboutPage",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text",
+      "adapt-contrib-accordion",
+      "adapt-contrib-mcq",
+      "adapt-contrib-media",
+      "adapt-contrib-narrative",
+      "adapt-contrib-gmcq"
+    ]
+  }
+}

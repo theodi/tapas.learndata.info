@@ -1,0 +1,2997 @@
+[
+  {
+    "_id": "58fdfc60d084d5167a04ddef",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd5d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e0fc8f9648b483164d055cfa0842d4f43cd77017.png",
+      "small": "course/en/assets/e0fc8f9648b483164d055cfa0842d4f43cd77017.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddf4",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04ddb0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fde5859755a4fd67b14afc7d8914cd1605c89583.png",
+      "small": "course/en/assets/fde5859755a4fd67b14afc7d8914cd1605c89583.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de5b",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd77",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddb4",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd28",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddb5",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd27",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "small": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de85",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd33",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/2fe19d532716f15da1f88dcfcfb5c64d6bbcf6d9.png",
+      "small": "course/en/assets/2fe19d532716f15da1f88dcfcfb5c64d6bbcf6d9.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dea7",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04ddb0",
+    "_type": "component",
+    "body": "<p>There are four key characteristics of successful open data initiatives. Can you recall them?</p>",
+    "displayTitle": "Are you ready for culture change? ",
+    "title": "Are you ready for culture change? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04deaa",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd7e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfd2ed084d5167a04e024",
+    "_layout": "left",
+    "_parentId": "58fdfd16d084d5167a04e023",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddb7",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/181d91f0a221244ed4b1d3a8b9b79dbda2af5933.png",
+      "small": "course/en/assets/181d91f0a221244ed4b1d3a8b9b79dbda2af5933.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddba",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f691dbd6222f3c49043dcd7242ff11b9dd98bee5.jpg",
+      "small": "course/en/assets/f691dbd6222f3c49043dcd7242ff11b9dd98bee5.jpg",
+      "attribution": "<a href=\"http://www.itoworld.com/product/visualisation-communication\" target=\"_blank\">Ito World Ltd</a> <span class='assetLicence'>[CC-BY-NC]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbb",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd24",
+    "_type": "component",
+    "body": "<p>Open data is <strong>data that anyone can access, use and share</strong>. Governments, businesses and individuals can use open data to bring about social, economic and environmental benefits.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What is open data?</li><li>What is data?</li><li>What makes data open?</li><li>Why do we need open data?</li></ul>",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbc",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd27",
+    "_type": "component",
+    "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness:</p>",
+    "displayTitle": "What makes data open?",
+    "title": "What makes data open?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Limitations",
+        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Cost",
+        "body": "<p>Open data must be free to use, but this does not mean that it must be free to access.</p>\n\n<p>There is often a cost to creating, maintaining and publishing usable data.</p>\n\n<p>Ideally, any fee for accessing open data should be no more than the reasonable reproduction cost of the unit of data that is requested.</p>\n\n<p>This reproduction cost tends to be negligible for many datasets.</p>\n\n<p>Live data and big data can incur ongoing costs related to reliable service provision.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reuse",
+        "body": "<p>Once the user has the data, they are free to use, reuse and redistribute it &ndash; even commercially.</p>\n\n<p>Open data is measured by what it can be used for, not by how it is made available.</p>\n\n<p>Aspects like format, structure and machine readability all make data more usable, and should all be carefully considered.</p>\n\n<p>However, these do not make the data more open.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbd",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2b",
+    "_type": "component",
+    "body": "<p><strong>Open data is driving innovation and growth in the private sector by...</strong></p><p>&nbsp;</p>",
+    "displayTitle": "Innovation and growth in business",
+    "title": "Q: Innovation and growth in business",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "being made available on the Web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "revealing opportunities to build new services and improve operations",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "motivating innovators to use government data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbe",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2e",
+    "_type": "component",
+    "body": "<p><span style=\"color:#FF0000\"><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></span></p><p>&nbsp;</p>",
+    "displayTitle": "Changing culture and environment",
+    "title": "Q: Changing culture and environment",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Demographic data from the census",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open data on people's salaries",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": " Open mapping data and aid statistics",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is helping to save lives. Open geographic data and aid statistics are used by humanitarian groups to deliver crucial supplies in disaster zones.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data is helping to save lives. Open geographic data and aid statistics are used by humanitarian groups to deliver crucial supplies in disaster zones.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbf",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd25",
+    "_type": "component",
+    "body": "<p>ODI Trainer Dr David Tarrant explains what data is, what makes it open and why we need open data.</p>",
+    "displayTitle": "Discovering open data – in 2 minutes",
+    "title": "Discovering open data – in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196637",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddc0",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd28",
+    "_type": "component",
+    "body": "<p>There are four helpful things to remember when thinking about opening your data. Can you remember them?</p>\n",
+    "displayTitle": "Are you ready for open data?",
+    "title": "Are you ready for open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddc2",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd31",
+    "_type": "component",
+    "body": "<p><strong>What are two critical relationship factors needed for a successful open data initiative?</strong></p>",
+    "displayTitle": "Leadership and engagement",
+    "title": "Q: Leadership and engagement",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Emotional intelligence and patience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Strong leadership and active engagement",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Friendliness and empathy",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Strong leadership and active engagement with key stakeholders is critical to a successful initiative.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Strong leadership and active engagement with key stakeholders is critical to a successful initiative.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddc3",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd32",
+    "_type": "component",
+    "body": "<p><strong>What contemporary approach should you take when planning for an open data initiative?</strong></p>",
+    "displayTitle": "Supply and demand",
+    "title": "Q: Supply and demand",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": " Publish data and hope people use it",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Think about my needs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Take the perspective of the consumer",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>With maturity in the open data community, many are now taking the perspective of the consumer and clarifying the benefits they could get from the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>With maturity in the open data community, many are now taking the perspective of the consumer and clarifying the benefits they could get from the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddc4",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd21",
+    "_type": "component",
+    "body": "<p><strong>People who drive open data initiatives need to spend most time...</strong></p>",
+    "displayTitle": "Culture change for new markets",
+    "title": "Q: Culture change for new markets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "overcoming barriers, building coalitions and driving forward change",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "talking to other data publishers",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "getting to know their own datasets",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": true,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data often requires change in the way an institution operates. People driving initiatives need to spend time overcoming barriers, building coalitions and driving forward change.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data often requires change in the way an institution operates. People driving initiatives need to spend time overcoming barriers, building coalitions and driving forward change.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddc5",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd33",
+    "_type": "component",
+    "body": "<p><strong>Governments, organisations and individuals should have free access to...</strong></p>",
+    "displayTitle": "Planning for change",
+    "title": "Q: Planning for change",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "big data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "everyone's open data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "key education, tools and guides",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddcd",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd3c",
+    "_type": "component",
+    "body": "<p><strong>What should you look for when assessing the sustainability of an open dataset?</strong></p>",
+    "displayTitle": "What should I look for when assessing sustainability?",
+    "title": "Q: What should I look for when assessing sustainability?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three of the options below and select 'Submit'",
+    "_items": [
+      {
+        "text": "The data's publishing history",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "How much it costs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Who is already using  the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "What format the data is in",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Who is funding the data's release",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddd5",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2d",
+    "_type": "component",
+    "body": "<p><strong>What is the benefit of having open transport data?</strong></p>",
+    "displayTitle": "Changing society and public policy",
+    "title": "Q: Changing society and public policy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": " Choose an answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": " It saves people time and improves access",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " It makes trains faster",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It makes tickets cheaper",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open transport data saves commuters time, makes journeys more accessible and streamlines access for tourists.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open transport data saves commuters time, makes journeys more accessible and streamlines access for tourists.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde2",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2a",
+    "_type": "component",
+    "body": "<p>Open data is&nbsp;<strong>data that anyone can access, use and share</strong>.</p><p>Open data is a raw material for the digital age but, unlike coal, timber or diamonds, it can be used by anyone and everyone at the same time.</p><p>Any restrictions imposed on the use of open data will limit its potential for creating new value.</p><p>Open data can bring diverse benefits to governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p><p>In the next module, we will explore how value is unlocked in open data.</p><p><a class=\"button\" href=\"#/id/5889d951b61c46e176e7e857\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
+    "displayTitle": "Open data",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde3",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd9f",
+    "_type": "component",
+    "body": "<p><strong>Data is...</strong></p>",
+    "displayTitle": "What is open data?",
+    "title": "Q: What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "information that we sell to businesses",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "data that anyone can access, use and share",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "data that is visible on the Web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data&nbsp;is&nbsp;<strong>data that anyone can access, use and share</strong>. Open data must also be licensed to allow free usage and be available for commercial use.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure? </strong></p><p>Open data&nbsp;is&nbsp;<strong>data that anyone can access, use and share</strong>. Open data must also be licensed to allow free usage and be available for commercial use.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde7",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda4",
+    "_type": "component",
+    "body": "<p>Open data has the power to help grow economies, transform societies and protect the environment.</p><p>Open data can help governments grow economies, improve service delivery and save on costs.</p><p>Open data can benefit society by improving the ways we move, the ways we work and the ways we govern.</p><p>Open data can help save lives and help us better understand the world in which we live.</p><p>Ready to get involved? In the next module, we explore how to engage in an open data initiative.</p><p><a class=\"button\" href=\"#/id/5889e11ab61c46e176e7e881\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
+    "displayTitle": "Ready to unlock value?",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde8",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda5",
+    "_type": "component",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment.</li></ul>",
+    "displayTitle": "Unlocking value from open data",
+    "title": "Unlocking value from open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddf0",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd5d",
+    "_type": "component",
+    "body": "<p>Implementing an open data initiative often involves cultural and institutional change.</p><p>Engaging with civil society, businesses and governments is an important part of the process.</p><p>As the open data community matures, many initiatives are taking user needs into account early on in planning their activities.</p><p>Open data requires us to think differently about the way the market for data functions.</p><p>In the next module, we&#39;ll look at simplifying open data licences.</p><p><a class=\"button\" href=\"#/id/588a2d9ab61c46e176e7e913\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
+    "displayTitle": "Open data: agent of change. ",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddf1",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04ddad",
+    "_type": "component",
+    "body": "<p>ODI International Development Manager Liz Carolan shares five characteristics of successful open data initiatives.</p>",
+    "displayTitle": "Engaging in open data initiatives - in 2 minutes",
+    "title": "Engaging in open data initiatives - in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196638",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddf2",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd5e",
+    "_type": "component",
+    "body": "<p>Implementing an open data initiative often involves cultural and institutional change.</p>\n\n<p>Opening data goes far beyond putting data on a website under an open licence. Applying the technology is the easy part &ndash; bringing about cultural change can be much harder.</p>\n",
+    "displayTitle": "Open data: agent of change. ",
+    "title": "Open data: agent of change. ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de01",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd77",
+    "_type": "component",
+    "body": "<p>When searching for sustainable sources of open data, it is important that they are relevant, up-to-date and accessible.</p><p>A sustainable programme is one that continues to release data regularly, with at least the same or improving quality and quantity.</p><p>Using simple indicators listed above, it is possible to identify sustainable sources of open data that can be used in your future work.</p><p>In the next module, we explore how open data platforms can simplify the process of publishing and using data.</p><p><a class=\"button\" href=\"#/id/58905843b61c46e176e7eb2a\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
+    "displayTitle": "Sustainable open data",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de02",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd79",
+    "_type": "component",
+    "body": "<p>ODI Startup Programme Manager Ulrich Atz explains the importance of sustainability for open data and why it matters to users. He also talks through some of the key indicators that an open data initiative is built to last.</p>",
+    "displayTitle": "Making open data sustainable – in 2 minutes",
+    "title": "Making open data sustainable – in 2 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129879004",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de03",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd7e",
+    "_type": "component",
+    "body": "<p>There are two helpful things to remember when thinking about sustainable open data, can you remember them?</p>",
+    "displayTitle": "Are you ready for sustainable open data?",
+    "title": "Are you ready for sustainable open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de15",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd29",
+    "_type": "component",
+    "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de16",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd29",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de17",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de18",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd9f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de19",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+      "small": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1a",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd22",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fdeda954d2e68fdc14ccff6e89926afe05c49d72.png",
+      "small": "course/en/assets/fdeda954d2e68fdc14ccff6e89926afe05c49d72.png",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/marketing-data-analytics-analyzing-statistics-chart-230887714\" target=\"_blank\">Bloomua </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1c",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c67d527f5744e3010185ef8f23121c27d8b08810.jpg",
+      "small": "course/en/assets/c67d527f5744e3010185ef8f23121c27d8b08810.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/abstract-circuit-city-computer-high-technology-128352227\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1d",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd5e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1e",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04ddaf",
+    "_type": "component",
+    "body": "<p>Active leadership and engagement helps foster successful open data initiatives and bring about positive change.</p>",
+    "displayTitle": "Leadership and engagement",
+    "title": "Leadership and engagement",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Active leadership",
+        "body": "<p>As an open data programme is launched, it is common for those driving it to meet some resistance from within their organisations.</p><p>Active support from senior figures can help to encourage institutional buy-in.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Active leadership"
+      },
+      {
+        "title": "Active engagement",
+        "body": "<p>Engagement with civil society, business and government are key aspects of any open data initiative.</p><p>Successful initiatives tend to start with an open dialogue between open data publishers and consumers.</p><p>This dialogue is important for both parties to understand the demand for data and opportunities to draw out its benefits.</p>",
+        "_graphic": {
+          "src": "course/en/assets/67a6ba703a03fcdfe35ffd5b7c2e431069a5239d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-82049359.html\" target=\"_blank\">Carsten Reisinger</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Active engagement"
+      },
+      {
+        "title": "Finding space to innovate",
+        "body": "<p>Strong leadership and active engagement with key stakeholders is key to any successful initiative.</p><p>Active leadership delivers a &#39;push&#39; from the organisation, active dialogue creates a &#39;pull&#39; from data users.</p><p>Open data leadership and dialogue unlock innovation opportunities by connecting problems with potential solutions.</p>",
+        "_graphic": {
+          "src": "course/en/assets/e9598d5d158af1eb24726e144c1701909c285214.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-33265168.html\" target=\"_blank\">Tonis Pan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Finding space to innovate"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1f",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd5f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
+      "small": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/creative-circle-abstract-vector-logo-design-245234284\" target=\"_blank\">Positive thinker</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de20",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd60",
+    "_type": "component",
+    "body": "<p>Applying technology is the easy part. Implementing culture change can be much harder.</p>",
+    "displayTitle": "Culture change for new markets",
+    "title": "Culture change for new markets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Identifying new markets",
+        "body": "<p>The traditional market for open data, where governments publish data for others to consume, has changed.</p><p>Governments, businesses and society are all now both suppliers and consumers of open data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "identifying new markets"
+      },
+      {
+        "title": "Culture change",
+        "body": "<p>Adopting open data will often require a change in the way an institution operates.</p><p>People driving initiatives need to spend time developing a shared vision, overcoming barriers and building coalitions for change.</p><p>Consumers should be empowered to engage with open data as a core part of their data infrastructure.</p>",
+        "_graphic": {
+          "src": "course/en/assets/92f6b3128eab84c503bd3d3a052cb1c2f27b60f6.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/beautiful-colorful-cityscape-on-mountains-over-257301595\" target=\"_blank\">Ana Omelchenko </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Culture change"
+      },
+      {
+        "title": "Planning for change",
+        "body": "<p>Ways to handle and plan for culture change are becoming clearer.</p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p><p>Pilots and practical initiatives play important roles in understanding the impact of open data and the change process. There are tools and guides to help you assess and plan for change, such as the ODI&#39;s Open Data Pathway.<br /><a href=\"http://pathway.theodi.org/\" target=\"_blank\">Take me to ODI Open Data Pathway</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "planning for change"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de21",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd31",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de22",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd32",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/12e02688090c26dda49cb0e1e91cda8556169546.png",
+      "small": "course/en/assets/12e02688090c26dda49cb0e1e91cda8556169546.png",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de23",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd21",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/56953b1782727172d50751bab77d8b79e6045303.jpg",
+      "small": "course/en/assets/56953b1782727172d50751bab77d8b79e6045303.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/creative-circle-abstract-vector-logo-design-245234284\" target=\"_blank\">Positive thinker</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de2a",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd24",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de4f",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda1",
+    "_type": "component",
+    "body": "<p><strong>Open data should be...</strong></p>",
+    "displayTitle": "What makes data open? ",
+    "title": "Q: What makes data open? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "free of restrictions for its use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "restricted in its use",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "selectively released for a fee",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>If something restricts the free use of the data, such as a non-commercial restriction, then this would not qualify as being open data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de50",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dda6",
+    "_type": "component",
+    "body": "<p>ODI Trainer Ben Cave examines how businesses and governments are unlocking value from open data and the positive impacts this has on the economy, society and the environment.</p>",
+    "displayTitle": "Unlocking value from open data – in 3 minutes",
+    "title": "Unlocking value from open data – in 3 minutes",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196639",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de51",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd59",
+    "_type": "component",
+    "body": "<p>There are lots of valuable examples of open data initiatives bringing social, economic and environmental benefits. Are you ready to join the open data movement?</p>",
+    "displayTitle": "Are you ready to unlock value from open data?",
+    "title": "Are you ready to unlock value from open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de5a",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd7a",
+    "_type": "component",
+    "body": "<p>A sustainable open dataset is supported by:</p><ul><li><strong>Secure funding</strong> to cover the cost of updates</li><li><strong>Active support</strong> of publishers to prioritise updates</li><li><strong>Wide reuse</strong> by others to demonstrate the value</li></ul>",
+    "displayTitle": "What makes open data sustainable?",
+    "title": "What makes open data sustainable?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de63",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd7d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5624fd7a19a9a820a965e5f793396f8dee441856.png",
+      "small": "course/en/assets/5624fd7a19a9a820a965e5f793396f8dee441856.png",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-3d-isometric-mobile-uiux-design-234298726?src=id\" target=\"_blank\">Sentavio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de6f",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2c",
+    "_type": "component",
+    "body": "<p><strong>Open data awareness is no longer a luxury for public servants, it is now...</strong></p><p>&nbsp;</p>",
+    "displayTitle": "Opportunities for government",
+    "title": "Q: Opportunities for government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose an answer, then click Submit",
+    "_items": [
+      {
+        "text": " a little more important than it used to be",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "something that should be researched more",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "a crucial part of modern service delivery",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is&nbsp;crucial part of modern service delivery in order to support the emergence of new data-driven businesses and the growth of existing ones.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data is&nbsp;crucial part of modern service delivery in order to support the emergence of new data-driven businesses and the growth of existing ones.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de71",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda0",
+    "_type": "component",
+    "body": "<p><strong>Data is...</strong></p>",
+    "displayTitle": "What is data?",
+    "title": "Q: What is data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "numbers, words, maps and photos.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "information posted on the Web.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the raw material of information and knowledge.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Data is the lowest level of raw material from which information and knowledge can be derived.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de75",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd59",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7b",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd7d",
+    "_type": "component",
+    "body": "<p>A sustainable release combines secure funding, active support and wide reuse. These traits are not always obvious when you first find a dataset. Ask yourself the following to help spot good sources:</p>",
+    "displayTitle": "Looking for clues",
+    "title": "Looking for clues",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to learn more.",
+    "_items": [
+      {
+        "title": "What is the source?",
+        "body": "<p>Ask yourself who has released the data and how much confidence you have in their commitment to continue to update it.<br />\n<br />\nOne of the most important indicators of sustainability is how confident you feel in the organisation who collects it.<br />\n<br />\nIf the data is from government, might an election or a change in priority affect its open release?</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who is funding the release?",
+        "body": "<p>Data available at no cost might seem ideal, but it&#39;s important to ask yourself how a publisher is funding its sustained release.<br />\n<br />\nAsk yourself whether the data is being released due to transparency pressures, or whether there is a wider beneficial use driving demand.<br />\n<br />\nTry to find out whether there is a specific short-term programme funding the data&#39;s availability or whether the release is part of the organisation&#39;s core strategy.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What does the licence say?",
+        "body": "<p>Licences can also offer clues about data&#39;s sustainability.<br />\n<br />\nWhen looking at a licence, ask yourself what the text might indicate about the dataset&#39;s future and the publisher&#39;s confidence in it? Does it contain a commitment to update it regularly?<br />\n<br />\nRemember that without a licence, data is not truly open. The licence gives you certainty that data can be freely used and shared.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who is already using the data?",
+        "body": "<p>The more widely a dataset is used, the more pressure there is for it to be sustained.<br />\n<br />\nAsk yourself who else is using this dataset and for what purposes.<br />\n<br />\nTry to find out whether the dataset is used internally by the publisher.<br />\n<br />\nBoth aspects indicate whether the publisher cares about the dataset and is under external pressure not to remove access to it, or change it for their own purposes.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "What is the publishing history? ",
+        "body": "<p>Assessing open data&#39;s sustainability ultimately depends on how much trust you place in its publisher.<br />\n<br />\nAsk yourself how long the dataset has been published for. A long history of updates is a good sign, but beware external factors such as project length or term in office. A key indicator of a sustainable initiative is one that outlives these external factors.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "How can I contribute?",
+        "body": "<p>Using a dataset yourself will help drive its demand and influence its sustainability.<br />\n<br />\nThink about joining any communities of practice that exist around the dataset.<br />\n<br />\nTry to find out whether the publisher plays an active role in these communities and whether they act upon feedback to improve their services.<br />\n<br />\nAsk yourself what value you can demonstrate that will enhance the sustainability that is ensured by the data publisher.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7d",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd26",
+    "_type": "component",
+    "body": "<p>Without data we can&rsquo;t build information, and without information there is no new knowledge.</p>",
+    "displayTitle": "From raw material to new information and knowledge",
+    "title": "From raw material to new information and knowledge",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived.</p><p>Think of data as those locations, images, descriptions, reviews and prices that form the basis of information that can help you plan a holiday, for example.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Data"
+      },
+      {
+        "title": "Information",
+        "body": "<p>Data becomes information when it is given a context.</p><p>Following on from the previous example, locations, images, descriptions and prices can all help provide information related to a tourist attraction.</p><p>The collection and presentation of data helps to form information.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366\" target=\"_blank\">Sachezi </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Information"
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information, and personalised for your needs.</p><p>Building knowledge is a process of turning information into choices.</p><p>Building on the previous example, knowing that no one in your family likes theme parks will help you to decide which places to avoid on holiday, and which would suit your family better.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7f",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "small": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de80",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "small": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de81",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd57",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de83",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a50b46f4a8bcfcd4c155cee6fb75d73848404523.png",
+      "small": "course/en/assets/a50b46f4a8bcfcd4c155cee6fb75d73848404523.png",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/marketing-data-analytics-analyzing-statistics-chart-230887714\" target=\"_blank\">Bloomau</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de84",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de8f",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd7a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/73b285754834c03b6985b5e625d747769a2581ca.jpg",
+      "small": "course/en/assets/73b285754834c03b6985b5e625d747769a2581ca.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/icon-tree-flat-abstract-background-web-199444121?src=id\" target=\"_blank\">32 pixels</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de90",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd7b",
+    "_type": "component",
+    "body": "<p>What factors help make an open dataset sustainable?</p>",
+    "displayTitle": "Making sense of sustainability in open data",
+    "title": "Making sense of sustainability in open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Secure funding for open data",
+        "body": "<p>Just because a dataset can be freely used does not mean there is no cost to collecting or releasing the data. Funding can be secured by:</p><ul><li>Charging for access or enhanced services</li><li>Funding from another source who supports open data publication</li><li>Demonstrating the ongoing value of open data to the organisation</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "funding"
+      },
+      {
+        "title": "Active support for open data",
+        "body": "<p>Making open data sustainable for an organisation usually requires the backing of its management, to make it a priority, and the support of staff responsible for maintaining quality.</p><p>Active support is most commonly achieved by a company committing to maintaining open data as part of its daily operations.</p>",
+        "_graphic": {
+          "src": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "active support"
+      },
+      {
+        "title": "Wide reuse of open data",
+        "body": "<p>Sustainable reuse is achieved when the services created with that data become critical to the success of the publisher&rsquo;s business. <span style=\"color:#FF0000\">The Berlin transport system Verkehrsverbund Berlin-Brandenburg&#39;s datasets are used by millions when they access transport apps like Citymapper. These apps drive usage of VBB services and, as such, VBB have a commitment in their digital strategy to regularly update the data.</span><br /><a href=\"https://citymapper.com/berlin\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Citymapper Berlin</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "wide reuse"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de91",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd7c",
+    "_type": "component",
+    "body": "<p>Why should I care whether or not the open data I work with is sustainable?</p>",
+    "displayTitle": "Why does sustainability matter?",
+    "title": "Why does sustainability matter?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Solid foundations",
+        "body": "<p>Sustainability is not just good for the users. The publisher also benefits from a sustainable open data programme by:</p><ul><li>Enhancing the trust of the community in the publisher&rsquo;s organisation.</li><li>Supporting the creation of new products and services.</li><li>Simplifying the publishers reuse of their own data.</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/8207089edb2bf2393f91154fe5aaa39b9d29b3b0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/circuit-tree-technology-vector-background-eps10-271074140?src=id\" target=\"_blank\">Saibarakova Ilona</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "solid foundations"
+      },
+      {
+        "title": "Enhances trust",
+        "body": "<p>Sustainable open data allows a large community to build and analyse data in order to draw their own conclusions, often in support of a publisher&#39;s view.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9d5f5fce1035ae6401a68ba71382523f0b5f814d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=246120358&src=lb-36497927\" target=\"_blank\">Arthimedes</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "trust"
+      },
+      {
+        "title": "Builds business connections",
+        "body": "<p>Sustained open data has the power to unlock new customer channels, enabling other businesses to build on a publisher&#39;s data. In many cases these businesses provide direct benefits back to the publisher.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3b332706e7b0a02ff4b967347347a3436f52cab0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/eps-beautiful-structure-dna-molecule-119824141?src=id\" target=\"_blank\">Palau</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "connections"
+      },
+      {
+        "title": "Improves data usability",
+        "body": "<p>One of the most frequent reusers of a publisher&#39;s data may well be the publisher. Why separate the public release of data from the internal data usage?</p>",
+        "_graphic": {
+          "src": "course/en/assets/670e2c72ad528439a4ebd9a4a94a271204c631f5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/composite-silver-cube-some-colorful-elements-165242216?src=id\" target=\"_blank\">LovArt</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "usability"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de92",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd3b",
+    "_type": "component",
+    "body": "<p><strong>Which of these does not influence the sustainability of an open dataset?</strong></p>",
+    "displayTitle": "What influences sustainability?",
+    "title": "Q: What influences sustainability?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "gmcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "small": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Secure funding",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/8fb6d4d70c7064c8f28ce8d330a0080de1dba953.png",
+          "small": "course/en/assets/8fb6d4d70c7064c8f28ce8d330a0080de1dba953.png",
+          "alt": "",
+          "attribution": "<a href=\"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg\" target=\"_blank\">Dave Matos</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "text": "Large filesize",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "small": "course/en/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Active support",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "small": "course/en/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Wide reuse",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>File size is not a factor in data&#39;s sustainability. What matter most are a secure source of funding, the active support of the publisher and wide reuse to generate value from the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>File size is not a factor in data&#39;s sustainability. What matter most are a secure source of funding, the active support of the publisher and wide reuse to generate value from the data</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de93",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd3c",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5cd083ff0fb8925ecd2ae1a3a01206a9d709331d.jpg",
+      "small": "course/en/assets/5cd083ff0fb8925ecd2ae1a3a01206a9d709331d.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de9a",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de9b",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04ddae",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de9c",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd78",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dea6",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04ddae",
+    "_type": "component",
+    "body": "<p>The most successful open data initiatives share similar characteristics. Understanding successful approaches can help unlock the value of open data.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>Open data as an agent of change</li><li>Leadership and engagement</li><li>Supply and demand</li><li>Culture change for new markets</li></ul>",
+    "displayTitle": "Open data: agent of change",
+    "title": "Open data: agent of change",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dea9",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd78",
+    "_type": "component",
+    "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful.</p><p>A sustainable open data programme is one that continues to release data regularly with at least the same or improving quality and quantity.</p><p><strong>In this module we&#39;ll explore the following:</strong></p><ul><li>How to make sense of sustainability</li><li>Why sustainability matters to you</li><li>What to look for in sustainable open datasets</li></ul>",
+    "displayTitle": "Why should we worry about sustainability?",
+    "title": "Why should we worry about sustainability?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfd30d084d5167a04e025",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "58fdfd16d084d5167a04e023",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic"
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7e",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd20",
+    "_type": "component",
+    "body": "<p>Open data can help bring diverse benefits to governments, businesses and civil society.</p>",
+    "displayTitle": "Why do we need open data?",
+    "title": "Why do we need open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transforming government",
+        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p><span style=\"color:#FF0000\">For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2bn in fraudulent charitable donations in 2010.</span><br /><a href=\"http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to David Eaves&#39; article</span></a></p><p><span style=\"color:#FF0000\">In another example, according to Follow the Money in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.</span><br /><a href=\"http://followthemoneyng.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Follow the Money</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/5137df5ae627c0cbfd5b8b2a267769e2878d7905.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/vector-graph-flat-illustration-255896113\" target=\"_blank\">Pretty Vectors</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Transforming government"
+      },
+      {
+        "title": "Building new business opportunities",
+        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p><span style=\"color:#FF0000\">Transport for London has released open data that developers have used to build over 800 transport apps.</span><br /><a href=\"http://www.tfl.gov.uk/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Transport for London</span></a></p><p><span style=\"color:#FF0000\">Thomson Reuters is using open data to connect with existing customers in order to provide better services.</span><br /><a href=\"http://site.thomsonreuters.com/site/data-identifiers/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Thomson Reuters</span></a></p><p><span style=\"color:#FF0000\">Find My School enables you to find the right school for you by location and exam results.</span><br /><a href=\"http://findmyschool.co.ke/discover\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Find My School</span></a></p><p><span style=\"color:#FF0000\">Startups in the ODI Startup programme now collectively employ over 70 people and generate over &pound;4m in income.</span><br /><a href=\"http://theodi.org/odis-second-year-annual-report\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the ODI annual report</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "building new business opportunities"
+      },
+      {
+        "title": "Protecting our planet",
+        "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p><span style=\"color:#FF0000\">Open data about weather can provide an early warning system for environmental disasters, for example.</span><br /><a href=\"http://www.un.org/apps/news/story.asp?NewsID=13077&amp;Cr=natural&amp;Cr1=disaster#.VVyWK_lVhBc\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the United Nations news centre</span></a></p><p><span style=\"color:#FF0000\">Open data is also helping consumers to understand their personal impacts on the environment, and take steps to improve it.</span><br /><a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Better Choices Better Deals report</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Protecting our planet"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de72",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda2",
+    "_type": "component",
+    "body": "<p><span style=\"color:#FF0000\"><strong>What does open data have the power to do (in Ukraine)?</strong></span></p>",
+    "displayTitle": "Why do we need open data?",
+    "title": "Q: Why do we need open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Give access to other datasets",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Make governments accountable",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Unlock social, environmental and economic value",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data can transform interaction between governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open data can transform interaction between governments, businesses and individuals. It has the power to help improve services, grow economies and protect our planet.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde9",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd22",
+    "_type": "component",
+    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p><span style=\"color:#FF0000\">In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;</span><a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\"><span style=\"color:#FF0000\">city&#39;s most affordable coffees</span></a><span style=\"color:#FF0000\">, while, in Iceland, farmers are using&nbsp;</span><a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\"><span style=\"color:#FF0000\">open data about the quality of their lambs</span></a><span style=\"color:#FF0000\">&nbsp;to attract new customers.</span></p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
+    "displayTitle": "Innovation and growth in businesses",
+    "title": "Innovation and growth in businesses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1b",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dda7",
+    "_type": "component",
+    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>",
+    "displayTitle": "Opportunities for government",
+    "title": "Opportunities for government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supporting growing economies",
+        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructure that connects data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy, such as <span style=\"color:#FF0000\">in Finland where SMEs with access to open data grew 15% faster than those without.</span></p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Finnish case study</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/e2c2011c9ba973cec7573535fe786c58dca96518.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/abstract-circuit-city-computer-high-technology-128352227\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Supporting growing economies"
+      },
+      {
+        "title": "Improved service delivery",
+        "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential to improving delivery of services at the local level.</p><p><span style=\"color:#FF0000\">Some of these new services are available now:&nbsp;</span><br /><a href=\"https://www.mysociety.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to mySociety</span></a><span style=\"color:#FF0000\">&nbsp;</span><br /><a href=\"http://kimittud.atlatszo.hu/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Hungarian &#39;right to know&#39; portal</span></a><span style=\"color:#FF0000\">&nbsp;</span><br /><a href=\"http://www.fiksgatami.no/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Fix my Street Norway</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Improved service delivery"
+      },
+      {
+        "title": "Cost savings",
+        "body": "<p>Open data allows governments to make savings in key areas such as healthcare, education and utilities.</p><p><span style=\"color:#FF0000\">In the UK, open data helped reveal&nbsp;</span><a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\" target=\"_blank\"><span style=\"color:#FF0000\">&pound;200 million of savings</span></a><span style=\"color:#FF0000\">&nbsp;in the health service.</span></p><p><span style=\"color:#FF0000\">In France, energy data is being used to drive more efficient energy generation practices.</span><br /><a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the France energy data.</span></a></p><p><span style=\"color:#FF0000\">Open data can also bring transparency to budgets. In Switzerland, the canton of Bern presented their&nbsp;</span><a href=\"http://be-asp.budget.opendata.ch/\" target=\"_blank\"><span style=\"color:#FF0000\">&euro;400m annual saving</span></a><span style=\"color:#FF0000\">&euro;400m annual saving&nbsp;to the public using open data.</span></p>",
+        "_graphic": {
+          "src": "course/en/assets/52602f16682ed9e87ec9785f93059e164b1f261a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/numbers-background-blue-abstract-75494491\" target=\"_blank\">vlastas</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Cost savings"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de74",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd57",
+    "_type": "component",
+    "body": "<p>Open data is unlocking new social value and enabling better targeted public policies.</p>",
+    "displayTitle": "Changing societies and public policy",
+    "title": "Changing societies and public policy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Improving the way we move",
+        "body": "<p>Open data has the power to revolutionise the way we travel.</p><p>All over the world open transport data allows companies like Citymapper and Google to give people accurate transport information. This not only helps people understand and use complex transport systems, it also decreases the number of people in cars and increases revenue for public transport systems.</p><p><span style=\"color:#FF0000\">Efforts have already begun in Tanzania to open up transport data relating to the Dar es Salaam rapid transit system. The data is being collected and made available through openstreetmap, a collaborative tool that enables anyone to access and use the data, even commercially.</span><br /><a href=\"https://wiki.openstreetmap.org/wiki/Dar_es_Salaam/Transport\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the DART data on openstreetmap</span></a></p><p><span style=\"color:#FF0000\">Within the Dutch transport industry, open data is helping a growing number of small companies to develop new services.</span></p><p><span style=\"color:#FF0000\">A new Dutch app, winner of the prestigious Apps4Europe competition, helps disabled people to book travel assistance for their journeys using open data.</span></p><p>Open transport data saves commuters time, makes journeys more accessible and helps tourists to travel in unfamiliar cities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Improving the way we work",
+        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p><span style=\"color:#FF0000\">OpenCorporates offers an open database of companies around the world, showing their networks, financial stability and environmental impact. This helps organisations learn more about prospective clients, providers and partners.</span><br /><a href=\"https://opencorporates.com/info/about\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to OpenCorporates</span></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Improving the way we govern",
+        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p><span style=\"color:#FF0000\">For example, an analysis of the open data around fire station closures in london helped demonstrate which stations could be closed with the least impact on services.</span></p><p><a href=\"http://london-fire.labs.theodi.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to London fire station analysis</span></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de82",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd58",
+    "_type": "component",
+    "body": "<p>Open data is helping people target initiatives for cultural and environmental benefits.</p>",
+    "displayTitle": "Benefiting culture and the environment",
+    "title": "Benefiting culture and the environment",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Environment",
+        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p><span style=\"color:#FF0000\">Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.</span><br /><a href=\"https://www.plantwise.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Plantwise</span></a></p><p><span style=\"color:#FF0000\">CIARD has produced a central repository of more than 1,500 open agricultural research collections worldwide, highlighting new research opportunities.</span><br /><a href=\"http://www.ciard.net/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to CIARD</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/variation-lentils-beans-peas-grain-soybeans-94664593\" target=\"_blank\">Madlen</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Environment"
+      },
+      {
+        "title": "Saving lives",
+        "body": "<p>Open data is helping to save lives. Open geographic data and aid statistics are being used by humanitarian groups to deliver targeted supplies in disaster zones.</p><p><span style=\"color:#FF0000\">Open mapping data helped disaster response teams target aid delivery during the 2010 Haiti earthquake.</span><br /><a href=\"http://hotosm.org/projects/haiti-2\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the Haiti Open Street Map.</span></a></p><p><span style=\"color:#FF0000\">Open data was also used for responses to the Philippines typhoon in 2014.</span></p><p><span style=\"color:#FF0000\">Open data is also being used to track the Ebola virus outbreak in West Africa in 2015.</span><br /><a href=\"https://web.archive.org/web/20160123072141/http://www.eboladata.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the Ebola open data jam.</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/052ae206817001d25e571d74799a4785a9397bd0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.itoworld.com/product/visualisation-communication\" target=\"_blank\">Ito World Ltd</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Saving lives"
+      },
+      {
+        "title": "Culture",
+        "body": "<p>Open data is connecting people with important cultural issues and helping to shape a more informed debate around them.</p><p><span style=\"color:#FF0000\">OpenGLAM is helping to capture the heritage and cultural memories of groups in Germany, Switzerland and Finland.</span><br /><a href=\"http://openglam.org/\" target=\"blank\"><span style=\"color:#FF0000\">Take me to OpenGLAM.</span></a></p><p><span style=\"color:#FF0000\">The Open Data Institute is leading a global Data as Culture programme, with artists in residence re-examining the fundamental ways in which data is perceived.</span><br /><a href=\"http://theodi.org/culture\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to ODI Data as Culture</span></a></p>",
+        "_graphic": {
+          "src": "course/en/assets/82205b0fb35887422d2503dae34faa3603d243f9.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/ukodi/13400679614/in/album-72157642859056285/\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Culture"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddf3",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd5f",
+    "_type": "component",
+    "body": "<p>When examining an open data initiative, consider the following:</p>",
+    "displayTitle": "Supply and demand",
+    "title": "Supply and demand",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the headings to explore further.",
+    "_items": [
+      {
+        "title": "Your approach",
+        "body": "<p>Many open data publishers have taken the approach of building a portal, publishing the data they have, and hoping it is what consumers want or need.</p>\n\n<p>As open data literacy grows, people are starting to think first about the needs of data consumers and shape their initiatives accordingly.</p>\n\n<p>A staged approach helps to ensure that an organisation can walk before it tries to run, and achieves change in small, noticeable steps, rather than setting ambitious goals that are hard to meet.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who wants your data?",
+        "body": "<p>There is little point in publishing open data if there is no one prepared or motivated to create new value from it.</p>\n\n<p>It is often best to focus on demand that currently exists.</p>\n\n<p>Use existing consumer dialogues, opinion surveys or &lsquo;vox pops&rsquo; to see where the demand is, and follow it.</p>\n\n<p>Think about problems that already exist and how your data relates to them. Offer your data as a tool to help build solutions.</p>\n",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Who will use and support your data?",
+        "body": "<p>A successful open data initiative has an engaged community who actively use the data, with access to resources that support them.</p><p>A strong community of open data reusers has a sense of ownership over the data. This ownership should cover both the data and the outputs generated from it.</p><p>It is important for publishers and consumers to fully understand each others&rsquo; perspectives.</p><p><span style=\"color:#FF0000\">A good example of a strong open data community is the Open Street Map project.</span><br /><a href=\"https://www.openstreetmap.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Open Street Map project</span></a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]

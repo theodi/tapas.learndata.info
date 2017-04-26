@@ -1,0 +1,171 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
+    },
+    "_id": "58fdfc5ed084d5167a04dceb",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "1. What is open data?",
+    "title": "1. What is open data?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the need for open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
+    },
+    "_id": "58fdfc5ed084d5167a04dcea",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "2. Unlocking value from open data",
+    "title": "2. Unlocking value from open data",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the benefits of working with open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Describe successful case studies of using and publishing open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
+    },
+    "_id": "58fdfc5ed084d5167a04dcf1",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "3. Open data: agent of change",
+    "title": "3. Open data: agent of change",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the importance of organisational change to an open data iniative",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Define key aspects of open data leadership",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_id": "58fdfd16d084d5167a04e021",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "4. Open data charter",
+    "title": "4. Open data charter",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
+    },
+    "_id": "58fdfc5ed084d5167a04dced",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "5. Why should we worry about sustainability?",
+    "title": "5. Why should we worry about sustainability?",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe key success factors for open data sustainability",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Evaluate sustainability for an open dataset",
+          "credits": 10,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]
