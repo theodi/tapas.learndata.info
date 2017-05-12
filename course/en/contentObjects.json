@@ -74,9 +74,9 @@
   {
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
+      "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dcf1",
+    "_id": "59158abfd084d5167a04e35b",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -86,17 +86,17 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "3. Open data: agent of change",
-    "title": "3. Open data: agent of change",
+    "displayTitle": "3. What makes quality open data",
+    "title": "3. What makes quality open data",
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the importance of organisational change to an open data iniative",
+          "outcome": "Define the benefits of quality open data",
           "credits": 5,
           "level": "explorer"
         },
         {
-          "outcome": "Define key aspects of open data leadership",
+          "outcome": "Describe two guidelines for open data quality",
           "credits": 5,
           "level": "explorer"
         }
@@ -160,6 +160,42 @@
           "outcome": "Evaluate sustainability for an open dataset",
           "credits": 10,
           "level": "strategist"
+        }
+      ]
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
+    },
+    "_id": "58fdfc5ed084d5167a04dcf1",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "",
+    "displayTitle": "3. Open data: agent of change",
+    "title": "3. Open data: agent of change",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe the importance of organisational change to an open data iniative",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Define key aspects of open data leadership",
+          "credits": 5,
+          "level": "explorer"
         }
       ]
     },
