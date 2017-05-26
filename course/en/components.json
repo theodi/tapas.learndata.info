@@ -192,23 +192,6 @@
     }
   },
   {
-    "_id": "58fdfd2ed084d5167a04e024",
-    "_layout": "left",
-    "_parentId": "58fdfd16d084d5167a04e023",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58fdfc5fd084d5167a04ddb7",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dda4",
@@ -398,7 +381,7 @@
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd2e",
     "_type": "component",
-    "body": "<p><span style=\"color:#FF0000\"><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></span></p><p>&nbsp;</p>",
+    "body": "<p><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></p><p>&nbsp;</p>",
     "displayTitle": "Changing culture and environment",
     "title": "Q: Changing culture and environment",
     "_isAvailable": true,
@@ -1280,23 +1263,6 @@
     "body": "<p>There are two helpful things to remember when thinking about sustainable open data, can you remember them?</p>",
     "displayTitle": "Are you ready for sustainable open data?",
     "title": "Are you ready for sustainable open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de15",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd29",
-    "_type": "component",
-    "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p>Open data must be licensed. Its licence must permit people to use the data in any way they want, including transforming, combining and sharing it with others, even commercially.</p>",
-    "displayTitle": "What is open data?",
-    "title": "What is open data?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2346,7 +2312,7 @@
       },
       {
         "title": "Wide reuse of open data",
-        "body": "<p>Sustainable reuse is achieved when the services created with that data become critical to the success of the publisher&rsquo;s business. <span style=\"color:#FF0000\">The Berlin transport system Verkehrsverbund Berlin-Brandenburg&#39;s datasets are used by millions when they access transport apps like Citymapper. These apps drive usage of VBB services and, as such, VBB have a commitment in their digital strategy to regularly update the data.</span><br /><a href=\"https://citymapper.com/berlin\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Citymapper Berlin</span></a></p>",
+        "body": "<p>Sustainable reuse is achieved when the services created with that data become critical to the success of the publisher&rsquo;s business. The Berlin transport system Verkehrsverbund Berlin-Brandenburg&#39;s datasets are used by millions when they access transport apps like Citymapper. These apps drive usage of VBB services and, as such, VBB have a commitment in their digital strategy to regularly update the data.<br /><a href=\"https://citymapper.com/berlin\" target=\"_blank\">Take me to Citymapper Berlin</a></p>",
         "_graphic": {
           "src": "course/en/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
           "alt": "",
@@ -2653,71 +2619,6 @@
     "instruction": ""
   },
   {
-    "_id": "58fdfd30d084d5167a04e025",
-    "_layout": "right",
-    "_type": "component",
-    "_parentId": "58fdfd16d084d5167a04e023",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic"
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de7e",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd20",
-    "_type": "component",
-    "body": "<p>Open data can help bring diverse benefits to governments, businesses and civil society.</p>",
-    "displayTitle": "Why do we need open data?",
-    "title": "Why do we need open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Transforming government",
-        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p><span style=\"color:#FF0000\">For example, according to leading open government activist David Eaves, open data allowed citizens in Canada to save the government $3.2bn in fraudulent charitable donations in 2010.</span><br /><a href=\"http://eaves.ca/2010/04/14/case-study-open-data-and-the-public-purse/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to David Eaves&#39; article</span></a></p><p><span style=\"color:#FF0000\">In another example, according to Follow the Money in Nigeria, the same process is used to ensure that public funds are spent implementing the policies promised to the people.</span><br /><a href=\"http://followthemoneyng.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Follow the Money</span></a></p>",
-        "_graphic": {
-          "src": "course/en/assets/5137df5ae627c0cbfd5b8b2a267769e2878d7905.png",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/vector-graph-flat-illustration-255896113\" target=\"_blank\">Pretty Vectors</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Transforming government"
-      },
-      {
-        "title": "Building new business opportunities",
-        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p><span style=\"color:#FF0000\">Transport for London has released open data that developers have used to build over 800 transport apps.</span><br /><a href=\"http://www.tfl.gov.uk/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Transport for London</span></a></p><p><span style=\"color:#FF0000\">Thomson Reuters is using open data to connect with existing customers in order to provide better services.</span><br /><a href=\"http://site.thomsonreuters.com/site/data-identifiers/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Thomson Reuters</span></a></p><p><span style=\"color:#FF0000\">Find My School enables you to find the right school for you by location and exam results.</span><br /><a href=\"http://findmyschool.co.ke/discover\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Find My School</span></a></p><p><span style=\"color:#FF0000\">Startups in the ODI Startup programme now collectively employ over 70 people and generate over &pound;4m in income.</span><br /><a href=\"http://theodi.org/odis-second-year-annual-report\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the ODI annual report</span></a></p>",
-        "_graphic": {
-          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "building new business opportunities"
-      },
-      {
-        "title": "Protecting our planet",
-        "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p><span style=\"color:#FF0000\">Open data about weather can provide an early warning system for environmental disasters, for example.</span><br /><a href=\"http://www.un.org/apps/news/story.asp?NewsID=13077&amp;Cr=natural&amp;Cr1=disaster#.VVyWK_lVhBc\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the United Nations news centre</span></a></p><p><span style=\"color:#FF0000\">Open data is also helping consumers to understand their personal impacts on the environment, and take steps to improve it.</span><br /><a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Better Choices Better Deals report</span></a></p>",
-        "_graphic": {
-          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Protecting our planet"
-      }
-    ]
-  },
-  {
     "_id": "58fdfc60d084d5167a04de72",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dda2",
@@ -2800,7 +2701,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd22",
     "_type": "component",
-    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p><span style=\"color:#FF0000\">In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;</span><a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\"><span style=\"color:#FF0000\">city&#39;s most affordable coffees</span></a><span style=\"color:#FF0000\">, while, in Iceland, farmers are using&nbsp;</span><a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\"><span style=\"color:#FF0000\">open data about the quality of their lambs</span></a><span style=\"color:#FF0000\">&nbsp;to attract new customers.</span></p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
+    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while, in Iceland, farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
     "displayTitle": "Innovation and growth in businesses",
     "title": "Innovation and growth in businesses",
     "_isAvailable": true,
@@ -2834,7 +2735,7 @@
     "_items": [
       {
         "title": "Supporting growing economies",
-        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructure that connects data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy, such as <span style=\"color:#FF0000\">in Finland where SMEs with access to open data grew 15% faster than those without.</span></p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Finnish case study</span></a></p>",
+        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructure that connects data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy, such as in Finland where SMEs with access to open data grew 15% faster than those without.</p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>",
         "_graphic": {
           "src": "course/en/assets/e2c2011c9ba973cec7573535fe786c58dca96518.jpg",
           "alt": "",
@@ -2844,7 +2745,7 @@
       },
       {
         "title": "Improved service delivery",
-        "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential to improving delivery of services at the local level.</p><p><span style=\"color:#FF0000\">Some of these new services are available now:&nbsp;</span><br /><a href=\"https://www.mysociety.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to mySociety</span></a><span style=\"color:#FF0000\">&nbsp;</span><br /><a href=\"http://kimittud.atlatszo.hu/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Hungarian &#39;right to know&#39; portal</span></a><span style=\"color:#FF0000\">&nbsp;</span><br /><a href=\"http://www.fiksgatami.no/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Fix my Street Norway</span></a></p>",
+        "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential to improving delivery of services at the local level.</p><p>There are over 17,000 schools in Ukraine, the Open School Project is the only service that provides detailed information about all of them. Open data allows the Open School Project to scale easily while providing a valuable service to citizens.<br /><a href=\"https://danimist.org.ua/uk/news/vidkryta-shkola-servis-iz-danymy-pro-17000-ukrayinskyh-shkil\" target=\"_blank\">Take me to the Open School Project</a></p><p>Examples of other local services include Fix my Street who allow citizens to report maintenance issues in their neighbourhood to the local councils.<br /><a href=\"http://www.fiksgatami.no/\" target=\"_blank\">Take me to Fix my Street Norway</a></p>",
         "_graphic": {
           "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
           "alt": "",
@@ -2854,7 +2755,7 @@
       },
       {
         "title": "Cost savings",
-        "body": "<p>Open data allows governments to make savings in key areas such as healthcare, education and utilities.</p><p><span style=\"color:#FF0000\">In the UK, open data helped reveal&nbsp;</span><a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\" target=\"_blank\"><span style=\"color:#FF0000\">&pound;200 million of savings</span></a><span style=\"color:#FF0000\">&nbsp;in the health service.</span></p><p><span style=\"color:#FF0000\">In France, energy data is being used to drive more efficient energy generation practices.</span><br /><a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the France energy data.</span></a></p><p><span style=\"color:#FF0000\">Open data can also bring transparency to budgets. In Switzerland, the canton of Bern presented their&nbsp;</span><a href=\"http://be-asp.budget.opendata.ch/\" target=\"_blank\"><span style=\"color:#FF0000\">&euro;400m annual saving</span></a><span style=\"color:#FF0000\">&euro;400m annual saving&nbsp;to the public using open data.</span></p>",
+        "body": "<p>Open data allows governments to make savings in key areas such as healthcare, education and utilities.</p><p>In the UK, open data helped reveal&nbsp;<a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\" target=\"_blank\">&pound;200 million of savings</a>&nbsp;in the health service.</p><p>In Ukraine, Prozorro is reporting over 800 million of savings for due to its open contracting procurement reforms. Additionally they have published all the results as open data via an interactive dashboard.<br /><a href=\"http://bi.prozorro.org/sense/app/fba3f2f2-cf55-40a0-a79f-b74f5ce947c2/sheet/HbXjQep/state/analysis\" target=\"_blank\">Take me to the Prozorro dashboard</a></p><p>In France, energy data is being used to drive more efficient energy generation practices.<br /><a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\">Show me the France energy data.</a></p>",
         "_graphic": {
           "src": "course/en/assets/52602f16682ed9e87ec9785f93059e164b1f261a.jpg",
           "alt": "",
@@ -2883,7 +2784,7 @@
     "_items": [
       {
         "title": "Improving the way we move",
-        "body": "<p>Open data has the power to revolutionise the way we travel.</p><p>All over the world open transport data allows companies like Citymapper and Google to give people accurate transport information. This not only helps people understand and use complex transport systems, it also decreases the number of people in cars and increases revenue for public transport systems.</p><p><span style=\"color:#FF0000\">Efforts have already begun in Tanzania to open up transport data relating to the Dar es Salaam rapid transit system. The data is being collected and made available through openstreetmap, a collaborative tool that enables anyone to access and use the data, even commercially.</span><br /><a href=\"https://wiki.openstreetmap.org/wiki/Dar_es_Salaam/Transport\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the DART data on openstreetmap</span></a></p><p><span style=\"color:#FF0000\">Within the Dutch transport industry, open data is helping a growing number of small companies to develop new services.</span></p><p><span style=\"color:#FF0000\">A new Dutch app, winner of the prestigious Apps4Europe competition, helps disabled people to book travel assistance for their journeys using open data.</span></p><p>Open transport data saves commuters time, makes journeys more accessible and helps tourists to travel in unfamiliar cities.</p>",
+        "body": "<p>Open data has the power to revolutionise the way we travel.</p><p>All over the world open transport data allows companies like Citymapper and Google to give people accurate transport information. This not only helps people understand and use complex transport systems, it also decreases the number of people in cars and increases revenue for public transport systems.</p><p dir=\"ltr\">Open transport data is estimated to provide time savings for commuters in London of between &pound;15 and &pound;58m a year and that was in 2012.<br /><a href=\"http://odimpact.org/case-united-kingdoms-transport-for-london.html\" target=\"_blank\">Take me to the case study</a></p><p>Within the Dutch transport industry, open data is helping a growing number of small companies to develop new services.</p><p>A new Dutch app, winner of the prestigious Apps4Europe competition, helps disabled people to book travel assistance for their journeys using open data.</p><p>Open transport data saves commuters time, makes journeys more accessible and helps tourists to travel in unfamiliar cities.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2893,7 +2794,7 @@
       },
       {
         "title": "Improving the way we work",
-        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p><span style=\"color:#FF0000\">OpenCorporates offers an open database of companies around the world, showing their networks, financial stability and environmental impact. This helps organisations learn more about prospective clients, providers and partners.</span><br /><a href=\"https://opencorporates.com/info/about\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to OpenCorporates</span></a></p>",
+        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p>For example YouControl is using open data on corporations to help businesses identify the best partners for different projects. This saves time manually searching for the best partners while identifying those who may not be known.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2903,7 +2804,7 @@
       },
       {
         "title": "Improving the way we govern",
-        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p><span style=\"color:#FF0000\">For example, an analysis of the open data around fire station closures in london helped demonstrate which stations could be closed with the least impact on services.</span></p><p><a href=\"http://london-fire.labs.theodi.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to London fire station analysis</span></a></p>",
+        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p>In Ukraine the Better Regulation Delivery Office uses open data to ensure that the Ministry of Health is using up to date regulations that match international standards. This helps develop the ministry provide an innovative service that allows physicians to use evidence-based medicine instead of the authority-based medicine.<br /><a href=\"http://en.brdo.com.ua/main/international-clinical-protocols-medicine-based-evidence/\" target=\"_blank\">Take me to the Better Regulation Delivery Office</a></p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2936,7 +2837,7 @@
     "_items": [
       {
         "title": "Environment",
-        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p><span style=\"color:#FF0000\">Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.</span><br /><a href=\"https://www.plantwise.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to Plantwise</span></a></p><p><span style=\"color:#FF0000\">CIARD has produced a central repository of more than 1,500 open agricultural research collections worldwide, highlighting new research opportunities.</span><br /><a href=\"http://www.ciard.net/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to CIARD</span></a></p>",
+        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p dir=\"ltr\">In the Ukraine Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.<br /><a href=\"http://agrieye.itc.ms/\" target=\"_blank\">Take me to Agri Eye</a></p><p>Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.<br /><a href=\"https://www.plantwise.org/\" target=\"_blank\">Take me to Plantwise</a></p>",
         "_graphic": {
           "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
           "alt": "",
@@ -2946,7 +2847,7 @@
       },
       {
         "title": "Saving lives",
-        "body": "<p>Open data is helping to save lives. Open geographic data and aid statistics are being used by humanitarian groups to deliver targeted supplies in disaster zones.</p><p><span style=\"color:#FF0000\">Open mapping data helped disaster response teams target aid delivery during the 2010 Haiti earthquake.</span><br /><a href=\"http://hotosm.org/projects/haiti-2\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the Haiti Open Street Map.</span></a></p><p><span style=\"color:#FF0000\">Open data was also used for responses to the Philippines typhoon in 2014.</span></p><p><span style=\"color:#FF0000\">Open data is also being used to track the Ebola virus outbreak in West Africa in 2015.</span><br /><a href=\"https://web.archive.org/web/20160123072141/http://www.eboladata.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Show me the Ebola open data jam.</span></a></p>",
+        "body": "<p>Open data is helping to save lives. Open geographic data and aid statistics are being used by humanitarian groups to deliver targeted supplies in disaster zones.</p><p>Open mapping data helped disaster response teams target aid delivery during the 2010 Haiti earthquake.<br /><a href=\"http://hotosm.org/projects/haiti-2\" target=\"_blank\">Show me the Haiti Open Street Map.</a></p><p>Open data was also used for responses to the Philippines typhoon in 2014.</p><p>Open data is also being used to track the Ebola virus outbreak in West Africa in 2015.<br /><a href=\"https://web.archive.org/web/20160123072141/http://www.eboladata.org/\" target=\"_blank\">Show me the Ebola open data jam.</a></p>",
         "_graphic": {
           "src": "course/en/assets/052ae206817001d25e571d74799a4785a9397bd0.jpg",
           "alt": "",
@@ -2956,7 +2857,7 @@
       },
       {
         "title": "Culture",
-        "body": "<p>Open data is connecting people with important cultural issues and helping to shape a more informed debate around them.</p><p><span style=\"color:#FF0000\">OpenGLAM is helping to capture the heritage and cultural memories of groups in Germany, Switzerland and Finland.</span><br /><a href=\"http://openglam.org/\" target=\"blank\"><span style=\"color:#FF0000\">Take me to OpenGLAM.</span></a></p><p><span style=\"color:#FF0000\">The Open Data Institute is leading a global Data as Culture programme, with artists in residence re-examining the fundamental ways in which data is perceived.</span><br /><a href=\"http://theodi.org/culture\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to ODI Data as Culture</span></a></p>",
+        "body": "<p>Open data is connecting people with important cultural issues and helping to shape a more informed debate around them.</p><p>OpenGLAM is helping to capture the heritage and cultural memories of groups in Germany, Switzerland and Finland.<br /><a href=\"http://openglam.org/\" target=\"blank\">Take me to OpenGLAM.</a></p><p>The Open Data Institute is leading a global Data as Culture programme, with artists in residence re-examining the fundamental ways in which data is perceived.<br /><a href=\"http://theodi.org/culture\" target=\"_blank\">Take me to ODI Data as Culture</a></p>",
         "_graphic": {
           "src": "course/en/assets/82205b0fb35887422d2503dae34faa3603d243f9.jpg",
           "alt": "",
@@ -3681,7 +3582,7 @@
     "_items": [
       {
         "title": "Legal requirements",
-        "body": "<p><span style=\"color:#FF0000\">In addition to the open licence, there are three legal requirements that need to be considered. </span></p><p><span style=\"color:#FF0000\">You must:</span></p><ul><li><span style=\"color:#FF0000\">Protect sensitive information like personal data.</span></li><li><span style=\"color:#FF0000\">Preserve the rights of data owners.</span></li><li><span style=\"color:#FF0000\">Promote correct use of the data.</span></li></ul>",
+        "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered.</p><p>You must:</p><ul><li>Protect sensitive information like personal data.</li><li>Preserve the rights of data owners.</li><li>Promote correct use of the data.</li></ul>",
         "_graphic": {
           "src": "course/en/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
           "alt": "",
@@ -3720,5 +3621,717 @@
         "strapline": "network"
       }
     ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de15",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd29",
+    "_type": "component",
+    "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p dir=\"ltr\">In Ukraine, open data is part of the law and all open data must be made available with the following conditions of use.</p><p dir=\"ltr\">УМОВИ ВИКОРИСТАННЯ</p><p dir=\"ltr\">Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов&rsquo;язкови м посиланням на джерело отримання такої інформації.</p><p dir=\"ltr\">Conditions of the use</p><p>Anyone is free to copy, publish, distribute, use, including for commercial purposes, in conjunction with other information, or by the inclusion of its own product in the form of public information from open data of mandatory reference to the source of such information.</p>",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7e",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd20",
+    "_type": "component",
+    "body": "<p>Open data can help bring diverse benefits to governments, businesses and civil society.</p>",
+    "displayTitle": "Why do we need open data?",
+    "title": "Why do we need open data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transforming government",
+        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, search and analysis system .007 provides a way of monitoring public budget expenditures and helps identify any abuse in spending. The web-based system provides access to open data and visualisations that help ease the consumption and understanding of specific information from large datasets.<br /><a href=\"http://www.007.org.ua\" target=\"_blank\">Take me to .007</a></p><p dir=\"ltr\">Election Guard - a service for analysis and visualisation of open data on elections in Ukraine is based on publically available data from the State Register of Voters.<br /><a href=\"http://openvote.in.ua\" target=\"_blank\">Take me to election guard</a></p><p dir=\"ltr\">Perhaps the most transformative is what Ukraine is doing with Prozorro and its open contracting procurement reforms. Since the programme&#39;s inception, open contracting and procurement has resulted in a 15% increase in competition from 45% more suppliers who hadn&rsquo;t bid before. This increase in competition has also resulted in 10% saving in spending.<br /><a href=\"http://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/?utm_content=buffer60ceb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\" target=\"_blank\">Take me to Prozorro</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/5137df5ae627c0cbfd5b8b2a267769e2878d7905.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/vector-graph-flat-illustration-255896113\" target=\"_blank\">Pretty Vectors</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Transforming government"
+      },
+      {
+        "title": "Building new business opportunities",
+        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p dir=\"ltr\">Opendatabot is a service that uses open data to allow users to monitor registration of Ukrainian companies and court register. With this information, it is possible to procure more effective contractors and protect against corporate raids.<br /><a href=\"https://opendatabot.com/en\" target=\"_blank\">Take me to Opendatabot</a></p><p dir=\"ltr\">Similarly YouControl is using the same corporation data to help businesses identify the best partners for different projects.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p><p>Startups in the ODI Startup programme now collectively employ over 70 people and generate over &pound;4m in income.<br /><a href=\"http://theodi.org/odis-second-year-annual-report\" target=\"_blank\">Take me to the ODI annual report</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "building new business opportunities"
+      },
+      {
+        "title": "Protecting our planet",
+        "body": "<p>The web has become a core part of our infrastructure and open data will build on this.</p><p>Open data about weather can provide an early warning system for environmental disasters, for example.<br /><a href=\"http://www.un.org/apps/news/story.asp?NewsID=13077&amp;Cr=natural&amp;Cr1=disaster#.VVyWK_lVhBc\" target=\"_blank\">Take me to the United Nations news centre</a></p><p>Open data is also helping consumers to understand their personal impacts on the environment, and take steps to improve it.<br /><a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/39386/12-1324-better-choices-better-deals-report-on-progress-on-the-consumer-empowerment-strategy.pdf\" target=\"_blank\">Take me to Better Choices Better Deals report</a></p><p>In the Ukraine Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.<br /><a href=\"http://agrieye.itc.ms/\" target=\"_blank\">Take me to Agri Eye</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Protecting our planet"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfd2ed084d5167a04e024",
+    "_layout": "left",
+    "_parentId": "58fdfd16d084d5167a04e023",
+    "_type": "component",
+    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principals it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principals of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
+    "displayTitle": "The key principals of open data",
+    "title": "The key principals of open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5926d635d084d5167a04eabf",
+    "_layout": "right",
+    "_parentId": "5926d62fd084d5167a04eabe",
+    "_type": "component",
+    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spreads lessons from those who are implementing open data projects and connect them with each other.</li><li>Works with different sectors to turn high level open data principles into practical action.</li><li>Maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</li></ul>",
+    "displayTitle": "Why have a charter?",
+    "title": "Why have a charter?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5926d877d084d5167a04eac2",
+    "_layout": "left",
+    "_parentId": "5926d861d084d5167a04eac0",
+    "_type": "component",
+    "body": "<p>The Open Data Charter consists of 6 principals. Explore the first four below:</p>",
+    "displayTitle": "Charter principals (1-4)",
+    "title": "Charter principals (1-4)",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "1. Open by default",
+        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well defined sensitive or personal data).&nbsp;</p><p>In an &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Timely and Comprehensive",
+        "body": "<p>Open data and information should be made available without undue delay and be as complete as possible.&nbsp;</p><p>Ideally data should be made available in&nbsp;its original, unmodified form, and link data&nbsp;to any relevant guidance, documentation, visualizations, or analyses.</p><p>If anonymising or aggregating data to remove personal or sensitive data, this though be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>Data users should be consulted&nbsp;and feedback channels made available to help improve and accelerate engagement with the data.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Accessible and Usable",
+        "body": "<p>Data should be made available without&nbsp;bureaucratic or administrative barriers and without cost.</p><p>Links to data should be provided on portals and relevant websites that give people confidence that they are accessing authoritative data.&nbsp;</p><p>Data should be available in widely used formats to ensure the widest range of users are able to access and use the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Comparable and Interoperable",
+        "body": "<p>Data&nbsp;should be presented in structured and standardized formats&nbsp;to support interoperability, traceability, and effective reuse.</p><p>Data users should&nbsp;have access to sufficient information to&nbsp;understand the source, strengths, weaknesses, and analytical limitations of&nbsp;the data.</p><p>To help with this, data should be&nbsp;fully described with&nbsp;all accompanying&nbsp;documentation data&nbsp;written in clear, plain language.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5926d8a6d084d5167a04eac5",
+    "_layout": "full",
+    "_parentId": "5926d878d084d5167a04eac3",
+    "_type": "component",
+    "body": "<p>The remaining&nbsp;two principals of the charter focus on why the data is being made open. Discover more below:</p>",
+    "displayTitle": "Principals 5 and 6",
+    "title": "Principals 5 and 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "5. For Improved Governance and Citizen Engagement",
+        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law,&nbsp;and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "5. For Improved Governance and Citizen Engagement"
+      },
+      {
+        "title": "6. For Inclusive Development and Innovation",
+        "body": "<p>Open data is, by its nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation as well as help meet global challenges such as&nbsp;poverty, hunger, climate change, and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the web has today.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "6. For Inclusive Development and Innovation"
+      }
+    ]
+  },
+  {
+    "_id": "5926e5aed084d5167a04eaca",
+    "_layout": "left",
+    "_parentId": "5926e587d084d5167a04eac8",
+    "_type": "component",
+    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protects for transparency of government in 2014. Since these protests, more than 13,000 datasets have been published by more that 1,000 government agencies.&nbsp;</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter also helped the Ukraine develop its own roadmap to ensure that data is not only made available, but citizens are engaged with to encourage economic growth.&nbsp;</p>",
+    "displayTitle": " How the Open Data Charter has been used in Ukraine",
+    "title": " How the Open Data Charter has been used in Ukraine",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5927db45d084d5167a04eacb",
+    "_layout": "right",
+    "_parentId": "5926e587d084d5167a04eac8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/17c63da64b47961933ffbdbdbf940e7bc6d145d6.jpg",
+      "small": "course/en/assets/17c63da64b47961933ffbdbdbf940e7bc6d145d6.jpg",
+      "attribution": "<a href=\"http://dhrp.org.ua/images/newsarticles/20160304/road_map_en-page-001.jpg\" target=\"_blank\">The state agency for electronic governance in Ukraine</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "58fdfd30d084d5167a04e025",
+    "_layout": "right",
+    "_parentId": "58fdfd16d084d5167a04e023",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5927dbcfd084d5167a04ead1",
+    "_layout": "left",
+    "_parentId": "5926d62fd084d5167a04eabe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/efcf8de1a8a7c7dac10f9f91063a92130e6f26b5.jpg",
+      "small": "course/en/assets/efcf8de1a8a7c7dac10f9f91063a92130e6f26b5.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5927dbd3d084d5167a04ead2",
+    "_layout": "right",
+    "_parentId": "5926d861d084d5167a04eac0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5927defdd084d5167a04eadc",
+    "_layout": "right",
+    "_parentId": "5927deedd084d5167a04eada",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-five",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5927def6d084d5167a04eadb",
+    "_layout": "left",
+    "_parentId": "5927deedd084d5167a04eada",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to adopt the Open Data Charter?",
+    "title": "Are you ready to adopt the Open Data Charter?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "592804c5d084d5167a04eaea",
+    "_layout": "right",
+    "_parentId": "592804c5d084d5167a04eae8",
+    "_type": "component",
+    "body": "<p><strong>You have been tasked to a collect a new set of data, how do you decide if it should be available as open data?</strong></p>",
+    "displayTitle": "Principles of the open data charter",
+    "title": "Principles of the open data charter",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "You establish the demand for it from users",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "You submit a case for it being open to the open data project",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "There is no need to, it should be open by default. A case should have to be made to close it.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "592804c5d084d5167a04eae9",
+    "_layout": "left",
+    "_parentId": "592804c5d084d5167a04eae8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "small": "course/en/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "59280450d084d5167a04eae5",
+    "_layout": "left",
+    "_parentId": "59280435d084d5167a04eae4",
+    "_type": "component",
+    "body": "<p><strong>Why is the Open Data Charter important to the global open data movement?</strong></p>",
+    "displayTitle": "Why have a charter?",
+    "title": "Why have a charter?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "The Charter supports and holds governments to their open data commitments",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "The Charter funds open data initiatives",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The Charter helps governments to protect their data resources",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The Charter supports governments and holds them&nbsp;to their open data commitments. It maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The Charter supports governments and holds them&nbsp;to their open data commitments. It maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "592805f5d084d5167a04eaf0",
+    "_layout": "left",
+    "_parentId": "592805f5d084d5167a04eaee",
+    "_type": "component",
+    "body": "<p><strong>Which of the following are principles of the Charter?</strong></p>",
+    "displayTitle": "Principles of the open data charter",
+    "title": "Principles of the open data charter",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Open data should published as soon as possible",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data should be free from bureaucratic and administrative restrictions",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data should be open by defalt",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data should be fully described with links to detailed, easy to read documentation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data should have a cost associated with it",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open data should be made available only to those who provide credentials",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy to read documentation.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy to read documentation.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59280453d084d5167a04eae6",
+    "_layout": "right",
+    "_parentId": "59280435d084d5167a04eae4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/efcf8de1a8a7c7dac10f9f91063a92130e6f26b5.jpg",
+      "small": "course/en/assets/efcf8de1a8a7c7dac10f9f91063a92130e6f26b5.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "592805f5d084d5167a04eaef",
+    "_layout": "right",
+    "_parentId": "592805f5d084d5167a04eaee",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/95974c301fcc4ee60b2f1f1019d3f1f21221dd13.jpg",
+      "small": "course/en/assets/95974c301fcc4ee60b2f1f1019d3f1f21221dd13.jpg",
+      "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59280ff9d084d5167a04eaf9",
+    "_layout": "right",
+    "_parentId": "59280fb9d084d5167a04eaf8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-four",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59280ffed084d5167a04eafa",
+    "_layout": "left",
+    "_parentId": "59280fb9d084d5167a04eaf8",
+    "_type": "component",
+    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. However not everyone is behind this agenda.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways and sets out 6 key principals which governments can sign up to.&nbsp;</p><p>To date (May&nbsp;2017) 17 governments all over the world, including the Ukraine have signed up to the Open Data Charter and you can find out more about the charter&nbsp;<a href=\"http://opendatacharter.net/\" target=\"_blank\">here</a>.&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   }
 ]

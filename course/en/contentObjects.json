@@ -110,7 +110,7 @@
   {
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/17c63da64b47961933ffbdbdbf940e7bc6d145d6.jpg"
     },
     "_id": "58fdfd16d084d5167a04e021",
     "_parentId": "course",
@@ -122,8 +122,8 @@
     "linkText": "View",
     "_classes": "",
     "body": "",
-    "displayTitle": "4. Open data charter",
-    "title": "4. Open data charter",
+    "displayTitle": "4. The key principals of open data",
+    "title": "4. The key principals of open data",
     "_skillsFramework": {
       "_skills": []
     },
