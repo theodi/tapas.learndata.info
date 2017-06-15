@@ -3623,23 +3623,6 @@
     ]
   },
   {
-    "_id": "58fdfc60d084d5167a04de15",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd29",
-    "_type": "component",
-    "body": "<p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>.</p><p>Open data becomes usable when made available in a common, machine-readable format.</p><p dir=\"ltr\">In Ukraine, open data is part of the law and all open data must be made available with the following conditions of use.</p><p dir=\"ltr\">УМОВИ ВИКОРИСТАННЯ</p><p dir=\"ltr\">Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов&rsquo;язкови м посиланням на джерело отримання такої інформації.</p><p dir=\"ltr\">Conditions of the use</p><p>Anyone is free to copy, publish, distribute, use, including for commercial purposes, in conjunction with other information, or by the inclusion of its own product in the form of public information from open data of mandatory reference to the source of such information.</p>",
-    "displayTitle": "What is open data?",
-    "title": "What is open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58fdfc60d084d5167a04de7e",
     "_layout": "full",
     "_parentId": "58fdfc5fd084d5167a04dd20",
@@ -3671,7 +3654,7 @@
       },
       {
         "title": "Building new business opportunities",
-        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p dir=\"ltr\">Opendatabot is a service that uses open data to allow users to monitor registration of Ukrainian companies and court register. With this information, it is possible to procure more effective contractors and protect against corporate raids.<br /><a href=\"https://opendatabot.com/en\" target=\"_blank\">Take me to Opendatabot</a></p><p dir=\"ltr\">Similarly YouControl is using the same corporation data to help businesses identify the best partners for different projects.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p><p>Startups in the ODI Startup programme now collectively employ over 70 people and generate over &pound;4m in income.<br /><a href=\"http://theodi.org/odis-second-year-annual-report\" target=\"_blank\">Take me to the ODI annual report</a></p>",
+        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p dir=\"ltr\">Opendatabot is a service that uses open data to allow users to monitor registration of Ukrainian companies and court register. With this information, it is possible to procure more effective contractors and protect against corporate raids.<br /><a href=\"https://opendatabot.com/en\" target=\"_blank\">Take me to Opendatabot</a></p><p dir=\"ltr\">Similarly YouControl is using the same corporation data to help businesses identify the best partners for different projects.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p>",
         "_graphic": {
           "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
           "alt": "",
@@ -3832,7 +3815,7 @@
     "_layout": "left",
     "_parentId": "5926e587d084d5167a04eac8",
     "_type": "component",
-    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protects for transparency of government in 2014. Since these protests, more than 13,000 datasets have been published by more that 1,000 government agencies.&nbsp;</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter also helped the Ukraine develop its own roadmap to ensure that data is not only made available, but citizens are engaged with to encourage economic growth.&nbsp;</p>",
+    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protects for transparency of government in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The 6 principles have helped defined the 21 units and 59 tasks that determine what data will be disclosed in 2017.</p>",
     "displayTitle": " How the Open Data Charter has been used in Ukraine",
     "title": " How the Open Data Charter has been used in Ukraine",
     "_isAvailable": true,
@@ -3862,9 +3845,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/17c63da64b47961933ffbdbdbf940e7bc6d145d6.jpg",
-      "small": "course/en/assets/17c63da64b47961933ffbdbdbf940e7bc6d145d6.jpg",
-      "attribution": "<a href=\"http://dhrp.org.ua/images/newsarticles/20160304/road_map_en-page-001.jpg\" target=\"_blank\">The state agency for electronic governance in Ukraine</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -4325,6 +4308,23 @@
     "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. However not everyone is behind this agenda.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways and sets out 6 key principals which governments can sign up to.&nbsp;</p><p>To date (May&nbsp;2017) 17 governments all over the world, including the Ukraine have signed up to the Open Data Charter and you can find out more about the charter&nbsp;<a href=\"http://opendatacharter.net/\" target=\"_blank\">here</a>.&nbsp;</p>",
     "displayTitle": "Summary",
     "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de15",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd29",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data - this is public information in a format which allows its automatic processing of electronic means and free of charge access to it, and its continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorized for further use and free distribution - Anyone is free to copy, publish, distribute, use, including for commercial purposes, in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information .</p><p dir=\"ltr\">10.1 Публічна інформація у формі відкритих даних - це публічна інформація у форматі, що дозволяє її автоматизоване оброблення електронними засобами, вільний та безоплатний доступ до неї, а також її подальше використання.</p><p dir=\"ltr\">10.2 Публічна інформація у формі відкритих даних є дозволеною для її подальшого вільного використання та поширення - Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов&rsquo;язковим посиланням на джерело отримання такої інформації.</p>",
+    "displayTitle": "What is open data?",
+    "title": "What is open data?",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
