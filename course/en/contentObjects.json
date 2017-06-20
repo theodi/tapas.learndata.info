@@ -13,7 +13,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Open data is data that anyone can access, use and share.</p><p>In this module we will explore the meaning behind open data and how open data helps to bring diverse benefits to governments, businesses and civil society.</p>",
     "displayTitle": "1. What is open data?",
     "title": "1. What is open data?",
     "_skillsFramework": {
@@ -49,7 +49,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p>",
     "displayTitle": "2. Unlocking value from open data",
     "title": "2. Unlocking value from open data",
     "_skillsFramework": {
@@ -85,7 +85,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>There are a number of community-based standards and quality marques that can help you assess how usable data is.</p><p>In this module we will explore what makes data usable and how standards help increase the usability of data.&nbsp;</p>",
     "displayTitle": "3. What makes quality open data",
     "title": "3. What makes quality open data",
     "_skillsFramework": {
@@ -121,7 +121,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>The last decade&nbsp;has seen growing support for transparency and evidence-based policy making in government. This module explores the role of the&nbsp;Open Data Charter in enabling openness in government.</p>",
     "displayTitle": "4. The principals of the Open Data Charter",
     "title": "4. The principals of the Open Data Charter",
     "_skillsFramework": {
@@ -146,7 +146,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "",
+    "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful.</p><p>In this module we will explore&nbsp;how to make sense of sustainability, why this matters to you and what to look for in sustainable open datasets.&nbsp;</p>",
     "displayTitle": "5. Why should we worry about sustainability?",
     "title": "5. Why should we worry about sustainability?",
     "_skillsFramework": {
