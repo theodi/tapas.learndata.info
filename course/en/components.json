@@ -1200,7 +1200,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd77",
     "_type": "component",
-    "body": "<p>When searching for sustainable sources of open data, it is important that they are relevant, up-to-date and accessible.</p><p>A sustainable programme is one that continues to release data regularly, with at least the same or improving quality and quantity.</p><p>Using simple indicators listed above, it is possible to identify sustainable sources of open data that can be used in your future work.</p><p>In the next module, we explore how open data platforms can simplify the process of publishing and using data.</p><p><a class=\"button\" href=\"#/id/58905843b61c46e176e7eb2a\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
+    "body": "<p>When searching for sustainable sources of open data, it is important that they are relevant, up to date and accessible.</p><p>A sustainable programme is one that continues to release data regularly, with at least the same or improving quality and quantity.</p><p>Using simple indicators listed above, it is possible to identify sustainable sources of open data that can be used in your future work.</p><p>In the next module, we explore how open data platforms can simplify the process of publishing and using data.</p><p><a class=\"button\" href=\"#/id/58905843b61c46e176e7eb2a\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
     "displayTitle": "Sustainable open data",
     "title": "Summary",
     "_isAvailable": true,
@@ -2025,55 +2025,61 @@
     "_items": [
       {
         "title": "What is the source?",
-        "body": "<p>Ask yourself who has released the data and how much confidence you have in their commitment to continue to update it.<br />\n<br />\nOne of the most important indicators of sustainability is how confident you feel in the organisation who collects it.<br />\n<br />\nIf the data is from government, might an election or a change in priority affect its open release?</p>\n",
+        "body": "<p>Ask yourself who has released the data and how much confidence you have in their commitment to continue to update it.<br /><br />One of the most important indicators of sustainability is how confident you feel in the organisation that collects it.<br /><br />If the data is from government, might an election or a change in priority affect its open release?</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
       {
         "title": "Who is funding the release?",
-        "body": "<p>Data available at no cost might seem ideal, but it&#39;s important to ask yourself how a publisher is funding its sustained release.<br />\n<br />\nAsk yourself whether the data is being released due to transparency pressures, or whether there is a wider beneficial use driving demand.<br />\n<br />\nTry to find out whether there is a specific short-term programme funding the data&#39;s availability or whether the release is part of the organisation&#39;s core strategy.</p>\n",
+        "body": "<p>Data available at no cost might seem ideal, but it&#39;s important to ask yourself how a publisher is funding its sustained release.<br /><br />Ask yourself whether the data is being released due to transparency pressures, or whether there is a wider beneficial use driving demand.<br /><br />Try to find out whether there is a specific short-term programme funding the data&#39;s availability or whether the release is part of the organisation&#39;s core strategy.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
       {
         "title": "What does the licence say?",
-        "body": "<p>Licences can also offer clues about data&#39;s sustainability.<br />\n<br />\nWhen looking at a licence, ask yourself what the text might indicate about the dataset&#39;s future and the publisher&#39;s confidence in it? Does it contain a commitment to update it regularly?<br />\n<br />\nRemember that without a licence, data is not truly open. The licence gives you certainty that data can be freely used and shared.</p>\n",
+        "body": "<p>Licences can also offer clues about data&#39;s sustainability.<br /><br />When looking at a licence, ask yourself what the text might indicate about the dataset&#39;s future and the publisher&#39;s confidence in it? Does it contain a commitment to update it regularly?<br /><br />Remember that without a licence, data is not truly open. The licence gives you certainty that data can be freely used and shared.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
       {
         "title": "Who is already using the data?",
-        "body": "<p>The more widely a dataset is used, the more pressure there is for it to be sustained.<br />\n<br />\nAsk yourself who else is using this dataset and for what purposes.<br />\n<br />\nTry to find out whether the dataset is used internally by the publisher.<br />\n<br />\nBoth aspects indicate whether the publisher cares about the dataset and is under external pressure not to remove access to it, or change it for their own purposes.</p>\n",
+        "body": "<p>The more widely a dataset is used, the more pressure there is for it to be sustained.<br /><br />Ask yourself who else is using this dataset and for what purposes.<br /><br />Try to find out whether the dataset is used internally by the publisher.<br /><br />Both aspects indicate whether the publisher cares about the dataset and is under external pressure not to remove access to it, or change it for their own purposes.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
       {
         "title": "What is the publishing history? ",
-        "body": "<p>Assessing open data&#39;s sustainability ultimately depends on how much trust you place in its publisher.<br />\n<br />\nAsk yourself how long the dataset has been published for. A long history of updates is a good sign, but beware external factors such as project length or term in office. A key indicator of a sustainable initiative is one that outlives these external factors.</p>\n",
+        "body": "<p>Assessing open data&#39;s sustainability ultimately depends on how much trust you place in its publisher.<br /><br />Ask yourself how long the dataset has been published for. A long history of updates is a good sign, but beware external factors such as project length or term in office. A key indicator of a sustainable initiative is one that outlives these external factors.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
       {
         "title": "How can I contribute?",
-        "body": "<p>Using a dataset yourself will help drive its demand and influence its sustainability.<br />\n<br />\nThink about joining any communities of practice that exist around the dataset.<br />\n<br />\nTry to find out whether the publisher plays an active role in these communities and whether they act upon feedback to improve their services.<br />\n<br />\nAsk yourself what value you can demonstrate that will enhance the sustainability that is ensured by the data publisher.</p>\n",
+        "body": "<p>Using a dataset yourself will help drive its demand and influence its sustainability.<br /><br />Think about joining any communities of practice that exist around the dataset.<br /><br />Try to find out whether the publisher plays an active role in these communities and whether they act upon feedback to improve their services.<br /><br />Ask yourself what value you can demonstrate that will enhance the sustainability that is ensured by the data publisher.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       }
@@ -2606,7 +2612,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd78",
     "_type": "component",
-    "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful.</p><p>A sustainable open data programme is one that continues to release data regularly with at least the same or improving quality and quantity.</p><p><strong>In this module we&#39;ll explore the following:</strong></p><ul><li>How to make sense of sustainability</li><li>Why sustainability matters to you</li><li>What to look for in sustainable open datasets</li></ul>",
+    "body": "<p>Open data must be relevant, up to date and accessible in order to be useful.</p><p>A sustainable open data programme is one that continues to release data regularly with at least the same or improving quality and quantity.</p><p><strong>In this module we&#39;ll explore the following:</strong></p><ul><li>How to make sense of sustainability</li><li>Why sustainability matters to you</li><li>What to look for in sustainable open datasets</li></ul>",
     "displayTitle": "Why should we worry about sustainability?",
     "title": "Why should we worry about sustainability?",
     "_isAvailable": true,
@@ -2701,7 +2707,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd22",
     "_type": "component",
-    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while, in Iceland, farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
+    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while&nbsp;in Iceland&nbsp;farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
     "displayTitle": "Innovation and growth in businesses",
     "title": "Innovation and growth in businesses",
     "_isAvailable": true,
@@ -2804,7 +2810,7 @@
       },
       {
         "title": "Improving the way we govern",
-        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p>In Ukraine the Better Regulation Delivery Office uses open data to ensure that the Ministry of Health is using up to date regulations that match international standards. This helps develop the ministry provide an innovative service that allows physicians to use evidence-based medicine instead of the authority-based medicine.<br /><a href=\"http://en.brdo.com.ua/main/international-clinical-protocols-medicine-based-evidence/\" target=\"_blank\">Take me to the Better Regulation Delivery Office</a></p>",
+        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p>In Ukraine, the Better Regulation Delivery Office uses open data to ensure that the Ministry of Health is using up to date regulations that match international standards. This helps develop the ministry provide an innovative service that allows physicians to use evidence-based medicine instead of the authority-based medicine.<br /><a href=\"http://en.brdo.com.ua/main/international-clinical-protocols-medicine-based-evidence/\" target=\"_blank\">Take me to the Better Regulation Delivery Office</a></p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3117,7 +3123,7 @@
         "feedback": ""
       },
       {
-        "text": "whether it can it be used on a computer",
+        "text": "whether it can be used on a computer",
         "_shouldBeSelected": false,
         "feedback": ""
       },
@@ -3215,9 +3221,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>The Open Data Institute has developed Open Data Certificates which include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
+      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>The Open Data Institute has developed Open Data Certificates that include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The Open Data Institute has developed Open Data Certificates which include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>The Open Data Institute has developed Open Data Certificates that include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3273,8 +3279,8 @@
     "_parentId": "59158ac0d084d5167a04e3d5",
     "_type": "component",
     "body": "<p>ODI Trainer David Tarrant explains what quality data is, how to recognise it and which quality marques consumers of open data should look for.</p>",
-    "displayTitle": "Assessing open data quality - in 2 minutes",
-    "title": "Assessing open data quality - in 2 minutes",
+    "displayTitle": "Assessing open data quality – in 2 minutes",
+    "title": "Assessing open data quality – in 2 minutes",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -3439,7 +3445,7 @@
     "_layout": "left",
     "_parentId": "59158ac0d084d5167a04e3d4",
     "_type": "component",
-    "body": "<p>Assessing how usable open data is cannot be done quickly.</p><p>There are a number of community-based standards and quality marques that can help you assess how usable data is.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What makes data usable</li><li>How standards help increase the usability of data</li><li>Marques of quality</li></ul>",
+    "body": "<p>Assessing how usable open data is cannot be done quickly.</p><p>There are a number of community-based standards and quality marques that can help you to assess how usable data is.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What makes data usable</li><li>How standards help increase the usability of data</li><li>Marques of quality</li></ul>",
     "displayTitle": "What makes quality open data",
     "title": "What makes quality open data",
     "_isAvailable": true,
@@ -3696,7 +3702,7 @@
     "_layout": "right",
     "_parentId": "5926d62fd084d5167a04eabe",
     "_type": "component",
-    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spreads lessons from those who are implementing open data projects and connect them with each other.</li><li>Works with different sectors to turn high level open data principles into practical action.</li><li>Maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</li></ul>",
+    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spread&nbsp;lessons from those who are implementing open data projects and connect them with each other</li><li>Works with different sectors to turn high-level open data principles into practical action</li><li>Drives momentum for the open data movement by supporting governments to commit publicly to the charter principles</li></ul>",
     "displayTitle": "Why have a charter?",
     "title": "Why have a charter?",
     "_isAvailable": true,
@@ -3713,7 +3719,7 @@
     "_layout": "left",
     "_parentId": "5926d861d084d5167a04eac0",
     "_type": "component",
-    "body": "<p>The Open Data Charter consists of 6 principals. Explore the first four below:</p>",
+    "body": "<p>The Open Data Charter consists of six principals. Explore the first four below:</p>",
     "displayTitle": "Charter principals (1-4)",
     "title": "Charter principals (1-4)",
     "_isAvailable": true,
@@ -3727,7 +3733,7 @@
     "_items": [
       {
         "title": "1. Open by default",
-        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well defined sensitive or personal data).&nbsp;</p><p>In an &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
+        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>&#39;Open by default&#39; is the principal that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well-defined sensitive or personal data).&nbsp;</p><p>With &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3737,7 +3743,7 @@
       },
       {
         "title": "2. Timely and Comprehensive",
-        "body": "<p>Open data and information should be made available without undue delay and be as complete as possible.&nbsp;</p><p>Ideally data should be made available in&nbsp;its original, unmodified form, and link data&nbsp;to any relevant guidance, documentation, visualizations, or analyses.</p><p>If anonymising or aggregating data to remove personal or sensitive data, this though be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>Data users should be consulted&nbsp;and feedback channels made available to help improve and accelerate engagement with the data.&nbsp;</p>",
+        "body": "<p>Open data and information should be made available without undue delay and be as complete as possible.&nbsp;</p><p>Ideally, data should be made available in&nbsp;its original, unmodified form, and link data&nbsp;to any relevant guidance, documentation, visualisations, or analyses.</p><p>If anonymising or aggregating data to remove personal or sensitive data, this though be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>Data users should be consulted&nbsp;and feedback channels made available to help improve and accelerate engagement with the data.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3757,7 +3763,7 @@
       },
       {
         "title": "4. Comparable and Interoperable",
-        "body": "<p>Data&nbsp;should be presented in structured and standardized formats&nbsp;to support interoperability, traceability, and effective reuse.</p><p>Data users should&nbsp;have access to sufficient information to&nbsp;understand the source, strengths, weaknesses, and analytical limitations of&nbsp;the data.</p><p>To help with this, data should be&nbsp;fully described with&nbsp;all accompanying&nbsp;documentation data&nbsp;written in clear, plain language.</p>",
+        "body": "<p>Data&nbsp;should be presented in structured and standardised formats&nbsp;to support interoperability, traceability&nbsp;and effective reuse.</p><p>Data users should&nbsp;have access to sufficient information to&nbsp;understand the source, strengths, weaknesses and analytical limitations of&nbsp;the data.</p><p>To help with this, data should be&nbsp;fully described with&nbsp;all accompanying&nbsp;documentation data&nbsp;written in clear, plain language.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3790,7 +3796,7 @@
     "_items": [
       {
         "title": "5. For Improved Governance and Citizen Engagement",
-        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law,&nbsp;and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
+        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
           "alt": "",
@@ -3800,7 +3806,7 @@
       },
       {
         "title": "6. For Inclusive Development and Innovation",
-        "body": "<p>Open data is, by its nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation as well as help meet global challenges such as&nbsp;poverty, hunger, climate change, and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the web has today.&nbsp;</p>",
+        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
           "alt": "",
@@ -3815,7 +3821,7 @@
     "_layout": "left",
     "_parentId": "5926e587d084d5167a04eac8",
     "_type": "component",
-    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protects for transparency of government in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The 6 principles have helped defined the 21 units and 59 tasks that determine what data will be disclosed in 2017.</p>",
+    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protests for&nbsp;government transparency in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The six principles have helped define&nbsp;the 21 units and 59 tasks that determine what data will be disclosed in 2017.</p>",
     "displayTitle": " How the Open Data Charter has been used in Ukraine",
     "title": " How the Open Data Charter has been used in Ukraine",
     "_isAvailable": true,
@@ -3964,7 +3970,7 @@
     "_layout": "right",
     "_parentId": "592804c5d084d5167a04eae8",
     "_type": "component",
-    "body": "<p><strong>You have been tasked to a collect a new set of data, how do you decide if it should be available as open data?</strong></p>",
+    "body": "<p><strong>You have been tasked to a collect a new set of data, how do you decide whether it should be available as open data?</strong></p>",
     "displayTitle": "Principles of the open data charter",
     "title": "Principles of the open data charter",
     "_isAvailable": true,
@@ -3987,7 +3993,7 @@
         "feedback": ""
       },
       {
-        "text": "There is no need to, it should be open by default. A case should have to be made to close it.",
+        "text": "There is no need to, it should be open by default. A case should have to be made to close it",
         "_shouldBeSelected": true,
         "feedback": ""
       }
@@ -4078,17 +4084,17 @@
     "instruction": "",
     "_items": [
       {
-        "text": "The Charter supports and holds governments to their open data commitments",
+        "text": "The Open Data Charter supports and holds governments to their open data commitments",
         "_shouldBeSelected": true,
         "feedback": ""
       },
       {
-        "text": "The Charter funds open data initiatives",
+        "text": "The Open Data Charter funds open data initiatives",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "The Charter helps governments to protect their data resources",
+        "text": "The Open Data Charter helps governments to protect their data resources",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -4103,9 +4109,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The Charter supports governments and holds them&nbsp;to their open data commitments. It maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The Open Data Charter supports governments and holds them&nbsp;to their open data commitments. It drives momentum for the open data movement by supporting governments to commit publicly to the charter principles.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The Charter supports governments and holds them&nbsp;to their open data commitments. It maintains momentum for the open data movement through supporting governments to commit publicly to the Charter principles.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>The Open Data Charter supports governments and holds them&nbsp;to their open data commitments. It drives momentum for the open data movement by supporting governments to commit publicly to the charter principles.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -4143,9 +4149,9 @@
     "_layout": "left",
     "_parentId": "592805f5d084d5167a04eaee",
     "_type": "component",
-    "body": "<p><strong>Which of the following are principles of the Charter?</strong></p>",
-    "displayTitle": "Principles of the open data charter",
-    "title": "Principles of the open data charter",
+    "body": "<p><strong>Which of the following are principles of the charter?</strong></p>",
+    "displayTitle": "Principles of the Open Data Charter",
+    "title": "Principles of the Open Data Charter",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -4171,7 +4177,7 @@
         "feedback": ""
       },
       {
-        "text": "Open data should be fully described with links to detailed, easy to read documentation",
+        "text": "Open data should be fully described with links to detailed, easy-to-read documentation",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -4196,9 +4202,9 @@
     "_questionWeight": 1,
     "_selectable": 4,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy to read documentation.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy-to-read documentation.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy to read documentation.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy-to-read documentation.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -4305,7 +4311,7 @@
     "_layout": "left",
     "_parentId": "59280fb9d084d5167a04eaf8",
     "_type": "component",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. However not everyone is behind this agenda.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways and sets out 6 key principals which governments can sign up to.&nbsp;</p><p>To date (May&nbsp;2017) 17 governments all over the world, including the Ukraine have signed up to the Open Data Charter and you can find out more about the charter&nbsp;<a href=\"http://opendatacharter.net/\" target=\"_blank\">here</a>.&nbsp;</p>",
+    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. However, not everyone is behind this agenda.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways and sets out six key principals that governments can sign up to.&nbsp;</p><p>To date (May&nbsp;2017) 17 governments all over the world &ndash; including Ukraine &ndash; have signed up to the Open Data Charter and you can find out more about the charter&nbsp;<a href=\"http://opendatacharter.net/\" target=\"_blank\">here</a>.&nbsp;</p>",
     "displayTitle": "Summary",
     "title": "Summary",
     "_isAvailable": true,
@@ -4322,7 +4328,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd29",
     "_type": "component",
-    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data - this is public information in a format which allows its automatic processing of electronic means and free of charge access to it, and its continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorized for further use and free distribution - Anyone is free to copy, publish, distribute, use, including for commercial purposes, in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information .</p><p dir=\"ltr\">10.1 Публічна інформація у формі відкритих даних - це публічна інформація у форматі, що дозволяє її автоматизоване оброблення електронними засобами, вільний та безоплатний доступ до неї, а також її подальше використання.</p><p dir=\"ltr\">10.2 Публічна інформація у формі відкритих даних є дозволеною для її подальшого вільного використання та поширення - Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов&rsquo;язковим посиланням на джерело отримання такої інформації.</p>",
+    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data &ndash; this is public information in a format which allows it to be automatically processed&nbsp;electronically and accessed free of charge for continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorised for further use and free distribution. Anyone is free to copy, publish, distribute and use &ndash; including for commercial purposes &ndash; in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information.</p><p dir=\"ltr\">10.1 Публічна інформація у формі відкритих даних - це публічна інформація у форматі, що дозволяє її автоматизоване оброблення електронними засобами, вільний та безоплатний доступ до неї, а також її подальше використання.</p><p dir=\"ltr\">10.2 Публічна інформація у формі відкритих даних є дозволеною для її подальшого вільного використання та поширення - Будь-яка особа може вільно копіювати, публікувати, поширювати, використовувати, у тому числі в комерційних цілях, у поєднанні з іншою інформацією або шляхом включення до складу власного продукту, публічну інформацію у формі відкритих даних з обов&rsquo;язковим посиланням на джерело отримання такої інформації.</p>",
     "displayTitle": "What is open data?",
     "title": "What is open data?",
     "_isAvailable": true,
