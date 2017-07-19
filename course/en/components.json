@@ -40,49 +40,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de5b",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd77",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
-      "small": "course/en/assets/e303e33c52b96c12da48db19daab649529718970.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e464",
-    "_layout": "right",
-    "_parentId": "59158ac0d084d5167a04e3d3",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
-      "small": "course/en/assets/d1d24b4afcea5906ce1684f8cb3231a3ec0446f6.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58fdfc5fd084d5167a04ddb4",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd28",
@@ -92,7 +49,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-two",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -100,8 +57,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
-      "small": "course/en/assets/34d9d55056a21925974346e3c74661359d7083c6.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -178,7 +135,7 @@
     "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -186,28 +143,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddb7",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dda4",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/181d91f0a221244ed4b1d3a8b9b79dbda2af5933.png",
-      "small": "course/en/assets/181d91f0a221244ed4b1d3a8b9b79dbda2af5933.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
   },
@@ -1301,11 +1238,11 @@
     "_parentId": "58fdfc5fd084d5167a04dd2a",
     "_type": "component",
     "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
+    "displayTitle": " ",
+    "title": " ",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "",
+    "_classes": "color-one",
     "_component": "graphic",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -1313,9 +1250,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "small": "course/en/assets/e9bfc830784387f82fd0b7576fdd19a235432d2e.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-189810137.html\" target=\"_blank\">Kritchanut</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -1987,26 +1924,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de75",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd59",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "small": "course/en/assets/98e5a6a16798539ca80fdcaa4979d38e411dc44a.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de7b",
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd7d",
@@ -2420,8 +2337,8 @@
       },
       {
         "_graphic": {
-          "large": "course/en/assets/8fb6d4d70c7064c8f28ce8d330a0080de1dba953.png",
-          "small": "course/en/assets/8fb6d4d70c7064c8f28ce8d330a0080de1dba953.png",
+          "large": "course/en/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
+          "small": "course/en/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
           "alt": "",
           "attribution": "<a href=\"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg\" target=\"_blank\">Dave Matos</a> <span class='assetLicence'>[CC-BY-SA]</span>"
         },
@@ -3846,7 +3763,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3869,7 +3786,7 @@
     "_classes": "intro-logo",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3892,7 +3809,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3915,7 +3832,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -3938,7 +3855,7 @@
     "_classes": "color-five",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4056,7 +3973,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4250,7 +4167,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4273,7 +4190,7 @@
     "_classes": "",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
@@ -4296,13 +4213,13 @@
     "_classes": "color-four",
     "_component": "graphic",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     },
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
-      "small": "course/en/assets/7120bb7ad02055a11589656852c821cae30bf616.png",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
@@ -4339,5 +4256,97 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddb7",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dda4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59158ac0d084d5167a04e464",
+    "_layout": "right",
+    "_parentId": "59158ac0d084d5167a04e3d3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de5b",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd77",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de75",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd59",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
   }
 ]

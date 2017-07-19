@@ -125,7 +125,23 @@
     "displayTitle": "4. The principals of the Open Data Charter",
     "title": "4. The principals of the Open Data Charter",
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "outcome": "Explain why a charter is needed",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "List the key principals of the open data charter",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain how the Open Data Charter has been used in Ukraine",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
     },
     "_pageLevelProgress": {
       "_isEnabled": true,

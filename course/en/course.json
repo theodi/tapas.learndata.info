@@ -72,43 +72,43 @@
   },
   "_id": "course",
   "_start": {
-    "_isMenuDisabled": false,
-    "_force": false,
+    "_isEnabled": false,
     "_startIds": [],
-    "_isEnabled": false
+    "_force": false,
+    "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",
   "_classes": "",
   "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
-    },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
-    },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
     },
     "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
     },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
-    }
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 67,
-  "body": "",
-  "displayTitle": "TAPAS",
-  "title": "TAPAS",
+  "body": "<p>Welcome to this set of modules, watch our video below to find out what you will learn:&nbsp;</p><p style=\"text-align: center;\"><iframe src=\"https://player.vimeo.com/video/110800848\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>",
+  "displayTitle": "TAPAS (EN)",
+  "title": "TAPAS (EN)",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true

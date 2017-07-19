@@ -9,6 +9,7 @@
     "medium": 759,
     "small": 519
   },
+  "_id": "58fdfc60d084d5167a04deb8",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
@@ -22,7 +23,6 @@
     "_isEnabled": false
   },
   "__v": 0,
-  "_id": "58fdfc60d084d5167a04deb8",
   "_tutor": {
     "_isEnabled": false
   },
@@ -67,7 +67,7 @@
   },
   "build": {
     "includes": [
-      "adapt-theme-odi",
+      "adapt-theme-ukraine",
       "adapt-contrib-boxMenu",
       "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",
