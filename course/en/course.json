@@ -106,9 +106,9 @@
     "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 67,
-  "body": "<p>Welcome to this set of modules, watch our video below to find out what you will learn:</p><iframe src=\"https://player.vimeo.com/video/228230805\" width=\"800\" height=\"450\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
-  "displayTitle": "TAPAS (UKR)",
-  "title": "TAPAS (UKR)",
+  "body": "<p>Welcome to this set of modules, watch our video below to find out what you will learn:&nbsp;</p><p style=\"text-align: center;\"><iframe src=\"https://player.vimeo.com/video/110800848\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>",
+  "displayTitle": "TAPAS (EN)",
+  "title": "TAPAS (EN)",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true

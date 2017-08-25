@@ -4,7 +4,7 @@
       "alt": "",
       "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
-    "_id": "5982e376d084d5167a051dd1",
+    "_id": "58fdfc5ed084d5167a04dceb",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -14,33 +14,33 @@
     "linkText": "View",
     "_classes": "",
     "body": "<p>Open data is data that anyone can access, use and share.</p><p>In this module we will explore the meaning behind open data and how open data helps to bring diverse benefits to governments, businesses and civil society.</p>",
-    "displayTitle": "1. Що таке відкриті дані?",
-    "title": "1. Що таке відкриті дані?",
+    "displayTitle": "1. What is open data?",
+    "title": "1. What is open data?",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define open data"
         },
         {
-          "outcome": "Explain the need for open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain the need for open data"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
-    "_id": "5982e376d084d5167a051dd2",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
     },
+    "_id": "58fdfc5ed084d5167a04dcea",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -52,31 +52,31 @@
     "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p>",
     "displayTitle": "2. Unlocking value from open data",
     "title": "2. Unlocking value from open data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the benefits of working with open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the benefits of working with open data"
         },
         {
-          "outcome": "Describe successful case studies of using and publishing open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
-    "_id": "5982e376d084d5167a051dd3",
     "_graphic": {
       "alt": "",
-      "src": "course/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
+      "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
     },
+    "_id": "59158abfd084d5167a04e35b",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -88,31 +88,31 @@
     "body": "<p>There are a number of community-based standards and quality marques that can help you assess how usable data is.</p><p>In this module we will explore what makes data usable and how standards help increase the usability of data.&nbsp;</p>",
     "displayTitle": "3. What makes quality open data",
     "title": "3. What makes quality open data",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define the benefits of quality open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define the benefits of quality open data"
         },
         {
-          "outcome": "Describe two guidelines for open data quality",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe two guidelines for open data quality"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
-    "_id": "5982e376d084d5167a051dd5",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/f15b36a3fb6a0dbc3a9936c8a1631cbdd3feac43.png"
     },
+    "_id": "58fdfd16d084d5167a04e021",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -124,36 +124,36 @@
     "body": "<p>The last decade&nbsp;has seen growing support for transparency and evidence-based policy making in government. This module explores the role of the&nbsp;Open Data Charter in enabling openness in government.</p>",
     "displayTitle": "4. The principals of the Open Data Charter",
     "title": "4. The principals of the Open Data Charter",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain why a charter is needed",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Explain why a charter is needed"
         },
         {
-          "outcome": "List the key principals of the open data charter",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "List the key principals of the open data charter"
         },
         {
-          "outcome": "Explain how the Open Data Charter has been used in Ukraine",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Explain how the Open Data Charter has been used in Ukraine"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
-    "_id": "5982e376d084d5167a051dd4",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
     },
+    "_id": "58fdfc5ed084d5167a04dced",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -165,31 +165,31 @@
     "body": "<p>Open data must be relevant, up-to-date and accessible in order to be useful.</p><p>In this module we will explore&nbsp;how to make sense of sustainability, why this matters to you and what to look for in sustainable open datasets.&nbsp;</p>",
     "displayTitle": "5. Why should we worry about sustainability?",
     "title": "5. Why should we worry about sustainability?",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe key success factors for open data sustainability",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Describe key success factors for open data sustainability"
         },
         {
-          "outcome": "Evaluate sustainability for an open dataset",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Evaluate sustainability for an open dataset"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   },
   {
-    "_id": "5982e376d084d5167a051dd0",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
     },
+    "_id": "58fdfc5ed084d5167a04dcf1",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -201,23 +201,23 @@
     "body": "",
     "displayTitle": "3. Open data: agent of change",
     "title": "3. Open data: agent of change",
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the importance of organisational change to an open data iniative",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the importance of organisational change to an open data iniative"
         },
         {
-          "outcome": "Define key aspects of open data leadership",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define key aspects of open data leadership"
         }
       ]
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
     }
   }
 ]
