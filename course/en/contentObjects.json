@@ -17,8 +17,8 @@
     "displayTitle": "1. What is open data?",
     "title": "1. What is open data?",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -33,6 +33,14 @@
           "outcome": "Explain the need for open data"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;What is Open Data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01\" target=\"_blank\">What is Open Data?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\" target=\"_blank\">European Commission</a>, used under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -53,8 +61,8 @@
     "displayTitle": "2. Unlocking value from open data",
     "title": "2. Unlocking value from open data",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -69,6 +77,14 @@
           "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p dir=\"ltr\">This work &quot;Unlocking value from open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/\" target=\"_blank\">Unlocking value from open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -89,8 +105,8 @@
     "displayTitle": "3. What makes quality open data",
     "title": "3. What makes quality open data",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -105,6 +121,14 @@
           "outcome": "Describe two guidelines for open data quality"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;What makes quality open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module5/\" target=\"_blank\">What makes quality open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -124,6 +148,9 @@
     "body": "<p>The last decade&nbsp;has seen growing support for transparency and evidence-based policy making in government. This module explores the role of the&nbsp;Open Data Charter in enabling openness in government.</p>",
     "displayTitle": "4. The principals of the Open Data Charter",
     "title": "4. The principals of the Open Data Charter",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
@@ -146,6 +173,11 @@
           "outcome": "Explain how the Open Data Charter has been used in Ukraine"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   },
   {
@@ -166,8 +198,8 @@
     "displayTitle": "5. Why should we worry about sustainability?",
     "title": "5. Why should we worry about sustainability?",
     "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_showPageCompletion": true
     },
     "_skillsFramework": {
       "_skills": [
@@ -182,6 +214,14 @@
           "outcome": "Evaluate sustainability for an open dataset"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This work &quot;Why should we worry about sustainability?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module7/\" target=\"_blank\">Why should we worry about sustainability?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
@@ -201,6 +241,9 @@
     "body": "",
     "displayTitle": "3. Open data: agent of change",
     "title": "3. Open data: agent of change",
+    "_ODILicence": {
+      "_items": []
+    },
     "_pageLevelProgress": {
       "_showPageCompletion": true,
       "_isEnabled": true
@@ -218,6 +261,11 @@
           "outcome": "Define key aspects of open data leadership"
         }
       ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
     }
   }
 ]

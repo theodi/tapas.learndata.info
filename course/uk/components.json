@@ -80,8 +80,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-      "small": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "large": "course/uk/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/uk/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
       "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
@@ -237,162 +237,6 @@
       }
     ],
     "_shouldCollapseItems": true
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddbd",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd2b",
-    "_type": "component",
-    "body": "<p><strong>Open data is driving innovation and growth in the private sector by...</strong></p><p>&nbsp;</p>",
-    "displayTitle": "Innovation and growth in business",
-    "title": "Q: Innovation and growth in business",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose an answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "being made available on the Web",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "revealing opportunities to build new services and improve operations",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "motivating innovators to use government data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddbe",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd2e",
-    "_type": "component",
-    "body": "<p><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></p><p>&nbsp;</p>",
-    "displayTitle": "Changing culture and environment",
-    "title": "Q: Changing culture and environment",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose an answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "Demographic data from the census",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Open data on people's salaries",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": " Open mapping data and aid statistics",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is helping to save lives. Open geographic data and aid statistics are used by humanitarian groups to deliver crucial supplies in disaster zones.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open data is helping to save lives. Open geographic data and aid statistics are used by humanitarian groups to deliver crucial supplies in disaster zones.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_id": "58fdfc5fd084d5167a04ddbf",
@@ -767,179 +611,13 @@
     }
   },
   {
-    "_id": "58fdfc5fd084d5167a04ddcd",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd3c",
-    "_type": "component",
-    "body": "<p><strong>What should you look for when assessing the sustainability of an open dataset?</strong></p>",
-    "displayTitle": "What should I look for when assessing sustainability?",
-    "title": "Q: What should I look for when assessing sustainability?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose three of the options below and select 'Submit'",
-    "_items": [
-      {
-        "text": "The data's publishing history",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "How much it costs",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Who is already using  the data",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "What format the data is in",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Who is funding the data's release",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 3,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Looking for the publishing history, who is using the data and how it is paid for are all key questions to ask when determining the sustainability of the dataset</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddd5",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd2d",
-    "_type": "component",
-    "body": "<p><strong>What is the benefit of having open transport data?</strong></p>",
-    "displayTitle": "Changing society and public policy",
-    "title": "Q: Changing society and public policy",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": " Choose an answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": " It saves people time and improves access",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": " It makes trains faster",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "It makes tickets cheaper",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open transport data saves commuters time, makes journeys more accessible and streamlines access for tourists.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open transport data saves commuters time, makes journeys more accessible and streamlines access for tourists.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04dde2",
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd2a",
     "_type": "component",
-    "body": "<p>Відкриті дані &ndash; <strong>це дані, які є доступними і вільними у використанні та розповсюджені будь-ким.</strong></p><p dir=\"ltr\">Відкриті дані є базовою складовою цифрової ери, але на відміну від вугілля, деревини чи алмазів, їх може використовувати одночасно будь-хто.</p><p dir=\"ltr\">Будь-які обмеження у використанні відкритих даних будуть зменшувати їх потенціал для створення нової цінності.</p><p dir=\"ltr\">Відкриті дані різнобічно сприяють роботі влади, бізнесу і кожного громадянина окремо. Вони можуть допомогти поліпшити послуги, розвинути економіку та захистити нашу планету.</p><p dir=\"ltr\">У наступному модулі ми дізнаємося як отримати користь від відкритих даних.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/58fdfc5ed084d5167a04dcea\">Наступний модуль</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#/\">Головне меню </a></p><p>&nbsp;</p>",
+    "body": "<p>Відкриті дані &ndash; <strong>це дані, які є доступними і вільними у використанні та розповсюджені будь-ким.</strong></p><p dir=\"ltr\">Відкриті дані є базовою складовою цифрової ери, але на відміну від вугілля, деревини чи алмазів, їх може використовувати одночасно будь-хто.</p><p dir=\"ltr\">Будь-які обмеження у використанні відкритих даних будуть зменшувати їх потенціал для створення нової цінності.</p><p dir=\"ltr\">Відкриті дані різнобічно сприяють роботі влади, бізнесу і кожного громадянина окремо. Вони можуть допомогти поліпшити послуги, розвинути економіку та захистити нашу планету.</p><p dir=\"ltr\">У наступному модулі ми дізнаємося як отримати користь від відкритих даних.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/58fdfc5ed084d5167a04dcea\">Наступний модуль</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#/\">Головне меню</a></p>",
     "displayTitle": "Відкриті дані",
-    "title": "Summary",
+    "title": "Підсумки",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1028,40 +706,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04dde7",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dda4",
-    "_type": "component",
-    "body": "<p>Open data has the power to help grow economies, transform societies and protect the environment.</p><p>Open data can help governments grow economies, improve service delivery and save on costs.</p><p>Open data can benefit society by improving the ways we move, the ways we work and the ways we govern.</p><p>Open data can help save lives and help us better understand the world in which we live.</p><p>Ready to get involved? In the next module, we explore how to engage in an open data initiative.</p><p><a class=\"button\" href=\"#/id/5889e11ab61c46e176e7e881\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
-    "displayTitle": "Ready to unlock value?",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04dde8",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dda5",
-    "_type": "component",
-    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment.</li></ul>",
-    "displayTitle": "Unlocking value from open data",
-    "title": "Unlocking value from open data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "5982e376d084d5167a051e43",
     "_layout": "left",
     "_parentId": "5982e376d084d5167a051dec",
@@ -1133,83 +777,6 @@
     "_isOptional": false,
     "_classes": "",
     "_component": "text",
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de01",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd77",
-    "_type": "component",
-    "body": "<p>When searching for sustainable sources of open data, it is important that they are relevant, up to date and accessible.</p><p>A sustainable programme is one that continues to release data regularly, with at least the same or improving quality and quantity.</p><p>Using simple indicators listed above, it is possible to identify sustainable sources of open data that can be used in your future work.</p><p>In the next module, we explore how open data platforms can simplify the process of publishing and using data.</p><p><a class=\"button\" href=\"#/id/58905843b61c46e176e7eb2a\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
-    "displayTitle": "Sustainable open data",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de02",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd79",
-    "_type": "component",
-    "body": "<p>ODI Startup Programme Manager Ulrich Atz explains the importance of sustainability for open data and why it matters to users. He also talks through some of the key indicators that an open data initiative is built to last.</p>",
-    "displayTitle": "Making open data sustainable – in 2 minutes",
-    "title": "Making open data sustainable – in 2 minutes",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://player.vimeo.com/video/129879004",
-      "type": "video/vimeo",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "ended",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_playsinline": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de03",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd7e",
-    "_type": "component",
-    "body": "<p>There are two helpful things to remember when thinking about sustainable open data, can you remember them?</p>",
-    "displayTitle": "Are you ready for sustainable open data?",
-    "title": "Are you ready for sustainable open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
     "instruction": ""
   },
   {
@@ -1299,8 +866,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/uk/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
-      "small": "course/uk/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+      "large": "course/uk/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/uk/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
       "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
@@ -1671,83 +1238,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de50",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dda6",
-    "_type": "component",
-    "body": "<p>ODI Trainer Ben Cave examines how businesses and governments are unlocking value from open data and the positive impacts this has on the economy, society and the environment.</p>",
-    "displayTitle": "Unlocking value from open data – in 3 minutes",
-    "title": "Unlocking value from open data – in 3 minutes",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://player.vimeo.com/video/129196639",
-      "type": "video/vimeo",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_playsinline": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de51",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd59",
-    "_type": "component",
-    "body": "<p>There are lots of valuable examples of open data initiatives bringing social, economic and environmental benefits. Are you ready to join the open data movement?</p>",
-    "displayTitle": "Are you ready to unlock value from open data?",
-    "title": "Are you ready to unlock value from open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de5a",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd7a",
-    "_type": "component",
-    "body": "<p>A sustainable open dataset is supported by:</p><ul><li><strong>Secure funding</strong> to cover the cost of updates</li><li><strong>Active support</strong> of publishers to prioritise updates</li><li><strong>Wide reuse</strong> by others to demonstrate the value</li></ul>",
-    "displayTitle": "What makes open data sustainable?",
-    "title": "What makes open data sustainable?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58fdfc60d084d5167a04de63",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd7d",
@@ -1768,84 +1258,6 @@
       "large": "course/uk/assets/5624fd7a19a9a820a965e5f793396f8dee441856.png",
       "small": "course/uk/assets/5624fd7a19a9a820a965e5f793396f8dee441856.png",
       "attribution": "<a href=\"https://www.shutterstock.com/image-vector/flat-3d-isometric-mobile-uiux-design-234298726?src=id\" target=\"_blank\">Sentavio</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de6f",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd2c",
-    "_type": "component",
-    "body": "<p><strong>Open data awareness is no longer a luxury for public servants, it is now...</strong></p><p>&nbsp;</p>",
-    "displayTitle": "Opportunities for government",
-    "title": "Q: Opportunities for government",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose an answer, then click Submit",
-    "_items": [
-      {
-        "text": " a little more important than it used to be",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "something that should be researched more",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "a crucial part of modern service delivery",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data is&nbsp;crucial part of modern service delivery in order to support the emergence of new data-driven businesses and the growth of existing ones.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open data is&nbsp;crucial part of modern service delivery in order to support the emergence of new data-driven businesses and the growth of existing ones.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
     }
   },
   {
@@ -1927,86 +1339,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de7b",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd7d",
-    "_type": "component",
-    "body": "<p>A sustainable release combines secure funding, active support and wide reuse. These traits are not always obvious when you first find a dataset. Ask yourself the following to help spot good sources:</p>",
-    "displayTitle": "Looking for clues",
-    "title": "Looking for clues",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the headings to learn more.",
-    "_items": [
-      {
-        "title": "What is the source?",
-        "body": "<p>Ask yourself who has released the data and how much confidence you have in their commitment to continue to update it.<br /><br />One of the most important indicators of sustainability is how confident you feel in the organisation that collects it.<br /><br />If the data is from government, might an election or a change in priority affect its open release?</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Who is funding the release?",
-        "body": "<p>Data available at no cost might seem ideal, but it&#39;s important to ask yourself how a publisher is funding its sustained release.<br /><br />Ask yourself whether the data is being released due to transparency pressures, or whether there is a wider beneficial use driving demand.<br /><br />Try to find out whether there is a specific short-term programme funding the data&#39;s availability or whether the release is part of the organisation&#39;s core strategy.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "What does the licence say?",
-        "body": "<p>Licences can also offer clues about data&#39;s sustainability.<br /><br />When looking at a licence, ask yourself what the text might indicate about the dataset&#39;s future and the publisher&#39;s confidence in it? Does it contain a commitment to update it regularly?<br /><br />Remember that without a licence, data is not truly open. The licence gives you certainty that data can be freely used and shared.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Who is already using the data?",
-        "body": "<p>The more widely a dataset is used, the more pressure there is for it to be sustained.<br /><br />Ask yourself who else is using this dataset and for what purposes.<br /><br />Try to find out whether the dataset is used internally by the publisher.<br /><br />Both aspects indicate whether the publisher cares about the dataset and is under external pressure not to remove access to it, or change it for their own purposes.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "What is the publishing history? ",
-        "body": "<p>Assessing open data&#39;s sustainability ultimately depends on how much trust you place in its publisher.<br /><br />Ask yourself how long the dataset has been published for. A long history of updates is a good sign, but beware external factors such as project length or term in office. A key indicator of a sustainable initiative is one that outlives these external factors.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "How can I contribute?",
-        "body": "<p>Using a dataset yourself will help drive its demand and influence its sustainability.<br /><br />Think about joining any communities of practice that exist around the dataset.<br /><br />Try to find out whether the publisher plays an active role in these communities and whether they act upon feedback to improve their services.<br /><br />Ask yourself what value you can demonstrate that will enhance the sustainability that is ensured by the data publisher.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
     "_id": "58fdfc60d084d5167a04de7d",
     "_layout": "full",
     "_parentId": "58fdfc5fd084d5167a04dd26",
@@ -2076,8 +1408,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-      "small": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+      "large": "course/uk/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
+      "small": "course/uk/assets/a4e1ed47c1d4c605cacc0e2deb4b291dc3eeadc6.jpg",
       "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
   },
@@ -2197,228 +1529,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de90",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd7b",
-    "_type": "component",
-    "body": "<p>What factors help make an open dataset sustainable?</p>",
-    "displayTitle": "Making sense of sustainability in open data",
-    "title": "Making sense of sustainability in open data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Secure funding for open data",
-        "body": "<p>Just because a dataset can be freely used does not mean there is no cost to collecting or releasing the data. Funding can be secured by:</p><ul><li>Charging for access or enhanced services</li><li>Funding from another source who supports open data publication</li><li>Demonstrating the ongoing value of open data to the organisation</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "funding"
-      },
-      {
-        "title": "Active support for open data",
-        "body": "<p>Making open data sustainable for an organisation usually requires the backing of its management, to make it a priority, and the support of staff responsible for maintaining quality.</p><p>Active support is most commonly achieved by a company committing to maintaining open data as part of its daily operations.</p>",
-        "_graphic": {
-          "src": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "active support"
-      },
-      {
-        "title": "Wide reuse of open data",
-        "body": "<p>Sustainable reuse is achieved when the services created with that data become critical to the success of the publisher&rsquo;s business. The Berlin transport system Verkehrsverbund Berlin-Brandenburg&#39;s datasets are used by millions when they access transport apps like Citymapper. These apps drive usage of VBB services and, as such, VBB have a commitment in their digital strategy to regularly update the data.<br /><a href=\"https://citymapper.com/berlin\" target=\"_blank\">Take me to Citymapper Berlin</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "wide reuse"
-      }
-    ]
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de91",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd7c",
-    "_type": "component",
-    "body": "<p>Why should I care whether or not the open data I work with is sustainable?</p>",
-    "displayTitle": "Why does sustainability matter?",
-    "title": "Why does sustainability matter?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Solid foundations",
-        "body": "<p>Sustainability is not just good for the users. The publisher also benefits from a sustainable open data programme by:</p><ul><li>Enhancing the trust of the community in the publisher&rsquo;s organisation.</li><li>Supporting the creation of new products and services.</li><li>Simplifying the publishers reuse of their own data.</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/8207089edb2bf2393f91154fe5aaa39b9d29b3b0.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/circuit-tree-technology-vector-background-eps10-271074140?src=id\" target=\"_blank\">Saibarakova Ilona</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "solid foundations"
-      },
-      {
-        "title": "Enhances trust",
-        "body": "<p>Sustainable open data allows a large community to build and analyse data in order to draw their own conclusions, often in support of a publisher&#39;s view.</p>",
-        "_graphic": {
-          "src": "course/uk/assets/9d5f5fce1035ae6401a68ba71382523f0b5f814d.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=246120358&src=lb-36497927\" target=\"_blank\">Arthimedes</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "trust"
-      },
-      {
-        "title": "Builds business connections",
-        "body": "<p>Sustained open data has the power to unlock new customer channels, enabling other businesses to build on a publisher&#39;s data. In many cases these businesses provide direct benefits back to the publisher.</p>",
-        "_graphic": {
-          "src": "course/uk/assets/3b332706e7b0a02ff4b967347347a3436f52cab0.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/eps-beautiful-structure-dna-molecule-119824141?src=id\" target=\"_blank\">Palau</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "connections"
-      },
-      {
-        "title": "Improves data usability",
-        "body": "<p>One of the most frequent reusers of a publisher&#39;s data may well be the publisher. Why separate the public release of data from the internal data usage?</p>",
-        "_graphic": {
-          "src": "course/uk/assets/670e2c72ad528439a4ebd9a4a94a271204c631f5.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/composite-silver-cube-some-colorful-elements-165242216?src=id\" target=\"_blank\">LovArt</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "usability"
-      }
-    ]
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de92",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd3b",
-    "_type": "component",
-    "body": "<p><strong>Which of these does not influence the sustainability of an open dataset?</strong></p>",
-    "displayTitle": "What influences sustainability?",
-    "title": "Q: What influences sustainability?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "gmcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "_graphic": {
-          "large": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
-          "small": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "text": "Secure funding",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "_graphic": {
-          "large": "course/uk/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
-          "small": "course/uk/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
-          "alt": "",
-          "attribution": "<a href=\"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg\" target=\"_blank\">Dave Matos</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "text": "Large filesize",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "_graphic": {
-          "large": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-          "small": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "text": "Active support",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "_graphic": {
-          "large": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
-          "small": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "text": "Wide reuse",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "_columns": 0,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>File size is not a factor in data&#39;s sustainability. What matter most are a secure source of funding, the active support of the publisher and wide reuse to generate value from the data.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>File size is not a factor in data&#39;s sustainability. What matter most are a secure source of funding, the active support of the publisher and wide reuse to generate value from the data</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de93",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd3c",
@@ -2528,23 +1638,6 @@
     "instruction": ""
   },
   {
-    "_id": "58fdfc60d084d5167a04dea9",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd78",
-    "_type": "component",
-    "body": "<p>Open data must be relevant, up to date and accessible in order to be useful.</p><p>A sustainable open data programme is one that continues to release data regularly with at least the same or improving quality and quantity.</p><p><strong>In this module we&#39;ll explore the following:</strong></p><ul><li>How to make sense of sustainability</li><li>Why sustainability matters to you</li><li>What to look for in sustainable open datasets</li></ul>",
-    "displayTitle": "Why should we worry about sustainability?",
-    "title": "Why should we worry about sustainability?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "58fdfc60d084d5167a04de72",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dda2",
@@ -2623,177 +1716,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04dde9",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd22",
-    "_type": "component",
-    "body": "<p>Open data is supporting innovation and growth by revealing opportunities for businesses large and small to build new services, identify savings and improve operations.</p><p>In Paris, caf&eacute; owners are using open data to attract tourists to the&nbsp;<a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">city&#39;s most affordable coffees</a>, while&nbsp;in Iceland&nbsp;farmers are using&nbsp;<a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">open data about the quality of their lambs</a>&nbsp;to attract new customers.</p><p>Open data stimulates innovation by removing barriers to access, use and shareability of data.</p><p>Data literacy is a core skill for businesses looking to take advantage of the opportunities open data offers to create new value and improve operations.</p>",
-    "displayTitle": "Innovation and growth in businesses",
-    "title": "Innovation and growth in businesses",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de1b",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dda7",
-    "_type": "component",
-    "body": "<p>The public sector benefits from open data initiatives in many ways:</p>",
-    "displayTitle": "Opportunities for government",
-    "title": "Opportunities for government",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Supporting growing economies",
-        "body": "<p>To support the emergence of new data-driven businesses and the growth of existing ones, governments need to publish key datasets.</p><p>Governments also need to support data infrastructure that connects data with those who use it.</p><p>In return, governments are reaping the benefits of a growing data economy, such as in Finland where SMEs with access to open data grew 15% faster than those without.</p><p><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\" target=\"_blank\">Take me to the Finnish case study</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/e2c2011c9ba973cec7573535fe786c58dca96518.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/abstract-circuit-city-computer-high-technology-128352227\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Supporting growing economies"
-      },
-      {
-        "title": "Improved service delivery",
-        "body": "<p>Governments need to balance the demands of growing populations with the need to tackle small-scale, local issues.</p><p>The availability of detailed open data is essential to improving delivery of services at the local level.</p><p>There are over 17,000 schools in Ukraine, the Open School Project is the only service that provides detailed information about all of them. Open data allows the Open School Project to scale easily while providing a valuable service to citizens.<br /><a href=\"https://danimist.org.ua/uk/news/vidkryta-shkola-servis-iz-danymy-pro-17000-ukrayinskyh-shkil\" target=\"_blank\">Take me to the Open School Project</a></p><p>Examples of other local services include Fix my Street who allow citizens to report maintenance issues in their neighbourhood to the local councils.<br /><a href=\"http://www.fiksgatami.no/\" target=\"_blank\">Take me to Fix my Street Norway</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
-        },
-        "strapline": "Improved service delivery"
-      },
-      {
-        "title": "Cost savings",
-        "body": "<p>Open data allows governments to make savings in key areas such as healthcare, education and utilities.</p><p>In the UK, open data helped reveal&nbsp;<a href=\"https://theodi.org/news/prescription-savings-worth-millions-identified-odi-incubated-company\" target=\"_blank\">&pound;200 million of savings</a>&nbsp;in the health service.</p><p>In Ukraine, Prozorro is reporting over 800 million of savings for due to its open contracting procurement reforms. Additionally they have published all the results as open data via an interactive dashboard.<br /><a href=\"http://bi.prozorro.org/sense/app/fba3f2f2-cf55-40a0-a79f-b74f5ce947c2/sheet/HbXjQep/state/analysis\" target=\"_blank\">Take me to the Prozorro dashboard</a></p><p>In France, energy data is being used to drive more efficient energy generation practices.<br /><a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\">Show me the France energy data.</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/52602f16682ed9e87ec9785f93059e164b1f261a.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/numbers-background-blue-abstract-75494491\" target=\"_blank\">vlastas</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Cost savings"
-      }
-    ]
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de74",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd57",
-    "_type": "component",
-    "body": "<p>Open data is unlocking new social value and enabling better targeted public policies.</p>",
-    "displayTitle": "Changing societies and public policy",
-    "title": "Changing societies and public policy",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the headings to explore further.",
-    "_items": [
-      {
-        "title": "Improving the way we move",
-        "body": "<p>Open data has the power to revolutionise the way we travel.</p><p>All over the world open transport data allows companies like Citymapper and Google to give people accurate transport information. This not only helps people understand and use complex transport systems, it also decreases the number of people in cars and increases revenue for public transport systems.</p><p dir=\"ltr\">Open transport data is estimated to provide time savings for commuters in London of between &pound;15 and &pound;58m a year and that was in 2012.<br /><a href=\"http://odimpact.org/case-united-kingdoms-transport-for-london.html\" target=\"_blank\">Take me to the case study</a></p><p>Within the Dutch transport industry, open data is helping a growing number of small companies to develop new services.</p><p>A new Dutch app, winner of the prestigious Apps4Europe competition, helps disabled people to book travel assistance for their journeys using open data.</p><p>Open transport data saves commuters time, makes journeys more accessible and helps tourists to travel in unfamiliar cities.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Improving the way we work",
-        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p>For example YouControl is using open data on corporations to help businesses identify the best partners for different projects. This saves time manually searching for the best partners while identifying those who may not be known.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Improving the way we govern",
-        "body": "<p>Open data is becoming a key source of evidence for governments in the policymaking process.</p><p>Open data is also making the development of public policy more transparent and supporting dialogue between governments and citizens.</p><p>Open data on key issues such as immigration, trade and budget cuts can be used to inform important policy decisions.</p><p>In Ukraine, the Better Regulation Delivery Office uses open data to ensure that the Ministry of Health is using up to date regulations that match international standards. This helps develop the ministry provide an innovative service that allows physicians to use evidence-based medicine instead of the authority-based medicine.<br /><a href=\"http://en.brdo.com.ua/main/international-clinical-protocols-medicine-based-evidence/\" target=\"_blank\">Take me to the Better Regulation Delivery Office</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de82",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd58",
-    "_type": "component",
-    "body": "<p>Open data is helping people target initiatives for cultural and environmental benefits.</p>",
-    "displayTitle": "Benefiting culture and the environment",
-    "title": "Benefiting culture and the environment",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Environment",
-        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p dir=\"ltr\">In the Ukraine Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.<br /><a href=\"http://agrieye.itc.ms/\" target=\"_blank\">Take me to Agri Eye</a></p><p>Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.<br /><a href=\"https://www.plantwise.org/\" target=\"_blank\">Take me to Plantwise</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/variation-lentils-beans-peas-grain-soybeans-94664593\" target=\"_blank\">Madlen</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Environment"
-      },
-      {
-        "title": "Saving lives",
-        "body": "<p>Open data is helping to save lives. Open geographic data and aid statistics are being used by humanitarian groups to deliver targeted supplies in disaster zones.</p><p>Open mapping data helped disaster response teams target aid delivery during the 2010 Haiti earthquake.<br /><a href=\"http://hotosm.org/projects/haiti-2\" target=\"_blank\">Show me the Haiti Open Street Map.</a></p><p>Open data was also used for responses to the Philippines typhoon in 2014.</p><p>Open data is also being used to track the Ebola virus outbreak in West Africa in 2015.<br /><a href=\"https://web.archive.org/web/20160123072141/http://www.eboladata.org/\" target=\"_blank\">Show me the Ebola open data jam.</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/052ae206817001d25e571d74799a4785a9397bd0.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.itoworld.com/product/visualisation-communication\" target=\"_blank\">Ito World Ltd</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "Saving lives"
-      },
-      {
-        "title": "Culture",
-        "body": "<p>Open data is connecting people with important cultural issues and helping to shape a more informed debate around them.</p><p>OpenGLAM is helping to capture the heritage and cultural memories of groups in Germany, Switzerland and Finland.<br /><a href=\"http://openglam.org/\" target=\"blank\">Take me to OpenGLAM.</a></p><p>The Open Data Institute is leading a global Data as Culture programme, with artists in residence re-examining the fundamental ways in which data is perceived.<br /><a href=\"http://theodi.org/culture\" target=\"_blank\">Take me to ODI Data as Culture</a></p>",
-        "_graphic": {
-          "src": "course/uk/assets/82205b0fb35887422d2503dae34faa3603d243f9.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.flickr.com/photos/ukodi/13400679614/in/album-72157642859056285/\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "Culture"
-      }
-    ]
-  },
-  {
     "_id": "5982e377d084d5167a051e74",
     "_layout": "left",
     "_parentId": "5982e376d084d5167a051e05",
@@ -2865,433 +1787,6 @@
     }
   },
   {
-    "_id": "59158ac0d084d5167a04e431",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e39f",
-    "_type": "component",
-    "body": "<p><strong>Open data becomes usable when...</strong></p>",
-    "displayTitle": "What is quality open data?",
-    "title": "Q: What is quality open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "it is imported into our system",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "a human can understand it, machines can manipulate it and it has an open licence",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": " the government publishes it",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data becomes usable when a human can understand it, machines can manipulate it and it is made available under an open licence.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open data becomes usable when a human can understand it, machines can manipulate it and it is made available under an open licence.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e432",
-    "_layout": "right",
-    "_parentId": "59158ac0d084d5167a04e3a0",
-    "_type": "component",
-    "body": "<p><strong>There are three legal considerations as part of the standards for publishing open data, one of which is...</strong></p>",
-    "displayTitle": "Legal considerations",
-    "title": "Q: Legal considerations",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "not to break the licensing law",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "to publish any type of data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "to protect sensitive information such as personal data",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>In addition to the open licence, there are three legal requirements that need to be considered. Protect sensitive information like personal data, preserve the rights of data owners and promote correct use of the data.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>In addition to the open licence, there are three legal requirements that need to be considered. Protect sensitive information like personal data, preserve the rights of data owners and promote correct use of the data</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e433",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3a1",
-    "_type": "component",
-    "body": "<p><strong>There are three technical considerations as part of the standards for publishing open data, one of which is...</strong></p>",
-    "displayTitle": "Technical considerations",
-    "title": "Q: Technical considerations",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "what format the open data is published in",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "whether it can be used on a computer",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "whether it takes up much bandwidth",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": false,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>There are three recommendations that define the technical aspects of open data. The format in which the data is published in, the structure of the data and the channels through which the data is available.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>There are three recommendations that define the technical aspects of open data. The format in which the data is published in, the structure of the data and the channels through which the data is available.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e434",
-    "_layout": "right",
-    "_parentId": "59158ac0d084d5167a04e3a2",
-    "_type": "component",
-    "body": "<p><strong>The Open Data Institute advocates the use of its own quality marque known as...</strong></p>",
-    "displayTitle": "Marques of quality",
-    "title": "Q: Marques of quality",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "the ODI big green tick",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "the ODI stamp of approval",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Open Data Certificates",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>The Open Data Institute has developed Open Data Certificates that include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The Open Data Institute has developed Open Data Certificates that include practical and social requirements alongside in-depth legal and technical guidelines to consider when publishing open data.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e465",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3d3",
-    "_type": "component",
-    "body": "<p>Open data becomes usable when a human can understand it and a machine can manipulate it.</p><p>Both of these require the permission of the publisher, granted via an open licence. However, the open licence alone is not sufficient to guarantee the usability of data. Simply putting a file on a website with an open licence does not constitute open data.</p><p>It is unlikely that users will be able to properly engage with unusable data to derive insights and demonstrate benefits.</p><p>In the next module, we compare open data initiatives and look at the key performance indicators of successful ones.</p><p><a class=\"button\" href=\"#/id/588f3feeb61c46e176e7eaa9\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
-    "displayTitle": "Standards + marques = quality open data",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "inverted footer",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "59158ac0d084d5167a04e466",
-    "_layout": "full",
-    "_parentId": "59158ac0d084d5167a04e3d5",
-    "_type": "component",
-    "body": "<p>ODI Trainer David Tarrant explains what quality data is, how to recognise it and which quality marques consumers of open data should look for.</p>",
-    "displayTitle": "Assessing open data quality – in 2 minutes",
-    "title": "Assessing open data quality – in 2 minutes",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://player.vimeo.com/video/129197043",
-      "type": "video/vimeo",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "inview",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_playsinline": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_id": "59158ac0d084d5167a04e467",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3d6",
-    "_type": "component",
-    "body": "<p>Open data becomes usable when a human can understand it and a machine can manipulate it.</p><p>Users of open data need the permission of its publisher, granted by an open licence. But the open licence alone is not enough to guarantee the usability of data.</p><p>It is unlikely that people will be able to engage with data to derive insights and demonstrate benefits unless it is usable.</p>",
-    "displayTitle": "What is open data quality?",
-    "title": "What is open data quality?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "59158ac0d084d5167a04e468",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3d8",
-    "_type": "component",
-    "body": "<p>Marques of quality provide users with confidence about the quality and usability of open data.</p><p>There are two key indicators of open data quality:</p>",
-    "displayTitle": "Marques of quality",
-    "title": "Marques of quality",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the headings to explore further.",
-    "_items": [
-      {
-        "title": "5 Stars",
-        "body": "<p>The &#39;5 Stars of linked open data&#39; include the basic legal definition and technical excellence of the published data.</p>\n\n<p>The 5 Stars were developed by inventor of the Web, Sir Tim Berners-Lee, in 2001. The 5 Stars make recommendations for the format and structure of the data.</p>\n\n<p>You can learn more about the 5 Stars in modules 10 and 13 of this course.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "ODI Open Data Certificates",
-        "body": "<p>The Open Data Institute&#39;s Open Data Certificates are practical, social, legal and technical guidelines to consider when publishing or using open data.</p>\n\n<p>The certificates act as a self-assessment questionnaire for publishers, and in some cases users, to assess and benchmark the full usability of a dataset.<br />\n<a href=\"https://certificates.theodi.org/\" target=\"_blank\">Take me to the ODI Open Data Certificates site</a></p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
     "_id": "59158ac0d084d5167a04e498",
     "_layout": "left",
     "_parentId": "59158ac0d084d5167a04e3a0",
@@ -3359,40 +1854,6 @@
       "small": "course/uk/assets/18f7dfef9329e251dd9d3b8920ee0a120b661a4d.jpg",
       "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/infinite-white-cubes-red-one-representing-254316427\" target=\"_blank\">tostphoto</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
     }
-  },
-  {
-    "_id": "59158ac0d084d5167a04e4c0",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3d4",
-    "_type": "component",
-    "body": "<p>Assessing how usable open data is cannot be done quickly.</p><p>There are a number of community-based standards and quality marques that can help you to assess how usable data is.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>What makes data usable</li><li>How standards help increase the usability of data</li><li>Marques of quality</li></ul>",
-    "displayTitle": "What makes quality open data",
-    "title": "What makes quality open data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "59158ac0d084d5167a04e4c1",
-    "_layout": "left",
-    "_parentId": "59158ac0d084d5167a04e3d9",
-    "_type": "component",
-    "body": "<p>Can you recall the practical, technical, legal and social requirements for an open dataset to be useful?</p>",
-    "displayTitle": "Are you ready for quality open data?",
-    "title": "Are you ready for quality open data?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "59158ac1d084d5167a04e509",
@@ -3487,68 +1948,6 @@
     }
   },
   {
-    "_id": "59158ac1d084d5167a04e50b",
-    "_layout": "full",
-    "_parentId": "59158ac0d084d5167a04e3d7",
-    "_type": "component",
-    "body": "<p>Community-driven standards define the legal, practical, technical and social requirements for an open dataset to be useful.</p>",
-    "displayTitle": "Community-driven standards",
-    "title": "Community-driven standards",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Legal requirements",
-        "body": "<p>In addition to the open licence, there are three legal requirements that need to be considered.</p><p>You must:</p><ul><li>Protect sensitive information like personal data.</li><li>Preserve the rights of data owners.</li><li>Promote correct use of the data.</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Legal requirements"
-      },
-      {
-        "title": "Practical requirements",
-        "body": "<p>It is important that open data can be found and relied upon by users.</p><p>This means that open data publishers must:</p><ul><li>Link to the data from their website.</li><li>Update the data regularly if it changes.</li><li>Commit to continue to make the data available.</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Practical requirements"
-      },
-      {
-        "title": "Technical requirements",
-        "body": "<p>There are three recommendations that define the technical aspects of open data:</p><ul><li>The format in which the data is published.</li><li>The structure of the data.</li><li>The channels through which the data is available.</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Technical requirements"
-      },
-      {
-        "title": "Social requirements",
-        "body": "<p>For data use to be sustainable, it is important to have an engaged community of users. The best datasets have:</p><ul><li>Active support channels.</li><li>Discussion groups and forums.</li><li>Published how-to guides on working with the data.</li></ul>",
-        "_graphic": {
-          "src": "course/uk/assets/d67a7ab25ce88d723cd840d5c7ca10a38b27db75.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-187711424.html\" target=\"_blank\">bluebay</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "network"
-      }
-    ]
-  },
-  {
     "_id": "58fdfc60d084d5167a04de7e",
     "_layout": "full",
     "_parentId": "58fdfc5fd084d5167a04dd20",
@@ -3599,159 +1998,6 @@
         "strapline": "Захищаючи нашу планету"
       }
     ]
-  },
-  {
-    "_id": "58fdfd2ed084d5167a04e024",
-    "_layout": "left",
-    "_parentId": "58fdfd16d084d5167a04e023",
-    "_type": "component",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principals it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principals of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
-    "displayTitle": "The key principals of the Open Data Charter",
-    "title": "The key principals of the Open Data Charter",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "5926d635d084d5167a04eabf",
-    "_layout": "right",
-    "_parentId": "5926d62fd084d5167a04eabe",
-    "_type": "component",
-    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spread&nbsp;lessons from those who are implementing open data projects and connect them with each other</li><li>Works with different sectors to turn high-level open data principles into practical action</li><li>Drives momentum for the open data movement by supporting governments to commit publicly to the charter principles</li></ul>",
-    "displayTitle": "Why have a charter?",
-    "title": "Why have a charter?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "5926d877d084d5167a04eac2",
-    "_layout": "left",
-    "_parentId": "5926d861d084d5167a04eac0",
-    "_type": "component",
-    "body": "<p>The Open Data Charter consists of six principals. Explore the first four below:</p>",
-    "displayTitle": "Charter principals (1-4)",
-    "title": "Charter principals (1-4)",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "title": "1. Open by default",
-        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>&#39;Open by default&#39; is the principal that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well-defined sensitive or personal data).&nbsp;</p><p>With &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "2. Timely and Comprehensive",
-        "body": "<p>Open data and information should be made available without undue delay and be as complete as possible.&nbsp;</p><p>Ideally, data should be made available in&nbsp;its original, unmodified form, and link data&nbsp;to any relevant guidance, documentation, visualisations, or analyses.</p><p>If anonymising or aggregating data to remove personal or sensitive data, this though be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>Data users should be consulted&nbsp;and feedback channels made available to help improve and accelerate engagement with the data.&nbsp;</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "3. Accessible and Usable",
-        "body": "<p>Data should be made available without&nbsp;bureaucratic or administrative barriers and without cost.</p><p>Links to data should be provided on portals and relevant websites that give people confidence that they are accessing authoritative data.&nbsp;</p><p>Data should be available in widely used formats to ensure the widest range of users are able to access and use the data.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "4. Comparable and Interoperable",
-        "body": "<p>Data&nbsp;should be presented in structured and standardised formats&nbsp;to support interoperability, traceability&nbsp;and effective reuse.</p><p>Data users should&nbsp;have access to sufficient information to&nbsp;understand the source, strengths, weaknesses and analytical limitations of&nbsp;the data.</p><p>To help with this, data should be&nbsp;fully described with&nbsp;all accompanying&nbsp;documentation data&nbsp;written in clear, plain language.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "5926d8a6d084d5167a04eac5",
-    "_layout": "full",
-    "_parentId": "5926d878d084d5167a04eac3",
-    "_type": "component",
-    "body": "<p>The remaining&nbsp;two principals of the charter focus on why the data is being made open. Discover more below:</p>",
-    "displayTitle": "Principals 5 and 6",
-    "title": "Principals 5 and 6",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "5. For Improved Governance and Citizen Engagement",
-        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/uk/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "5. For Improved Governance and Citizen Engagement"
-      },
-      {
-        "title": "6. For Inclusive Development and Innovation",
-        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/uk/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "6. For Inclusive Development and Innovation"
-      }
-    ]
-  },
-  {
-    "_id": "5926e5aed084d5167a04eaca",
-    "_layout": "left",
-    "_parentId": "5926e587d084d5167a04eac8",
-    "_type": "component",
-    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protests for&nbsp;government transparency in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The six principles have helped define&nbsp;the 21 units and 59 tasks that determine what data will be disclosed in 2017.</p>",
-    "displayTitle": " How the Open Data Charter has been used in Ukraine",
-    "title": " How the Open Data Charter has been used in Ukraine",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "5927db45d084d5167a04eacb",
@@ -3869,101 +2115,6 @@
     }
   },
   {
-    "_id": "5927def6d084d5167a04eadb",
-    "_layout": "left",
-    "_parentId": "5927deedd084d5167a04eada",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Are you ready to adopt the Open Data Charter?",
-    "title": "Are you ready to adopt the Open Data Charter?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "592804c5d084d5167a04eaea",
-    "_layout": "right",
-    "_parentId": "592804c5d084d5167a04eae8",
-    "_type": "component",
-    "body": "<p><strong>You have been tasked to a collect a new set of data, how do you decide whether it should be available as open data?</strong></p>",
-    "displayTitle": "Principles of the open data charter",
-    "title": "Principles of the open data charter",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "text": "You establish the demand for it from users",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "You submit a case for it being open to the open data project",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "There is no need to, it should be open by default. A case should have to be made to close it",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_id": "592804c5d084d5167a04eae9",
     "_layout": "left",
     "_parentId": "592804c5d084d5167a04eae8",
@@ -3984,177 +2135,6 @@
       "large": "course/uk/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
       "small": "course/uk/assets/8e4cff29fb37a538a8012800f5a7f96e71650f8a.jpg",
       "attribution": "<a href=\"https://www.shutterstock.com/image-vector/3d-illustration-concept-data-179384507?src=lb-35924366\" target=\"_blank\">leromin</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "59280450d084d5167a04eae5",
-    "_layout": "left",
-    "_parentId": "59280435d084d5167a04eae4",
-    "_type": "component",
-    "body": "<p><strong>Why is the Open Data Charter important to the global open data movement?</strong></p>",
-    "displayTitle": "Why have a charter?",
-    "title": "Why have a charter?",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "text": "The Open Data Charter supports and holds governments to their open data commitments",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "The Open Data Charter funds open data initiatives",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "The Open Data Charter helps governments to protect their data resources",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The Open Data Charter supports governments and holds them&nbsp;to their open data commitments. It drives momentum for the open data movement by supporting governments to commit publicly to the charter principles.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The Open Data Charter supports governments and holds them&nbsp;to their open data commitments. It drives momentum for the open data movement by supporting governments to commit publicly to the charter principles.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "592805f5d084d5167a04eaf0",
-    "_layout": "left",
-    "_parentId": "592805f5d084d5167a04eaee",
-    "_type": "component",
-    "body": "<p><strong>Which of the following are principles of the charter?</strong></p>",
-    "displayTitle": "Principles of the Open Data Charter",
-    "title": "Principles of the Open Data Charter",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "_items": [
-      {
-        "text": "Open data should published as soon as possible",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Open data should be free from bureaucratic and administrative restrictions",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Data should be open by defalt",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Open data should be fully described with links to detailed, easy-to-read documentation",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Open data should have a cost associated with it",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Open data should be made available only to those who provide credentials",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 4,
-    "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy-to-read documentation.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>The principles of the Open Data Charter state that open data should be open by default, published in a timely manner,&nbsp;free from bureaucratic and administrative restrictions and provided alongside easy-to-read documentation.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
     }
   },
   {
@@ -4225,23 +2205,6 @@
       "small": "course/uk/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
       "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
-  },
-  {
-    "_id": "59280ffed084d5167a04eafa",
-    "_layout": "left",
-    "_parentId": "59280fb9d084d5167a04eaf8",
-    "_type": "component",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. However, not everyone is behind this agenda.&nbsp;Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways and sets out six key principals that governments can sign up to.&nbsp;</p><p>To date (May&nbsp;2017) 17 governments all over the world &ndash; including Ukraine &ndash; have signed up to the Open Data Charter and you can find out more about the charter&nbsp;<a href=\"http://opendatacharter.net/\" target=\"_blank\">here</a>.&nbsp;</p>",
-    "displayTitle": "Summary",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "58fdfc60d084d5167a04de15",
@@ -4351,5 +2314,2044 @@
       "small": "course/uk/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
     }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde8",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda5",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані мають такий потенціал: допомагають розвивати економіку, трансформують суспільство та захищають навколишнє середовище.</p><p dir=\"ltr\">У цьому модулі ми дізнаємося, яким чином влада, бізнес та кожен громадянин окремо використовують відкриті дані, щоб створити нову цінність.</p><p><strong>У цьому модулі ми розглянемо</strong></p><ul><li dir=\"ltr\">Інновації та розвиток у бізнесі</li><li dir=\"ltr\">Можливості для влади</li><li dir=\"ltr\">Значення для суспільства та державної політики</li><li dir=\"ltr\">Переваги для культури та навколишнього середовища.</li></ul>",
+    "displayTitle": "Цінність відкритих даних ",
+    "title": "Цінність відкритих даних ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de50",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dda6",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Бен Кейв, тренер Інститут відкритих даних, аналізує яким чином бізнес і влада отримують користь від відкритих даних та розповідає про їхній позитивний вплив на економіку, суспільство та навколишнє середовище.</p>",
+    "displayTitle": "Цінність відкритих даних за 3 хвилини",
+    "title": "Цінність відкритих даних за 3 хвилини",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Щоб ввімкнути/вимкнути субтитри, натисніть кнопку «сс» у нижньому правому кутку вікна. ",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129196639",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde9",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd22",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані сприяють інноваціям та розвитку, відкриваючи можливості для бізнесу - великого і малого - створювати нові послуги, знаходити шляхи економії та вдосконалювати операційну діяльність.</p><p dir=\"ltr\">Власники кафе у Парижі використовують відкриті дані, щоб привабити туристів до найбюджетніших <a href=\"https://web.archive.org/web/20150515035949/http://www.paris.fr/accueil/paris-mag/ou-boire-un-cafe-pour-1-a-paris/rub_9683_actu_116311_port_23863\" target=\"_blank\">кав&rsquo;ярень міста</a>, а фермери в Ісландії використовують відкриті дані <a href=\"http://weblog.linkingpaths.com/post/78767700473/icelandic-open-data-lambs-and-maps\" target=\"_blank\">про якість їхньої баранини,</a> для залучення нових клієнтів.</p><p dir=\"ltr\">Відкриті дані стимулюють інновації, знищуючи будь-які перепони на шляху до доступу, використання та розповсюдження даних.</p><p dir=\"ltr\">Обізнаність у сфері використання даних є ключовою навичкою для бізнесу, який прагне скористатися перевагами відкритих даних, щоб створити нову цінність та поліпшити операційну діяльність.</p>",
+    "displayTitle": "Інновації та розвиток у бізнесі",
+    "title": "Інновації та розвиток у бізнесі",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de1b",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dda7",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Державний сектор також отримує &nbsp;різні переваги, користуючись відкритими даними:</p>",
+    "displayTitle": "Можливості для уряду",
+    "title": "Можливості для уряду",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на стрілку вперед, щоб побачити більше",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Сприяння економічному розвитку",
+        "body": "<p dir=\"ltr\">Щоб сприяти появі нового бізнесу, орієнтованого на дані, та розвитку вже існуючого, уряди має опубліковувати ключові набори даних.</p><p dir=\"ltr\">Влада також має сприяти розвитку інформаційної інфраструктури, яка поєднує дані з їхніми користувачами</p><p dir=\"ltr\">У відповідь влада розвиває економіку, що зростає за рахунок даних. Наприклад, малий та середній бізнес у Фінляндії, які мають доступ до відкритих даних, розвивається на 15% швидше, ніж ті, хто такого доступу не має.</p><p dir=\"ltr\"><a href=\"https://web.archive.org/web/20140531085827/http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data\">Перейти на сайт фінського дослідження</a></p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/uk/assets/e2c2011c9ba973cec7573535fe786c58dca96518.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/abstract-circuit-city-computer-high-technology-128352227\" target=\"_blank\">vs148</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Сприяння економічному розвитку"
+      },
+      {
+        "title": "Поліпшення надання послуг ",
+        "body": "<p dir=\"ltr\">Влада має збалансувати потреби населення, що постійно зростає, з необхідністю вирішувати &nbsp;локальні проблеми на місцях.</p><p dir=\"ltr\">Доступність якісних &nbsp;відкритих даних є надзвичайно важливим фактором для покращення надання послуг на місцевому рівні.</p><p dir=\"ltr\">В Україні є близько 17&nbsp;000 шкіл, проте проект &laquo;Відкрита школа&raquo; є єдиним сервісом з детальною інформацією про всі ці школи. Відкриті дані &nbsp;допомагають проекту &laquo;Відкрита школа&raquo; з легкістю масштабувати свою роботута одночасно надавати якісні послуги громадянам.</p><p dir=\"ltr\"><a href=\"https://danimist.org.ua/uk/news/vidkryta-shkola-servis-iz-danymy-pro-17000-ukrayinskyh-shkil\" target=\"_blank\">Перейти на сайт Проекту &laquo;Відкрита школа&raquo; </a></p><p dir=\"ltr\">Прикладами інших місцевих послуг є проект &laquo;Поремонтуй мою вулицю&raquo;, яким передбачено інформування місцевих рад жителями про технічні проблеми у їхньому житловому районі.</p><p dir=\"ltr\"><a href=\"http://www.fiksgatami.no/\" target=\"_blank\">Перейти на сайт Проекту в Норвегії &laquo;Поремонтуй мою вулицю&raquo; (Fix my Street Norway)</a></p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/uk/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.fixmystreet.com/\" target=\"_blank\">Fixmystreet</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Поліпшення надання послуг "
+      },
+      {
+        "title": "Скорочення витрат ",
+        "body": "<p dir=\"ltr\">Відкриті дані допомагають владі скоротити витрати у таких ключових сферах, як охорона здоров&rsquo;я, освіта та сфера комунальних послуг. &nbsp;</p><p dir=\"ltr\">У Великобританії відкриті дані допомогли зекономити &pound;200 мільйонів &nbsp;в сфері охорони здоров&rsquo;я.</p><p dir=\"ltr\">В Україні система Prozorro допомогла скоротити витрати з бюджету на суму 800 мільйонів гривень завдяки реформі відкритого укладення договорів і державних закупівель. Також, усі результати опубліковані у формі відкритих даних на інтерактивній інформаційній панелі.</p><p dir=\"ltr\"><a href=\"http://bi.prozorro.org/sense/app/fba3f2f2-cf55-40a0-a79f-b74f5ce947c2/sheet/HbXjQep/state/analysis\" target=\"_blank\">Перейти до інформаційної панелі Prozorro </a></p><p dir=\"ltr\">У Франції енергетичні показники використовуються для розробки більш ефективних схем енерговиробництва. &nbsp;</p><p dir=\"ltr\"><a href=\"https://www.quandl.com/collections/france/france-energy-data\" target=\"_blank\">Показати енергетичні показники Франції.</a></p><p>&nbsp;</p>",
+        "_graphic": {
+          "src": "course/uk/assets/52602f16682ed9e87ec9785f93059e164b1f261a.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/numbers-background-blue-abstract-75494491\" target=\"_blank\">vlastas</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Скорочення витрат "
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de74",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd57",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані приносять користь суспільству і дозволяють проводити більш таргетовану державну політику.</p>",
+    "displayTitle": "Зміна суспільства та державної політики",
+    "title": "Зміна суспільства та державної політики",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на заголовки, щоб дізнатися більше",
+    "_items": [
+      {
+        "title": "Полегшення наших пересувань",
+        "body": "<p dir=\"ltr\">Відкриті дані можуть радикально змінити те, як ми подорожуємо</p><p dir=\"ltr\">У всьому світі відкриті дані про транспорт дозволяють таким компаніям, як Citymapper та Google, надавати людям точну інформацію про транспорт. Це не лише допомагає розуміти та використовувати складні транспортні системи, а й зменшує кількість користувачів авто і збільшує рівень доходів громадських транспортних систем.</p><p dir=\"ltr\">Підраховано, що в 2012 за допомогою відкритих даних користувачам публічного транспорту вдалося зекономити час на &pound;15- &pound;58 мільйонів на рік.</p><p dir=\"ltr\"><a href=\"http://odimpact.org/case-united-kingdoms-transport-for-london.html\" target=\"_blank\">Перейти до проведеного дослідження </a></p><p dir=\"ltr\">Що стосується транспортного сектору Нідерландів, то відкриті дані допомагають новим малим компаніям розвивати нові послуги.</p><p dir=\"ltr\">Новий голландський додаток, переможець конкурсу Apps4Europe (Додатки для Європи), допомагає людям з обмеженими можливостями, використовуючи відкриті дані, забронювати послуги супроводу під час подорожей. &nbsp;</p><p dir=\"ltr\">Відкриті транспортні дані допомагають зекономити час, роблять поїздки більш доступними і допомагають подорожувати незнайомими містами.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Спрощення нашої роботи",
+        "body": "<p dir=\"ltr\">Відкриті дані змінюють метод нашої роботи.</p><p dir=\"ltr\">Відкриті дані скорочують час, потрібний на пошук інформації, і дозволяють професіоналам присвятити більше часу більш продуктивній діяльності.</p><p dir=\"ltr\">Наприклад, сервіс YouControl використовує відкриті дані про компанії, щоб допомогти бізнесу знайти найкращих партнерів для різних проектів. Він економить час, що витрачається на ручний пошук найкращих партнерів. &nbsp;</p><p dir=\"ltr\"><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Перейти на сайт сервісу YouControl</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Покращення методів управління",
+        "body": "<p dir=\"ltr\">Відкриті дані стають основним фактологічним джерелом для органів влади у процесі творення державної політики.</p><p dir=\"ltr\">Відкриті дані сприяють більш прозорій розробці державної політики і діалогу між владою та громадянами.</p><p dir=\"ltr\">Відкриті дані про такі важливі сфери, як імміграція, торгівля і скорочення бюджету, можуть бути використані для вироблення важливих політичних рішень.</p><p dir=\"ltr\">Офіс ефективного регулювання в Україні використовує відкриті дані для: вдосконалення розробки політики шляхом впровадження унікального цифрового робочого процесу та інструментів, а також для усунення інформаційних бар&#39;єрів для підприємців при відкритті бізнесу та у дотриманні нормативних вимог.</p><p dir=\"ltr\"><a href=\"http://regulation.gov.ua/\" target=\"_blank\">Перейти на сайт Офісу ефективного регулювання </a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de82",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd58",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані допомагають людям приєднатись до таких ініціатив, які позитивно впливають на культуру та навколишнє середовища.</p>",
+    "displayTitle": "Переваги для культури та навколишнього середовища ",
+    "title": "Переваги для культури та навколишнього середовища ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на стрілку вперед, щоб дізнатися більше",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Навколишнє середовище",
+        "body": "<p dir=\"ltr\">Відкриті дані допомагають фермерам поліпшити врожайність і забезпечити продуктами харчування населення, не руйнуючи при цьому цінного природного середовища.</p><p dir=\"ltr\">Український агростартап Agri Eye використовує відкриті дані для створення аналітичної системи дистанційного зондування рослинності та ґрунтів для фермерів. Автори стверджують, що шляхом ефективного використання землі можна досягнути економії до 30%.</p><p dir=\"ltr\"><a href=\"http://agrieye.itc.ms/\" target=\"_blank\">Перейти на сайт Agri Eye</a></p><p dir=\"ltr\">Програма Plantwise збирає відкриті дані, щоб розробити пакети інформаційних матеріалів про хвороби рослин та ризики епідемій для &nbsp;фермерів.</p><p dir=\"ltr\"><a href=\"https://www.plantwise.org/\" target=\"_blank\">Перейти на сайт програми Plantwise</a></p>",
+        "_graphic": {
+          "src": "course/uk/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/variation-lentils-beans-peas-grain-soybeans-94664593\" target=\"_blank\">Madlen</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Навколишнє середовище"
+      },
+      {
+        "title": "Рятуючи життя",
+        "body": "<p dir=\"ltr\">Відкриті дані допомагають рятувати життя. Відкриті географічні дані та допоміжні статистичні дані використовуються групами з надання гуманітарної допомоги для доставки життєво необхідних матеріалів та сировини в зони стихійного лиха.</p><p dir=\"ltr\">Відкриті картографічні дані допомогли рятувальним командам в надзвичайних ситуаціях надати допомогу під час землетрусу на Гаїті у 2010 році.</p><p dir=\"ltr\"><a href=\"http://hotosm.org/projects/haiti-2\" target=\"_blank\">Дивитися карту Гаїті на ресурсі Open Street Map.</a></p><p dir=\"ltr\">Відкриті дані також використовувалися для екстренного реагування на тайфун на Філіппінах у 2014 році.</p><p dir=\"ltr\">Відкриті дані також використовувалися для аналізу спалаху вірусу Еболи у Західній Африці у 2015 році.</p><p dir=\"ltr\"><a href=\"https://web.archive.org/web/20160123072141/http://www.eboladata.org/\" target=\"_blank\">Дивитися відкриті дані про спалах вірусу Еболи .</a></p>",
+        "_graphic": {
+          "src": "course/uk/assets/052ae206817001d25e571d74799a4785a9397bd0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.itoworld.com/product/visualisation-communication\" target=\"_blank\">Ito World Ltd</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Рятуючи життя"
+      },
+      {
+        "title": "Культура",
+        "body": "<p dir=\"ltr\">Відкриті дані забезпечують доступ людей до інформації про важливі питання культури і допомагають сформувати більш поінформоване їх обговорення.</p><p dir=\"ltr\">Ресурс OpenGLAM допомагає зібрати інформацію про культурну спадщину та згадки різних груп в Німеччині, Швейцарії та Фінляндії.</p><p dir=\"ltr\"><a href=\"http://openglam.org/\" target=\"_blank\">Перейти на сайт OpenGLAM.</a></p><p dir=\"ltr\">Інститут відкритих даних реалізує програму &laquo;Дані як культура&raquo; (Data as Culture programme) за участю митців, які переосмислюють засадничі шляхи сприйняття даних.</p><p dir=\"ltr\"><a href=\"http://theodi.org/culture\" target=\"_blank\">Перейти на сторінку програми &laquo;Дані як культура&raquo; Інститут відкритих даних</a></p>",
+        "_graphic": {
+          "src": "course/uk/assets/82205b0fb35887422d2503dae34faa3603d243f9.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/ukodi/13400679614/in/album-72157642859056285/\" target=\"_blank\">The Open Data Institute </a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Культура"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de51",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd59",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Існує величезна кількість прикладів, того, як різні ініціативи з відкритих даних мають соціальні, економічні та екологічні переваги. Ви готові приєднатися до спільноти відкритих даних?</p>",
+    "displayTitle": "Чи готові ви розкрити цінність відкритих даних?",
+    "title": "Чи готові ви розкрити цінність відкритих даних?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbd",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Відкриті дані сприяють інноваціям та розвитку приватного сектору, оскільки</strong></p>",
+    "displayTitle": "Інновації та розвиток у бізнесі ",
+    "title": "П: Інновації та розвиток у бізнесі ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "вони є доступними в мережі Інтернет",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "відкривають можливості створення нових послуг та покращення діяльності ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "мотивують іноваторів до використання державних даних. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Це правильно!</strong></p><p dir=\"ltr\">Відкриті дані сприяють інноваціям та розвитку, відкриваючи можливості для бізнесу (великого і малого) створювати нові послуги, знаходити шляхи економії та поліпшувати операційну діяльність.</p><p dir=\"ltr\">&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Ви впевнені?</strong></p><p dir=\"ltr\">Відкриті дані сприяють інноваціям та розвитку, відкриваючи можливості для бізнесу (великого і малого) створювати нові послуги, знаходити шляхи економії та поліпшувати операційну діяльність.</p><p dir=\"ltr\">&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de6f",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2c",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Знання про відкриті дані більше не є розкішшю для державних службовців, на сьогодні вони &hellip;</strong></p>",
+    "displayTitle": "Можливість для влади ",
+    "title": "П: Можливість для влади ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "трохи важливіші, ніж були раніше",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "мають вивчатися більше",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "є важливою частиною надання сучасних послуг",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Це правильно!</strong></p><p>Відкриті дані є важливою частиною надання сучасних послуг, що сприяє появі нових бізнесів на основі даних, та розвитку вже існуючих.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Відкриті дані є важливою частиною надання сучасних послуг, що сприяє появі нового бізнесу на основі даних, та розвитку вже існуючого.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04ddd5",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd2d",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Які переваги мають &nbsp;відкриті дані про транспорт? </strong></p>",
+    "displayTitle": "Змінюють суспільство та державну політику",
+    "title": "П: Змінюють суспільство та державну політику",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Вони економлять людям час і покращують доступ ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Вони прискорюють рух потягів",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Вони роблять квитки дешевшими ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Це правильно!</strong></p><p>Відкриті дані про транспорт економлять час подорожуючих, роблять подорожі більш доступними та оптимізують можливості туристів під час подорожей.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p dir=\"ltr\">Відкриті дані про транспорт економлять час подорожуючих, роблять подорожі більш доступними та оптимізують можливості туристів під час подорожей.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddbe",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd2e",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Який тип відкритих даних використовувався з метою надання допомоги після природних катастроф на Гаїті та Філіппінах? </strong></p>",
+    "displayTitle": "Змінюють культуру та навколишнє середовище ",
+    "title": "П: Змінюють культуру та навколишнє середовище ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Демографічні дані з перепису населення",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті дані про заробітні плати ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті картографічні дані та допоміжні статистичні дані",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">Відкриті дані допомагають рятувати життя. Відкриті географічні дані та допоміжні статистичні дані використовуються групами з надання гуманітарної допомоги, щоб доставити життєво необхідні матеріали та сировину в зони стихійного лиха.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Відкриті дані допомагають рятувати життя. Відкриті географічні дані та допоміжні статистичні дані використовуються групами з надання гуманітарної допомоги, щоб доставити життєво необхідні матеріали та сировину в зони стихійного лиха.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dde7",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dda4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані допомагають розвивати економіку, трансформувати суспільство та захищати навколишнє середовище.</p><p dir=\"ltr\">Відкриті дані можуть допомогти владі розвивати економіку, поліпшувати надання послуг та скорочувати витрати.</p><p dir=\"ltr\">Відкриті дані є корисними для суспільства, оскільки вони поліпшують шляхи, які ми обираємо, методи, за якими ми працюємо й управляємо.</p><p dir=\"ltr\">Відкриті дані можуть рятувати життя і допомогти нам краще зрозуміти світ, в якому ми живемо.</p><p dir=\"ltr\">Готові долучитися? В наступному модулі ми проаналізуємо, як долучитися до ініціатив з відкритих даних</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/59158abfd084d5167a04e35b\">Наступний модуль</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#\">Головне меню</a></p><p>&nbsp;</p>",
+    "displayTitle": "Готові розкрити цінність?",
+    "title": "Підсумки",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59158ac0d084d5167a04e4c0",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3d4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Неможливо швидко оцінити, наскільки корисними є відкриті дані.</p><p dir=\"ltr\">Існує велика кількість колективно розроблених стандартів та якісних характеристик, які допомагають визначити, наскільки корисними для використання є такі дані.</p><p><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\"><dir=\"ltr\">Що робить дані корисними для використання</li><li dir=\"ltr\"><dir=\"ltr\">Яким чином стандарти допомагають збільшити використання даних</li><li dir=\"ltr\"><dir=\"ltr\">Якісні характеристики</li></ul>",
+    "displayTitle": "Що робить відкриті дані якісними ",
+    "title": "Що робить відкриті дані якісними ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59158ac0d084d5167a04e466",
+    "_layout": "full",
+    "_parentId": "59158ac0d084d5167a04e3d5",
+    "_type": "component",
+    "body": "<p>Доктор Девід Террент, тренер Інституту відкритих даних, пояснює, що таке якісні дані, як їх розпізнати і на які якісні характеристики відкритих даних потрібно звертати увагу споживачам.</p>",
+    "displayTitle": "Оцінка якості відкритих даних – за 2 хвилини",
+    "title": "Оцінка якості відкритих даних – за 2 хвилини",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Щоб ввімкнути/вимкнути субтитри, натисніть кнопку «сс» у нижньому правому кутку вікна. ",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129197043",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "inview",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "59158ac0d084d5167a04e467",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3d6",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані стають придатними для використання, коли людина їх розуміє, а комп&rsquo;ютер може їх використовувати.</p><p dir=\"ltr\">Користувачам відкритих даних потрібен дозвіл від їх розпорядника, який надається у вигляді відкритої ліцензії. Але сама відкрита ліцензія не є гарантією застосовуваності даних. &nbsp;</p><p dir=\"ltr\">Навряд чи можна скористатися даними, щоб отримати певні знання та користь від них, якщо такі дані не є практичними та придатними для використання.<strong> </strong></p>",
+    "displayTitle": "Що таке якісні відкриті дані?",
+    "title": "Що таке якісні відкриті дані?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59158ac1d084d5167a04e50b",
+    "_layout": "full",
+    "_parentId": "59158ac0d084d5167a04e3d7",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Стандарти, розроблені спільнотою, визначають юридичні, практичні, технічні та соціальні вимоги до відкритих наборів даних з огляду на їхню користь у застосуванні.</p>",
+    "displayTitle": "Стандарти, розроблені спільнотою",
+    "title": "Стандарти, розроблені спільнотою",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на стрілку вперед, щоб дізнатися більше. ",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Юридичні вимоги ",
+        "body": "<p dir=\"ltr\">Окрім відкритої ліцензії, є ще три юридичні вимоги, які потрібно враховувати.</p><p>Ви зобов&rsquo;язані:</p><ul><li dir=\"ltr\">Захищати таку чутливу інформацію, як персональні дані</li><li dir=\"ltr\">Оберігати права розпорядників даних</li><li dir=\"ltr\">Сприяти правильному використанню даних</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Юридичні вимоги "
+      },
+      {
+        "title": "Практичні вимоги",
+        "body": "<p dir=\"ltr\">Важливим фактором є те, що користувачі можуть знайти і скористатися відкритими даними.</p><p dir=\"ltr\">Це означає, що розпорядники відкритих даних повинні:</p><ul><li dir=\"ltr\"><dir=\"ltr\">Прив&rsquo;язувати дані до своїх веб-сайтів</li><li dir=\"ltr\"> Регулярно оновлювати дані в разі змін</li><li dir=\"ltr\"> Зобов&rsquo;язатися продовжувати робити доступ до даних відкритим</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/42b138ca58598195931fd55cd7d078d47f87a897.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/software-developer-programming-code-abstract-computer-235025131\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Практичні вимоги"
+      },
+      {
+        "title": "Технічні вимоги",
+        "body": "<p dir=\"ltr\">Існує три характеристики, які визначають технічні аспекти відкритих даних:</p><ul><li dir=\"ltr\">Формат, в якому публікуються відкриті дані</li><li dir=\"ltr\">Структура даних</li><li dir=\"ltr\">Канали, через які забезпечується доступ до даних</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=154744388&src=lb-35924366\" target=\"_blank\">Oleksiy Mark</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Технічні вимоги"
+      },
+      {
+        "title": "Соціальні вимоги",
+        "body": "<p dir=\"ltr\">Для того, щоб використання даних було ефективним, необхідно мати зацікавлену спільноту користувачів. Найкращі набори даних мають:</p><ul><li dir=\"ltr\"> Активні канали підтримки </li><li dir=\"ltr\"> Групи та форуми для обговорення </li><li>Опубліковані керівництва та методології по роботі з даними</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/d67a7ab25ce88d723cd840d5c7ca10a38b27db75.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-187711424.html\" target=\"_blank\">bluebay</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Соціальні вимоги"
+      }
+    ]
+  },
+  {
+    "_id": "59158ac0d084d5167a04e468",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3d8",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Характеристики якості надають користувачам гарантію щодо якості наборів даних та користі від їх використання.</p><p dir=\"ltr\">Існують два основні індикатори якості відкритих даних:</p>",
+    "displayTitle": "Якісні характеристики ",
+    "title": "Якісні характеристики ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на заголовки, щоб дізнатися більше.",
+    "_items": [
+      {
+        "title": "5 зірок",
+        "body": "<p dir=\"ltr\">Класифікація &laquo;5 зірок пов&rsquo;язаних відкритих даних&raquo; передбачає основне юридичне визначення і технічні переваги опублікованих даних.</p><p dir=\"ltr\">Класифікація відкритих даних &laquo;5 зірок&raquo; була розроблена у 2001 році засновником Світової мережі Сером Тімом Бернерсом-Лі. &nbsp;Ця класифікація надає рекомендації щодо формату та структури даних.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Сертифікати відкритих даних Інституту відкритих даних ",
+        "body": "<p>Сертифікати відкритих даних Інституту відкритих даних</p><p dir=\"ltr\">Сертифікати відкритих даних Інституту відкритих даних є практичним, соціальним, юридичним та технічним керівництвом, яке потрібно враховувати під час публікації або використання відкритих даних.</p><p dir=\"ltr\">Сертифікати являють собою опитувальник для самооцінки розпорядників, а у деяких випадках і користувачів, що використовується з метою оцінити та визначити основні критерії повної відповідності наборів даних. &nbsp;</p><p><a href=\"https://certificates.theodi.org/en/\" target=\"_blank\">Перейти на сайт Сертифікатів відкритих даних Інституту відкритих даних</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59158ac0d084d5167a04e4c1",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3d9",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Чи пам&rsquo;ятаєте ви практичні, технічні, юридичні і соціальні вимоги до відкритих наборів даних з огляду на їхню користь у використанні?</p>",
+    "displayTitle": "Чи готові ви до якісних відкритих даних?",
+    "title": "Чи готові ви до якісних відкритих даних?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59158ac0d084d5167a04e431",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e39f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Відкриті дані стають можливим для використання, коли...</strong></p>",
+    "displayTitle": "Що таке якісні відкриті дані?",
+    "title": "П: Що таке якісні відкриті дані?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Вони імпортуються в нашу систему",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Людина їх розуміє, а комп’ютери можуть їх використовувати",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Уряд публікує їх",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Це правильно!</strong></p><p>Відкриті дані стають корисними, коли людина їх розуміє, комп&rsquo;ютери можуть їх використовувати, а на підставі відкритої ліцензії вони є доступними.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Відкриті дані стають корисними, коли людина їх розуміє, комп&rsquo;ютери можуть їх використовувати, а на підставі відкритої ліцензії вони є доступними.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59158ac0d084d5167a04e432",
+    "_layout": "right",
+    "_parentId": "59158ac0d084d5167a04e3a0",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>З огляду на стандарти публікації відкритих даних, є три юридичні вимоги, однією з яких є...</strong></p>",
+    "displayTitle": "Юридичні вимоги",
+    "title": "П: Юридичні вимоги",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Не порушувати вимог ліцензійного права",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Публікувати будь-які дані",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Захищати чутливу інформацію, як наприклад, персональні дані ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p>Окрім відкритої ліцензії, є ще три юридичні вимоги, які потрібно враховувати: захищати чутливу інформацію, таку як персональні дані, оберігати права розпорядників даних, сприяти правильному використанню даних.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Окрім відкритої ліцензії, є ще три юридичні вимоги, які потрібно враховувати: захищати чутливу інформацію, таку як персональні дані, оберігати права розпорядників даних, сприяти правильному використанню даних.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59158ac0d084d5167a04e433",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3a1",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Існує три технічні характеристики в рамках стандартів для публікації даних, однією з яких є:</strong></p>",
+    "displayTitle": "Технічні вимоги",
+    "title": "П: Технічні вимоги",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "в якому форматі опубліковані дані",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "whether it can be used on a computer",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "whether it takes up much bandwidth",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">Три рекомендації визначають технічні характеристики відкритих даних. &nbsp;Формат, в якому вони опубліковані, структура даних і канали, канали, через які забезпечується доступ до даних.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Ви впевнені?</strong></p><p>Три рекомендації визначають технічні характеристики відкритих даних. &nbsp;Формат, в якому вони опубліковані, структура даних і канали, канали, через які забезпечується доступ до даних.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59158ac0d084d5167a04e434",
+    "_layout": "right",
+    "_parentId": "59158ac0d084d5167a04e3a2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Інститут відкритих даних рекомендує використовувати свої власні показники якості, відомі як...</strong></p>",
+    "displayTitle": "Характеристики якості",
+    "title": "П: Характеристики якості",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Велика зелена відзнака Інституту відкритих даних ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Гриф «Затверджено Інститутом відкритих даних» ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Сертифікати відкритих даних",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p>Інститут відкритих даних розробив Сертифікати відкритих даних, які містять практичні і соціальні вимоги,а &nbsp;а також суттєві юридичні і технічні основоположні принципи, які потрібно враховувати під час публікації відкритих даних. &nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Інститут відкритих даних розробив Сертифікати відкритих даних, які містять практичні і соціальні вимоги,а &nbsp;а також суттєві юридичні і технічні основоположні принципи, які потрібно враховувати під час публікації відкритих даних. &nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59158ac0d084d5167a04e465",
+    "_layout": "left",
+    "_parentId": "59158ac0d084d5167a04e3d3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані стають корисними, коли може їх використовувати людина їх розуміє, а технічні засоби можуть з ними працювати, однак в будь-якому випадку потрібен дозвіл від розпорядника даних, який надається у вигляді відкритої ліцензії. Проте, власне відкрита ліцензія не є гарантією корисності даних. Просте завантаження файлу на сайт з відкритою ліцензією не є відкритими даними.</p><p dir=\"ltr\">Навряд чи користувачі зможуть отримати певні знання та скористатися перевагами від роботи з даними, якщо такі дані не є придатними для використання.</p><p dir=\"ltr\">У наступному модулі ми порівняємо ініціативи, пов&rsquo;язані з відкритими даними, і проаналізуємо ключові показники ефективності найуспішніших ініціатив.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/58fdfd16d084d5167a04e021\">Наступний модуль</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#/\">Головне меню</a></p><p>&nbsp;</p>",
+    "displayTitle": "Стандарти + характеристики = якісні відкриті дані",
+    "title": "Підсумки",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted footer",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfd2ed084d5167a04e024",
+    "_layout": "left",
+    "_parentId": "58fdfd16d084d5167a04e023",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Впродовж останнього десятиліття (до 2017 року) помітним є зростання інтересу до прозорості влади і конструктивності політичного курсу в інтересах кожного громадянина. Критично важливим є наявність узгоджених та загальноприйнятних принципів, які сприяють розумінню усіх переваг відкритих даних.</p><p dir=\"ltr\">У цьому модулі ми розглянемо Хартію відкритих даних та ключові принципи відкритих даних, які вона описує.</p><p dir=\"ltr\">У модулі розглядатимуться такі питання:</p><ul><li dir=\"ltr\"><dir=\"ltr\">Навіщо нам Хартія?</li><li dir=\"ltr\"><dir=\"ltr\">Ключові принципи Хартії відкритих даних</li><li dir=\"ltr\"><dir=\"ltr\">Яким чином Хартія відкритих даних застосовується в Україні</li></ul>",
+    "displayTitle": "Ключові принципи Хартії Відкритих Даних",
+    "title": "Ключові принципи Хартії Відкритих Даних",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5926d635d084d5167a04eabf",
+    "_layout": "right",
+    "_parentId": "5926d62fd084d5167a04eabe",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Відкриті дані та прозорість забезпечують бізнес та громадян рівними можливостями запитувати відкриті дані, працювати з ними та створювати інновації, використовуючи державні дані. Критично важливим є наявність узгоджених та загальоприйнятних принципів, які допоможуть скористатися з усіх переваг відкритих даних.</p><p>Хартія відкритих даних допомагає зосередитися на декількох основних сферах:</p><ul><li dir=\"ltr\">Допомагає відстоювати важливість відкритих даних на вищому політичному рівні</li><li dir=\"ltr\">Допомагає розповсюджувати досвід тих, хто запроваджує проекти з відкритих даних, та поєднує їх між собою</li><li dir=\"ltr\">Працює з різними секторами для того, щоб перетворити узагальнені принципи відкритих даних на практичні дії</li><li dir=\"ltr\">Розвиває рух за відкриті дані, спонукаючи уряди публічно визнати принципи хартії</li></ul>",
+    "displayTitle": "Навіщо нам Хартія?",
+    "title": "Навіщо нам Хартія?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5926d877d084d5167a04eac2",
+    "_layout": "left",
+    "_parentId": "5926d861d084d5167a04eac0",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Хартія відкритих даних містить шість принципів. Дізнайтеся про перші чотири принципи:</p>",
+    "displayTitle": "Принципи Хартії (1-4)",
+    "title": "Принципи Хартії (1-4)",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на заголовки, щоб дізнатися більше",
+    "_items": [
+      {
+        "title": "1. Відкритість «за замовчуванням» ",
+        "body": "<p dir=\"ltr\">Якщо ваша влада постійно приймає рішення щодо того, які дані відкрити, то це означає, що вони закриті &laquo;за замовчуванням&raquo;.</p><p dir=\"ltr\">&laquo;Відкриті &laquo;за замовчуванням&raquo; - це принцип, який визначає, що все має бути відкритим автоматично. Рішення потрібно приймати для того, щоб закрити дані. Повинні бути рішення та чітко визначені політики щодо того які дані закрити (наприклад, чітко визначені чутливі чи персональні дані). &nbsp;</p><p dir=\"ltr\">Принцип &laquo;відкриті дані за замовчуванням&raquo; заохочує чиновників автоматично відкривати дані та інформаційні ресурси спільноті.</p><p dir=\"ltr\">На основі цього принципу відкритості Хартія розвиває культуру та систему заохочень.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2. Оперативність та повнота ",
+        "body": "<p dir=\"ltr\">Відкриті дані та інформація мають бути доступними без жодних затримок та в якомога більш повному вигляді.</p><p dir=\"ltr\">В ідеальному варіанті відкриті дані мають бути доступними в оригінальній, незміненій формі, і пов&rsquo;язувати дані з відповідними методологіями, документацією, візуалізацією чи аналізами.</p><p dir=\"ltr\">У разі, якщо дані знеособлюються або узагальнюються з метою приховування персональних або чутливих даних, необхідно це зробити таким чином, щоб зберегти якомога більше цінності розкриття такого набору даних.</p><p dir=\"ltr\">Необхідно консультуватися з користувачами даних та забезпечити канали зворотного зв&rsquo;язку для того, щоб поліпшити та прискорити взаємодію з даними. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3. Доступність і використання ",
+        "body": "<p dir=\"ltr\">Дані мають бути доступними без жодних бюрократичних чи адміністративних перешкод на безоплатній основі.</p><p dir=\"ltr\">Посилання на дані мають бути вказані на порталах та відповідних сайтах, щоб дати користувачам впевненість, що вони мають доступ до достовірних даних. &nbsp;</p><p dir=\"ltr\">Дані мають бути доступними у широко застосовуваних форматах, щоб якомога більша кількість користувачів мали можливість доступу та використання даних.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4. Порівнюваність та інтероперабельність  ",
+        "body": "<p dir=\"ltr\">Дані мають бути представлені в структурованих та стандартизованих форматах, щоб забезпечити взаємозамінність, можливість їх відслідковування та ефективне повторне використання.</p><p dir=\"ltr\">Користувачі даними мають мати доступ до достатньої кількості інформації, щоб зрозуміти джерело, сильні та слабкі сторони &nbsp;аналітичні обмеження даних.</p><p dir=\"ltr\">Щоб досягти цього, потрібно повністю описати дані з усіма супровідними задокументованими даними, викладеними простою та зрозумілою мовою.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5926d8a6d084d5167a04eac5",
+    "_layout": "full",
+    "_parentId": "5926d878d084d5167a04eac3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Останні два принципи Хартії пояснюють, навіщо відкривати дані. Щоб дізнатися більше, дивіться далі:</p>",
+    "displayTitle": "Принципи 5 та 6",
+    "title": "Принципи 5 та 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть стрілку вперед, щоб побачити більше.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "5. Покращене урядування і залучення громадян ",
+        "body": "<p dir=\"ltr\">Відкриті дані поліпшують урядування та підвищують рівень довіри до державних установ, наголошують на зобов&rsquo;язанні влади дотримуватися принципу верховенства права, а також є прозорою та зрозумілою основою для поліпшення процесу прийняття рішень і надання послуг з боку держави.</p><p dir=\"ltr\">Відкриті дані &laquo;за замовчуванням&raquo; - це обов&rsquo;язок проактивно та автоматично надавати громадянам доступ до даних та інформації. Крім того, права громадян на свободу самовираження будуть дотримуватися, навіть у випадках використання відкритих даних для виявлення випадків корупції.</p>",
+        "_graphic": {
+          "src": "course/uk/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "5. Покращене урядування і залучення громадян "
+      },
+      {
+        "title": "6. Інклюзивний розвиток та інновації ",
+        "body": "<p dir=\"ltr\">За своєю природою відкриті дані є об&rsquo;єктивним ресурсом, який наділяє повноваженнями усіх людей, надаючи їм право доступу до даних, незважаючи на те, хто вони є і де вони живуть.</p><p dir=\"ltr\">Відкриті дані стимулюють творчість та інновації, а також сприяють боротьбі з такими глобальними проблемами, як бідність, голод, кліматичні зміни та нерівність.</p><p dir=\"ltr\">Бізнеси а також громадян потрібно залучати та підтримувати у використанні відкритих даних, як у комерційних цілях, так і заради спільного блага.</p><p dir=\"ltr\">Відкриті дані можуть допомогти наступному поколінню новаторів, які принесуть користь усьому суспільству, подібно до того, як сьогодні це робить Інтернет.</p>",
+        "_graphic": {
+          "src": "course/uk/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "6. Інклюзивний розвиток та інновації "
+      }
+    ]
+  },
+  {
+    "_id": "5926e5aed084d5167a04eaca",
+    "_layout": "left",
+    "_parentId": "5926e587d084d5167a04eac8",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Україна приєдналася до Хартії відкритих даних у жовтні 2016 року. Такий крок демонструє активні дії, що здійснюються після масових народних виступів за прозорість влади у 2014 році.</p><p dir=\"ltr\">Приєднання до Хартії відкритих даних допомогло просувати &nbsp;плани щодо відкритих даних в українському уряді. Таке зобов&rsquo;язання перед міжнародною спільнотою зміцнило політичну волю очільників уряду сприяти роботі <a href=\"http://www.dknii.gov.ua/\" target=\"_blank\">Державного агентства з питань електронного урядування України. </a></p><p dir=\"ltr\">Хартія є основою <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">дорожньої карти розвитку відкритих даних в Україні.</a> Шість принципів Хартії допомогли розробити 21 пункт та 59 завдань, &nbsp;що визначили дані, які стануть відкритими у 2017 році.</p>",
+    "displayTitle": "Яким чином Хартія відкритих даних використовується в Україні ",
+    "title": "Яким чином Хартія відкритих даних використовується в Україні ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5927def6d084d5167a04eadb",
+    "_layout": "left",
+    "_parentId": "5927deedd084d5167a04eada",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Чи готові ви прийняти Хартію відкритих даних? ",
+    "title": "Чи готові ви прийняти Хартію відкритих даних? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59280450d084d5167a04eae5",
+    "_layout": "left",
+    "_parentId": "59280435d084d5167a04eae4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Чому Хартія відкритих даних є важливою для глобального руху відкритих даних? </strong></p>",
+    "displayTitle": "Навіщо нам Хартія?",
+    "title": "П: Навіщо нам Хартія?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Хартія відкритих даних підтримує зобов’язання урядів щодо відкритих даних і контролює виконання цих зобов’язань",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Хартія відкритих даних фінансує ініціативи, пов’язані з відкритими даними ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Хартія відкритих даних допомагає урядам захищати свої ресурси даних ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>Це правильно!</strong></p><p>Хартія відкритих даних підтримує і зобов&rsquo;язує владу до виконання зобов&rsquo;язань щодо відкритих даних. Вона розвиває рух за відкриті дані, спонукаючи владу до публічного визнання принципів хартії.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Хартія відкритих даних підтримує і зобов&rsquo;язує владу до виконання зобов&rsquo;язань щодо відкритих даних. Вона розвиває рух за відкриті дані, спонукаючи владу до публічного визнання принципів хартії.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "592804c5d084d5167a04eaea",
+    "_layout": "right",
+    "_parentId": "592804c5d084d5167a04eae8",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Вам потрібно зібрати новий набір даних. Як ви приймете рішення, чи такі дані мають бути відкритими?</strong></p>",
+    "displayTitle": "Принципи Хартії відкритих даних",
+    "title": "П: Принципи Хартії відкритих даних",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Ви визначаєте попит користувачів на такі дані ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Обґрунтування про необхідність відкрити такі дані подається до проекту відкритих даних.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Не потрібно приймати жодних рішень, такі дані є відкритими за замовчуванням. Обґрунтування потрібно, щоб закрити дані. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">&laquo;Відкриті &laquo;за замовчуванням&raquo; - це принцип, за яким все має бути відкритим автоматично. Обґрунтування потрібні для того, щоб закрити дані.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>&laquo;Відкриті &laquo;за замовчуванням&raquo; - це принцип, за яким все має бути відкритим автоматично. Обґрунтування потрібні для того, щоб закрити дані.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "592805f5d084d5167a04eaf0",
+    "_layout": "left",
+    "_parentId": "592805f5d084d5167a04eaee",
+    "_type": "component",
+    "body": "<p><strong>Які з нижче зазначених принципів є принципами Хартії? </strong></p>",
+    "displayTitle": "Принципи Хартії відкритих даних ",
+    "title": "П: Принципи Хартії відкритих даних ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Відкриті дані мають публікуватися негайно",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті дані мають бути доступними без жодних бюрократичних чи адміністративних перешкод",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Дані мають бути відкритими «за замовчуванням»",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті дані мають бути повністю описаними з посиланнями на детальні, легкі для сприйняття документи ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті дані мають бути платними",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Відкриті дані мають бути доступними лише для тих осіб, які надають підстави для цього",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">Відповідно до принципів Хартії відкритих даних, відкриті дані мають бути відкритими &laquo;за замовчуванням&raquo;, вчасно опубліковані, без жодних бюрократичних чи адміністративних обмежень та надані разом з легкою для сприйняття документацією.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Ви впевнені?</strong></p><p>Відповідно до принципів Хартії відкритих даних, відкриті дані мають бути відкритими &laquo;за замовчуванням&raquo;, вчасно опубліковані, без жодних бюрократичних чи адміністративних обмежень та надані разом з легкою для сприйняття документацією.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04dea9",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd78",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Якщо відкриті дані є релевантними, актуальними і доступними, то вони є корисними.</p><p dir=\"ltr\">Програма сталих відкритих даних &ndash; це програма, яка продовжує випускати дані на регулярній основі в однаковій чи кращій якості або кількості.</p><p dir=\"ltr\"><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\">Як досягти сталості</li><li dir=\"ltr\">Яке значення має сталість для вас</li><li dir=\"ltr\">Що шукати у сталих відкритих наборах даних</li></ul>",
+    "displayTitle": "Чому ми маємо турбуватися про сталість?",
+    "title": "Чому ми маємо турбуватися про сталість?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de02",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd79",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Ульріх Атз, менеджер стартап-програм Інституту відкритих даних, пояснює важливість сталості відкритих даних і чому вона має значення для користувачів. Він також розповідає про деякі ключові індикатори, які є свідченням того, що ініціатива з відкритих даних буде сталою.</p>",
+    "displayTitle": "2 хвилини про сталість відкритих даних",
+    "title": "2 хвилини про сталість відкритих даних",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Щоб ввімкнути/вимкнути субтитри, натисніть кнопку «сс» у нижньому правому кутку вікна.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://player.vimeo.com/video/129879004",
+      "type": "video/vimeo",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "ended",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de5a",
+    "_layout": "right",
+    "_parentId": "58fdfc5fd084d5167a04dd7a",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Сталий набір відкритих даних потребує: </strong></p><ul><li><strong>Надійне фінансування</strong>, щоб покрити витрати на оновлення &nbsp;</li><li><strong>Активну підтримку розпорядників</strong>, щоб пріоритизувати оновлення&nbsp;</li><li><strong>Широке повторне використання</strong> іншими користувачами, що демонструє справжню цінність даних&nbsp;<br />&nbsp;</li></ul>",
+    "displayTitle": "Що робить відкриті дані сталими?",
+    "title": "Що робить відкриті дані сталими?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de90",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd7b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Які фактори допомагають зробити відкриті набори даних сталими?</p>",
+    "displayTitle": "Розбираємося зі сталістю відкритих даних ",
+    "title": "Розбираємося зі сталістю відкритих даних ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на стрілку вперед, щоб дізнатися більше.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Надійне фінансування для відкритих даних ",
+        "body": "<p dir=\"ltr\">Те, що набір даних можна використовувати безкоштовно, не означає, що на збір та випуск даних не потрібні ніякі кошти. Фінансування може бути забезпечене через:</p><ul><li dir=\"ltr\">Стягування плати за доступ або надання більш широкого спектру послуг</li><li dir=\"ltr\">Фінансової підтримки з іншого джерела, яке підтримує публікацію відкритих даних</li><li dir=\"ltr\">Демонстрування незмінної цінності відкритих даних для організації</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Надійне фінансування для відкритих даних "
+      },
+      {
+        "title": "Активна підтримка відкритих даних ",
+        "body": "<p>Щоб відкриті дані були сталими в організації, зазвичай необхідна підтримка керівництва, щоб надати питанню пріоритетності, а щоб підтримувати якість на належному рівні &ndash; активна участь відповідальних працівників.&nbsp;</p><p>Компанія зазвичай досягає активної підтримки, коли зобов&rsquo;язується підтримувати відкриті дані як частину своєї щоденної діяльності.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Активна підтримка відкритих даних "
+      },
+      {
+        "title": "Розповсюджене повторне використання відкритих даних ",
+        "body": "<p dir=\"ltr\">Стале повторне використання досягається, коли послуги, створені за допомогою таких даних, стають критичними для успіху бізнесу публікатора. Набори даних транспортної системи Берлін-Бранденбург Verkehrsverbund (VBB) використовуються мільйонами людей, коли вони заходять у транспортний додаток, наприклад, Citymapper. Такі додатки популяризують послуги VBB і, як наслідок, система VBB зобов&rsquo;язана регулярно оновлювати дані з огляду на свою цифрову стратегію.</p><p dir=\"ltr\"><a href=\"https://citymapper.com/berlin\" target=\"_blank\">Перейти на сайт Citymapper Berlin</a></p>",
+        "_graphic": {
+          "src": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Розповсюджене повторне використання відкритих даних "
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de91",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd7c",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Чому я маю зважати на те, чи відкриті дані, з якими я працюю, є сталими?</p>",
+    "displayTitle": "Чому сталість має значення?",
+    "title": "Чому сталість має значення?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на стрілку вперед, щоб дізнатися більше.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Грунтовні підстави",
+        "body": "<p>Сталість є перевагою не лише для користувачів. Розпорядник також отримує перевагу від сталих відкритих даних шляхом:&nbsp;</p><ul><li>Підвищення рівня довіри суспільства до розпорядника&nbsp;</li><li>Сприяння створенню нових продуктів та послуг</li><li>Спрощення повторного використання своїх власних даних розпорядниками</li></ul>",
+        "_graphic": {
+          "src": "course/uk/assets/8207089edb2bf2393f91154fe5aaa39b9d29b3b0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/circuit-tree-technology-vector-background-eps10-271074140?src=id\" target=\"_blank\">Saibarakova Ilona</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Грунтовні підстави"
+      },
+      {
+        "title": "Підвищення рівня довіри ",
+        "body": "<p dir=\"ltr\">Сталі відкриті дані дозволяють великій спільноті людей створювати та аналізувати дані для того, щоб робити власні висновки, часто у підтримку точки зору розпорядника.</p>",
+        "_graphic": {
+          "src": "course/uk/assets/9d5f5fce1035ae6401a68ba71382523f0b5f814d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=246120358&src=lb-36497927\" target=\"_blank\">Arthimedes</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Підвищення рівня довіри "
+      },
+      {
+        "title": "Побудова бізнес зв’язків ",
+        "body": "<p>Сталі відкриті дані можуть відкривати нові канали клієнтських зв&rsquo;язків, що дає можливість іншим сферам бізнесу скористатися даними розпорядника. У багатьох випадках ці бізнеси приносять безпосередні переваги саме розпоряднику.</p>",
+        "_graphic": {
+          "src": "course/uk/assets/3b332706e7b0a02ff4b967347347a3436f52cab0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/eps-beautiful-structure-dna-molecule-119824141?src=id\" target=\"_blank\">Palau</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Побудова бізнес зв’язків "
+      },
+      {
+        "title": "Поліпшення рівня користування даними",
+        "body": "<p dir=\"ltr\">Одним із суб&rsquo;єктів, що найчастіше повторно використовує дані, може бути власне сам розпорядник. Навіщо розділяти публічний випуск даних та внутрішнє використання даних?</p>",
+        "_graphic": {
+          "src": "course/uk/assets/670e2c72ad528439a4ebd9a4a94a271204c631f5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/composite-silver-cube-some-colorful-elements-165242216?src=id\" target=\"_blank\">LovArt</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Поліпшення рівня користування даними"
+      }
+    ]
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de7b",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd7d",
+    "_type": "component",
+    "body": "<p>Якісне розкриття даних передбачає надійне фінансування, активну підтримку та широке повторне використання. Ці характеристики не завжди є очевидними, коли ви вперше знаходите набір даних. Щоб ідентифікувати якісні джерела даних, запитайте себе про таке:&nbsp;</p>",
+    "displayTitle": "Пошук підказок",
+    "title": "Пошук підказок",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Натисніть на заголовки, щоб дізнатися більше.",
+    "_items": [
+      {
+        "title": "Хто є джерелом даних?",
+        "body": "<p dir=\"ltr\">Запитайте себе, хто випустив дані і наскільки ви переконані у їх готовності продовжувати постійне оновлення даних.</p><p dir=\"ltr\">Одним із найважливіших факторів сталості є ваша впевненість в організації, яка їх збирає.</p><p dir=\"ltr\">Якщо це дані від уряду, то чи можуть вибори або будь-які зміни в пріоритетах уряду вплинути на їх відкритий випуск?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Хто фінансує публікацію?",
+        "body": "<p dir=\"ltr\">Доступні безкоштовні дані здаються ідеальними, проте важливо запитати себе &ndash; яким чином розпорядник фінансує їх сталий випуск.</p><p dir=\"ltr\">Запитайте себе: випуск даних здійснюється тільки через тиск з вимогою прозорості даних чи них є більший попит, що стимулюється додатковими перевагами використання цих даних.</p><p dir=\"ltr\">Спробуйте уточнити: це є конкретне короткострокове програмне фінансування доступності даних чи такий випуск є частиною ключової стратегії організації.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Про що свідчить ліцензія?",
+        "body": "<p dir=\"ltr\">Ліцензія також може бути своєрідною підказкою щодо сталості даних.</p><p dir=\"ltr\">Коли ви дивитеся на ліцензію, запитайте себе, що в тексті вказує на майбутнє набору даних та впевненість розпорядника в ньому? Чи міститься в ній зобов&rsquo;язання постійно його оновлювати?</p><p dir=\"ltr\">Пам&rsquo;ятайте, що без ліцензії, дані не є повністю відкритими. Ліцензія дає вам впевненість, що дані можна вільно використовувати і розповсюджувати.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Хто вже використовує дані?",
+        "body": "<p dir=\"ltr\">Чим більш широко використовуваним є набір даних, тим більше запит на те, щоб підтримувати його сталість.</p><p dir=\"ltr\">Запитайте себе, хто ще і з якою метою використовує цей набір даних.</p><p dir=\"ltr\">Спробуйте дізнатися чи використовується цей набір даних внутрішньо розпорядником.</p><p>Обидва аспекти вказують на те, чи піклується розпорядник про набір даних та чи є тиск іззовні з вимогою не видаляти або не змінювати такий набір даних у власних цілях.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Якою є історія публікацій?",
+        "body": "<p dir=\"ltr\">Перш за все, оцінка сталості відкритих даних залежить від того, наскільки ви довіряєте розпоряднику.</p><p dir=\"ltr\">Запитайте себе, як довго публікується цей набір даних. Велика кількість оновлень &ndash; це добрий знак, але не забувайте й про такі фактори, як тривалість проекту чи термін використання. Ключовим індикатором сталості є той, який вичерпує обидва ці фактори. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Який внесок можу зробити я?",
+        "body": "<p dir=\"ltr\">Ваше власне використання набору даних допоможе визначити попит на нього та вплив на його сталість.</p><p dir=\"ltr\">Подумайте про те, щоб приєднатися до спільноти осіб, зацікавлених у цьому наборі даних.</p><p dir=\"ltr\">Спробуйте дізнатися, чи відіграє публікатор активну роль у цих спільнотах і чи реагує він на зворотній зв&#39;язок з метою покращення своїх послуг.</p><p dir=\"ltr\">Запитайте себе, яку користь від використання даних ви б могли продемонструвати для підтримки їх сталості &nbsp;розпорядником</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de03",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd7e",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Є два важливі фактори, які варто пам&rsquo;ятати про сталі відкриті дані. Чи згадаєте ви їх?</p>",
+    "displayTitle": "Чи готові ви до сталих відкритих даних?",
+    "title": "Чи готові ви до сталих відкритих даних?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de92",
+    "_layout": "full",
+    "_parentId": "58fdfc5fd084d5167a04dd3b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Що з нижчезазначеного не впливає на сталість відкритих наборів даних?</strong></p>",
+    "displayTitle": "Що впливає на сталість?",
+    "title": "П: Що впливає на сталість?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "gmcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "small": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/modern-vector-abstract-pie-chart-infographic-272132873?src=id\" target=\"_blank\">jiunn</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Надійне фінансування",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/uk/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
+          "small": "course/uk/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
+          "alt": "",
+          "attribution": "<a href=\"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg\" target=\"_blank\">Dave Matos</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "text": "Великий розмір файлів ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "small": "course/uk/assets/39dd7ab8c3ce4c1cae1f1bb14f189b5c452699a5.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/group-arrows-gear-wheels-speech-bubbles-239488546?src=id\" target=\"_blank\">GiDesign</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Активна підтримка",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "small": "course/uk/assets/0dffd479043eba0c0857da0cccbc57e9fba0bd97.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/recycle-symbol-sign-conservation-green-icon-144050605\" target=\"_blank\">graphego</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "text": "Розповсюджене повторне використання ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">Розмір файлу не є визначальним фактором для сталості даних. З метою отримання користі від даних найважливішими є надійне джерело фінансування, активна підтримка розпорядника і розповсюджене повторне використання.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Ви впевнені?</strong></p><p dir=\"ltr\">Розмір файлу не є визначальним фактором для сталості даних. З метою отримання користі від даних найважливішими є надійне джерело фінансування, активна підтримка розпорядника і розповсюджене повторне використання.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc5fd084d5167a04ddcd",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd3c",
+    "_type": "component",
+    "body": "<p><strong>На що потрібно звертати увагу при оцінці сталості відкритого набору даних? </strong></p>",
+    "displayTitle": "На що потрібно звертати увагу при оцінці сталості? ",
+    "title": "П: На що потрібно звертати увагу при оцінці сталості? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Oберіть правильну відповідь і натисніть «відповісти»",
+    "_items": [
+      {
+        "text": "Історія публікацї даних",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Скільки вони коштують",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Хто вже використовує дані",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "У якому форматі дані",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Хто фінансує випуск даних ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p dir=\"ltr\"><strong>Це правильно!</strong></p><p dir=\"ltr\">Визначаючи сталість набору даних, потрібно звернути увагу на історію публікації я, хто використовує дані і яким чином вони фінансуються.</p>",
+      "_incorrect": {
+        "final": "<p dir=\"ltr\"><strong>Ви впевнені?</strong></p><p dir=\"ltr\">Визначаючи сталість набору даних, потрібно звернути увагу на історію публікації, хто використовує дані і яким чином вони фінансуються.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "58fdfc60d084d5167a04de01",
+    "_layout": "left",
+    "_parentId": "58fdfc5fd084d5167a04dd77",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Здійснюючи пошук сталих джерел відкритих даних, важливо, щоб вони були релевантними, актуальними і доступними.</p><p dir=\"ltr\">Програма сталих відкритих даних &ndash; це програма, яка продовжує випускати дані на регулярній основі в однаковій чи кращій якості або кількості.</p><p dir=\"ltr\">Використовуючи прості індикатори, зазначені вище, можна ідентифікувати сталі джерела відкритих даних, які можна використовувати для роботи в майбутньому.</p><p dir=\"ltr\">В наступному модулі ми дізнаємося, як платформи відкритих даних можуть спростити процес публікації та використання даних.</p><p dir=\"ltr\"><a class=\"button\" href=\"#/\">Головне меню</a></p><p>&nbsp;</p>",
+    "displayTitle": "Сталі відкриті дані",
+    "title": "Підсумки",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59280ffed084d5167a04eafa",
+    "_layout": "left",
+    "_parentId": "59280fb9d084d5167a04eaf8",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Впродовж останнього десятиліття (до 2017 року) простежується зростання інтересу до прозорості влади і політичних рішень, що базуються на фактичних даних в інтересах всіх громадян. Проте, не всі підтримують таку позицію. Критично важливим є наявність узгоджених та прийнятних принципів, які сприяють розумінню усіх переваг відкритих даних.</p><p dir=\"ltr\">Хартія відкритих даних визначає декілька основних напрямків і шість основних принципів, яких мають дотримуватися органи влади.</p><p dir=\"ltr\">На сьогодні (травень 2017) уряди 17 країн світу, у т.ч. України, долучилися до Хартії відкритих даних. Більше про Хартію ви можете дізнатися <a href=\"http://opendatacharter.net/\" target=\"_blank\">тут.</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#/id/58fdfc5ed084d5167a04dced\">Наступний модуль</a></p><p dir=\"ltr\"><a class=\"button\" href=\"#/\">Головне меню</a></p>",
+    "displayTitle": "Підсумки",
+    "title": "Підсумки",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   }
 ]

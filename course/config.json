@@ -36,10 +36,10 @@
     "_languages": [
       {
         "_buttons": {
-          "no": "No",
+          "no": "Cancel",
           "yes": "Yes"
         },
-        "warningMessage": "Change?",
+        "warningMessage": "Are you sure you want to change language to English?",
         "warningTitle": "English",
         "displayName": "English",
         "_direction": "ltr",
@@ -47,11 +47,11 @@
       },
       {
         "_buttons": {
-          "no": "No",
-          "yes": "Yes"
+          "no": "Скасувати",
+          "yes": " Так"
         },
-        "warningMessage": "Change?",
-        "warningTitle": "Change?",
+        "warningMessage": "Ви впевнені, що хочете змінити англійську мову?",
+        "warningTitle": " Ти впевнений?",
         "displayName": "Ukraine",
         "_direction": "ltr",
         "_language": "uk"
@@ -67,55 +67,16 @@
   "_tutor": {
     "_isEnabled": false
   },
-  "_licencePage": {
-    "licence": "CC-BY-SA 4.0"
-  },
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "ODI Training Team",
-        "description": "Expert knowledge, content development and learning plans provided by the by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Open Data Institute</span> training team.",
-        "_graphic": {
-          "alt": "The Open Data Institute",
-          "src": "adapt/css/assets/logo-small.png"
-        }
-      },
-      {
-        "_graphic": {
-          "src": "adapt/css/assets/edp.png",
-          "alt": "European Data Portal"
-        },
-        "description": "<p>Funding for module development and implementation provided by the <span>European Data Portal</span>. Original content is available&nbsp;<a href=\"http://europeandataportal.eu/elearning/en/\" target=\"_blank\">here</a>, used under a&nbsp;Creative Commons Attribution-ShareAlike 4.0 International Licence.</p>",
-        "title": "European Data Portal"
-      },
-      {
-        "title": "Sponge UK",
-        "description": "Learning solutions, content production and eLearning expertise provided by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Sponge UK</span>.",
-        "_graphic": {
-          "alt": "Sponge UK",
-          "src": "adapt/css/assets/sponge.png"
-        }
-      },
-      {
-        "title": "Adapt learning",
-        "description": "Open source learning platform developed by <span xmlns:cc='http://creativecommons.org/ns# property='cc:attributionName'>Adapt learning</span>.",
-        "_graphic": {
-          "alt": "Adapt learning",
-          "src": "adapt/css/assets/adapt.png"
-        }
-      }
-    ]
-  },
   "build": {
     "includes": [
       "adapt-theme-ukraine",
       "adapt-contrib-boxMenu",
+      "adapt-odi-licence",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-tutor",
+      "adapt-skillsFramework",
       "adapt-contrib-languagePicker",
       "adapt-contrib-aboutPage",
-      "adapt-skillsFramework",
-      "adapt-contrib-tutor",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-odi-licence",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-accordion",
