@@ -6,7 +6,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 1,
-    "_classes": "",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": "",
     "title": " "
@@ -126,7 +126,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 11,
-    "_classes": "",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": "",
     "title": " "
@@ -162,7 +162,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 14,
-    "_classes": "color-five",
+    "_classes": "color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -258,7 +258,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 22,
-    "_classes": "",
+    "_classes": "color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -330,7 +330,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 28,
-    "_classes": "inverted color-four",
+    "_classes": "inverted color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -342,7 +342,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 29,
-    "_classes": "inverted color-five",
+    "_classes": "inverted color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -366,7 +366,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 31,
-    "_classes": "",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -462,7 +462,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 39,
-    "_classes": "color-four",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -474,7 +474,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 40,
-    "_classes": "color-five",
+    "_classes": "color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -522,7 +522,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 44,
-    "_classes": "",
+    "_classes": "color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -582,7 +582,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 49,
-    "_classes": "inverted color-four",
+    "_classes": "inverted color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -594,7 +594,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 50,
-    "_classes": "",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -606,7 +606,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 51,
-    "_classes": "",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -678,7 +678,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 57,
-    "_classes": "color-four",
+    "_classes": "color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -750,7 +750,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 63,
-    "_classes": "inverted color-five section-banner",
+    "_classes": "inverted color-two section-banner",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -762,7 +762,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 64,
-    "_classes": "section-banner",
+    "_classes": "section-banner color-two",
     "body": "",
     "displayTitle": " ",
     "title": " "
@@ -774,7 +774,7 @@
     "_isAvailable": true,
     "_isOptional": false,
     "_trackingId": 65,
-    "_classes": "section-banner",
+    "_classes": "section-banner color-one",
     "body": "",
     "displayTitle": " ",
     "title": " "

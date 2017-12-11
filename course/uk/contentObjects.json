@@ -4,7 +4,7 @@
       "alt": "",
       "src": "course/uk/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dceb",
+    "_id": "5982e376d084d5167a051dd1",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -12,13 +12,16 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Відкриті дані &ndash; це дані, які є доступними і вільними у використанні та розповсюдженні для будь-кого.</p><p dir=\"ltr\">У цьому модулі ми проаналізуємо, що означає термін &laquo;відкриті дані&raquo; і як відкриті дані усебічно сприяють роботі влади, бізнесу і громадянського суспільства.</p>",
+    "_classes": "ticks",
+    "body": "<p dir=\"ltr\"><strong>Відкриті дані &ndash; це дані, які будь-хто може вільно використовувати та поширювати.</strong> Влада, бізнес та громадяни можуть використовувати відкриті дані для одержання певної соціальної, економічної та екологічної користі.</p><p dir=\"ltr\"><strong>У цьому модулі ми довідаємося:</strong></p><ul><li dir=\"ltr\">Що таке відкриті дані?</li><li dir=\"ltr\">Що таке дані?</li><li dir=\"ltr\">Що робить дані відкритими?</li><li dir=\"ltr\">Навіщо нам відкриті дані?</li></ul>",
     "displayTitle": "1. Що таке відкриті дані?",
     "title": "1. Що таке відкриті дані?",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -38,9 +41,6 @@
       "aboutCredit": "<p>This work &quot;What is Open Data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01\">What is Open Data?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
     }
   },
   {
@@ -48,7 +48,7 @@
       "alt": "",
       "src": "course/uk/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dcea",
+    "_id": "5982e376d084d5167a051dd2",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -56,13 +56,16 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Відкриті дані мають потенціал сприяти розвитку економіки, трансформувати суспільство і захищати довкілля.</p><p dir=\"ltr\">У цьому модулі ми розглянемо, яким чином влада, бізнес і громадяни створюють нову цінність, використовуючи відкриті дані.</p>",
+    "_classes": "ticks",
+    "body": "<p dir=\"ltr\">Відкриті дані мають потенціал, щоб сприяти розвитку економіки, трансформувати суспільство та захищати довкілля.</p><p dir=\"ltr\">У цьому модулі ми дізнаємося, як влада, бізнес і громадяни використовують відкриті дані, щоб створювати нову цінність.</p><p dir=\"ltr\"><strong>У цьому модулі ми розглянемо: </strong></p><ul><li dir=\"ltr\">Інновації та розвиток у бізнесі</li><li dir=\"ltr\">Можливості для влади</li><li dir=\"ltr\">Значення для суспільства та державної політики</li><li dir=\"ltr\">Переваги для культури та довкілля</li></ul>",
     "displayTitle": "2. Цінність відкритих даних ",
     "title": "2. Цінність відкритих даних ",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -82,9 +85,6 @@
       "aboutCredit": "<p>This work &quot;Unlocking value from open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/\">Unlocking value from open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
     }
   },
   {
@@ -92,7 +92,7 @@
       "alt": "",
       "src": "course/uk/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
     },
-    "_id": "59158abfd084d5167a04e35b",
+    "_id": "5982e376d084d5167a051dd3",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -100,13 +100,16 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Існують певні стандарти та якісні характеристики, котрі допомагають визначити, наскільки придатними для використання є дані.</p><p dir=\"ltr\">У цьому модулі ми проаналізуємо, що робить дані придатними для використання і яким чином стандарти допомагають покращити рівень застосування даних.</p>",
+    "_classes": "ticks",
+    "body": "<p dir=\"ltr\">Неможливо швидко оцінити, наскільки корисними є відкриті дані.</p><p dir=\"ltr\">Існує безліч колективно розроблених стандартів та ознак якості, які допомагають визначити, наскільки придатними для використання є такі дані.</p><p><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\">Що робить дані придатними для використання</li><li dir=\"ltr\">Як стандарти допомагають збільшити зручність та простоту використання даних</li><li dir=\"ltr\">Які існують ознаки якості даних</li></ul>",
     "displayTitle": "3. Що робить відкриті дані якісними ",
     "title": "3. Що робить відкриті дані якісними ",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -126,9 +129,6 @@
       "aboutCredit": "<p>This work &quot;What makes quality open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module5/\">What makes quality open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
     }
   },
   {
@@ -136,7 +136,7 @@
       "alt": "",
       "src": "course/uk/assets/f15b36a3fb6a0dbc3a9936c8a1631cbdd3feac43.png"
     },
-    "_id": "58fdfd16d084d5167a04e021",
+    "_id": "5982e376d084d5167a051dd5",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -144,10 +144,14 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Впродовж останнього десятиліття все більше уваги приділяється прозорості та урядуванню і здійсненню політики на основі наявних фактичних даних.</p><p dir=\"ltr\">У цьому модулі ми розглянемо, яким чином Хартія відкритих даних сприяє відкритості влади.</p>",
+    "_classes": "ticks",
+    "body": "<p dir=\"ltr\">Упродовж останнього десятиліття (до 2017 року) спостерігається зростання уваги до прозорості влади та політичних рішень, що базуються на фактичних даних у інтересах кожного громадянина. Наявність узгоджених та загальноприйнятних принципів є критично важливою для розуміння всіх переваг відкритих даних.</p><p dir=\"ltr\">У цьому модулі ми розглянемо Хартію відкритих даних та ключові принципи відкритих даних, які вона описує.</p><p dir=\"ltr\">У модулі підніматимуться такі питання:</p><ul><li dir=\"ltr\">Навіщо нам Хартія?</li><li dir=\"ltr\">Ключові принципи Хартії відкритих даних</li><li dir=\"ltr\">Як Хартія відкритих даних застосовується в Україні</li></ul>",
     "displayTitle": "4. Принципи Хартії відкритих даних",
     "title": "4. Принципи Хартії відкритих даних",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_ODILicence": {
       "_items": []
     },
@@ -170,10 +174,6 @@
         }
       ]
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -185,7 +185,7 @@
       "alt": "",
       "src": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dced",
+    "_id": "5982e376d084d5167a051dd4",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -193,13 +193,16 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "",
-    "body": "<p dir=\"ltr\">Відкриті дані мають бути релевантними, актуальними і доступними, щоб бути корисними</p><p dir=\"ltr\">У цьому модулі ми розбиратимемося, що таке сталість, чому сталість важлива і що шукати у сталих відкритих наборах даних.</p>",
-    "displayTitle": "5. Чому ми маємо турбуватися про сталість?",
-    "title": "5. Чому ми маємо турбуватися про сталість?",
+    "_classes": "ticks",
+    "body": "<p dir=\"ltr\">Відкриті дані мають бути релевантними, актуальними і доступними, щоб давати користь.</p><p dir=\"ltr\">Програма сталих відкритих даних &ndash; це програма, яка продовжує випускати дані на регулярній основі в однаковій чи кращій якості або кількості.</p><p dir=\"ltr\"><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\">Як досягти сталості</li><li dir=\"ltr\">Яке значення має сталість для вас</li><li dir=\"ltr\">Що шукати у сталих відкритих наборах даних</li></ul>",
+    "displayTitle": "5. Чому ми маємо дбати про сталість?",
+    "title": "5. Чому ми маємо дбати про сталість?",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -219,9 +222,6 @@
       "aboutCredit": "<p>This work &quot;Why should we worry about sustainability?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module7/\">Why should we worry about sustainability?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
       "SL_text": "",
       "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
     }
   },
   {
@@ -229,7 +229,7 @@
       "alt": "",
       "src": "course/uk/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
     },
-    "_id": "58fdfc5ed084d5167a04dcf1",
+    "_id": "5982e376d084d5167a051dd0",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,

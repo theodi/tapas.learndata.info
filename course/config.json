@@ -1,5 +1,5 @@
 {
-  "_defaultLanguage": "uk",
+  "_defaultLanguage": "en",
   "_defaultDirection": "ltr",
   "_questionWeight": 1,
   "_generateSourcemap": false,
@@ -35,28 +35,29 @@
     },
     "_languages": [
       {
-        "_buttons": {
-          "no": "Cancel",
-          "yes": "Yes"
-        },
-        "warningMessage": "Are you sure you want to change language to English?",
-        "warningTitle": "English",
-        "displayName": "English",
+        "_language": "en",
         "_direction": "ltr",
-        "_language": "en"
+        "displayName": "English",
+        "warningTitle": "Change to English?",
+        "warningMessage": "Are you sure you want to change language to English?",
+        "_buttons": {
+          "yes": "Yes",
+          "no": "No"
+        }
       },
       {
-        "_buttons": {
-          "no": "Скасувати",
-          "yes": " Так"
-        },
-        "warningMessage": "Ви впевнені, що хочете змінити англійську мову?",
-        "warningTitle": " Ти впевнений?",
-        "displayName": "Ukraine",
+        "_language": "uk",
         "_direction": "ltr",
-        "_language": "uk"
+        "displayName": "Українська",
+        "warningTitle": "Ти впевнений?",
+        "warningMessage": "Ви впевнені, що хочете змінити англійську мову?",
+        "_buttons": {
+          "yes": "Tak",
+          "no": "Скасувати"
+        }
       }
     ],
+    "_classes": "",
     "_languagePickerIconClass": "icon-language-2",
     "_showOnCourseLoad": false,
     "body": "",
@@ -70,12 +71,12 @@
   "build": {
     "includes": [
       "adapt-theme-ukraine",
-      "adapt-contrib-boxMenu",
+      "adapt-contrib-blockMenu",
+      "adapt-contrib-languagePickerNavFlags",
       "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-tutor",
       "adapt-skillsFramework",
-      "adapt-contrib-languagePicker",
       "adapt-contrib-aboutPage",
       "adapt-contrib-graphic",
       "adapt-contrib-text",

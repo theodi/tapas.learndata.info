@@ -130,7 +130,7 @@
     "disabledAriaLabel": "Наразі кнопка неактивна"
   },
   "_latestTrackingId": 67,
-  "body": "<p>Ласкаво просимо до цього набору модулів. Перегляньте наше відео нижче, щоб дізнатись, що ви вивчите.</p>",
+  "body": "<p>Ласкаво просимо до цього набору модулів. Перегляньте наше відео нижче, щоб дізнатись, що ви вивчите.</p><div class=\"video\"><iframe src=\"https://player.vimeo.com/video/246252426\" width=\"100%\" height=\"250\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
   "displayTitle": "TAPAS (UKR)",
   "title": "TAPAS (UKR)",
   "_pageLevelProgress": {
