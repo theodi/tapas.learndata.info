@@ -22,17 +22,6 @@
     "title": " "
   },
   {
-    "_id": "58fdfc5fd084d5167a04dd0e",
-    "_parentId": "58fdfc5ed084d5167a04dcf1",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
     "_id": "58fdfc5fd084d5167a04dd16",
     "_parentId": "58fdfc5ed084d5167a04dced",
     "_type": "article",
@@ -68,17 +57,6 @@
   {
     "_id": "58fdfc5fd084d5167a04dcf7",
     "_parentId": "58fdfc5ed084d5167a04dcea",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04dcfe",
-    "_parentId": "58fdfc5ed084d5167a04dcf1",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
@@ -145,17 +123,6 @@
   {
     "_id": "58fdfc5fd084d5167a04dd08",
     "_parentId": "58fdfc5ed084d5167a04dcea",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04dd0d",
-    "_parentId": "58fdfc5ed084d5167a04dcf1",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,

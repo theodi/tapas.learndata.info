@@ -113,7 +113,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd27",
     "_type": "component",
-    "body": "<p>Data is open if anyone can access, use and share it.<br />There are some simple things to consider when defining openness:</p>",
+    "body": "<p>Data is open if anyone can access, use and share it.</p><p>There are some simple things to consider when defining openness:</p>",
     "displayTitle": "What makes data open?",
     "title": "What makes data open?",
     "_isAvailable": true,
@@ -160,7 +160,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd2b",
     "_type": "component",
-    "body": "<p><strong>Open data is driving innovation and growth in the private sector by...</strong></p><p>&nbsp;</p>",
+    "body": "<p><strong>Open data is driving innovation and growth in the private sector by...</strong></p>",
     "displayTitle": "Innovation and growth in business",
     "title": "Q: Innovation and growth in business",
     "_isAvailable": true,
@@ -238,7 +238,7 @@
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd2e",
     "_type": "component",
-    "body": "<p><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></p><p>&nbsp;</p>",
+    "body": "<p><strong>What type of open data was used to help in disaster response efforts in Haiti and the Philippines?</strong></p>",
     "displayTitle": "Changing culture and environment",
     "title": "Q: Changing culture and environment",
     "_isAvailable": true,
@@ -370,318 +370,6 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddc2",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd31",
-    "_type": "component",
-    "body": "<p><strong>What are two critical relationship factors needed for a successful open data initiative?</strong></p>",
-    "displayTitle": "Leadership and engagement",
-    "title": "Q: Leadership and engagement",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "Emotional intelligence and patience",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Strong leadership and active engagement",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "Friendliness and empathy",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Strong leadership and active engagement with key stakeholders is critical to a successful initiative.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Strong leadership and active engagement with key stakeholders is critical to a successful initiative.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddc3",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd32",
-    "_type": "component",
-    "body": "<p><strong>What contemporary approach should you take when planning for an open data initiative?</strong></p>",
-    "displayTitle": "Supply and demand",
-    "title": "Q: Supply and demand",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": " Publish data and hope people use it",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Think about my needs",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "Take the perspective of the consumer",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>With maturity in the open data community, many are now taking the perspective of the consumer and clarifying the benefits they could get from the data.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>With maturity in the open data community, many are now taking the perspective of the consumer and clarifying the benefits they could get from the data.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddc4",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd21",
-    "_type": "component",
-    "body": "<p><strong>People who drive open data initiatives need to spend most time...</strong></p>",
-    "displayTitle": "Culture change for new markets",
-    "title": "Q: Culture change for new markets",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "overcoming barriers, building coalitions and driving forward change",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      },
-      {
-        "text": "talking to other data publishers",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "getting to know their own datasets",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": true,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Open data often requires change in the way an institution operates. People driving initiatives need to spend time overcoming barriers, building coalitions and driving forward change.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open data often requires change in the way an institution operates. People driving initiatives need to spend time overcoming barriers, building coalitions and driving forward change.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_id": "58fdfc5fd084d5167a04ddc5",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd33",
-    "_type": "component",
-    "body": "<p><strong>Governments, organisations and individuals should have free access to...</strong></p>",
-    "displayTitle": "Planning for change",
-    "title": "Q: Planning for change",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "mcq",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Choose your answer, then click 'Submit'",
-    "_items": [
-      {
-        "text": "big data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "everyone's open data",
-        "_shouldBeSelected": false,
-        "feedback": ""
-      },
-      {
-        "text": "key education, tools and guides",
-        "_shouldBeSelected": true,
-        "feedback": ""
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_selectable": 1,
-    "_feedback": {
-      "correct": "<p><strong>That&rsquo;s right!</strong></p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p>",
-      "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p>",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
   },
   {
     "_id": "58fdfc5fd084d5167a04ddcd",
@@ -996,168 +684,6 @@
     "instruction": ""
   },
   {
-    "_id": "58fdfc60d084d5167a04ddef",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd5d",
-    "_type": "component",
-    "body": "",
-    "displayTitle": "Component title",
-    "title": "Component title",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/e0fc8f9648b483164d055cfa0842d4f43cd77017.png",
-      "small": "course/en/assets/e0fc8f9648b483164d055cfa0842d4f43cd77017.png",
-      "attribution": ""
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddf0",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd5d",
-    "_type": "component",
-    "body": "<p>Implementing an open data initiative often involves cultural and institutional change.</p><p>Engaging with civil society, businesses and governments is an important part of the process.</p><p>As the open data community matures, many initiatives are taking user needs into account early on in planning their activities.</p><p>Open data requires us to think differently about the way the market for data functions.</p><p>In the next module, we&#39;ll look at simplifying open data licences.</p><p><a class=\"button\" href=\"#/id/588a2d9ab61c46e176e7e913\">Next module</a></p><p><a class=\"button\" href=\"#/id/58862552b61c46e176e7e648\">Main menu</a></p>",
-    "displayTitle": "Open data: agent of change. ",
-    "title": "Summary",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddf1",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04ddad",
-    "_type": "component",
-    "body": "<p>ODI International Development Manager Liz Carolan shares five characteristics of successful open data initiatives.</p>",
-    "displayTitle": "Engaging in open data initiatives - in 2 minutes",
-    "title": "Engaging in open data initiatives - in 2 minutes",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "media",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://player.vimeo.com/video/129196638",
-      "type": "video/vimeo",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "ended",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_allowFullScreen": false,
-    "_playsinline": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddf2",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd5e",
-    "_type": "component",
-    "body": "<p>Implementing an open data initiative often involves cultural and institutional change.</p>\n\n<p>Opening data goes far beyond putting data on a website under an open licence. Applying the technology is the easy part &ndash; bringing about cultural change can be much harder.</p>\n",
-    "displayTitle": "Open data: agent of change. ",
-    "title": "Open data: agent of change. ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddf3",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd5f",
-    "_type": "component",
-    "body": "<p>When examining an open data initiative, consider the following:</p>",
-    "displayTitle": "Supply and demand",
-    "title": "Supply and demand",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the headings to explore further.",
-    "_items": [
-      {
-        "title": "Your approach",
-        "body": "<p>Many open data publishers have taken the approach of building a portal, publishing the data they have, and hoping it is what consumers want or need.</p>\n\n<p>As open data literacy grows, people are starting to think first about the needs of data consumers and shape their initiatives accordingly.</p>\n\n<p>A staged approach helps to ensure that an organisation can walk before it tries to run, and achieves change in small, noticeable steps, rather than setting ambitious goals that are hard to meet.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Who wants your data?",
-        "body": "<p>There is little point in publishing open data if there is no one prepared or motivated to create new value from it.</p>\n\n<p>It is often best to focus on demand that currently exists.</p>\n\n<p>Use existing consumer dialogues, opinion surveys or &lsquo;vox pops&rsquo; to see where the demand is, and follow it.</p>\n\n<p>Think about problems that already exist and how your data relates to them. Offer your data as a tool to help build solutions.</p>\n",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Who will use and support your data?",
-        "body": "<p>A successful open data initiative has an engaged community who actively use the data, with access to resources that support them.</p><p>A strong community of open data reusers has a sense of ownership over the data. This ownership should cover both the data and the outputs generated from it.</p><p>It is important for publishers and consumers to fully understand each others&rsquo; perspectives.</p><p><span style=\"color:#FF0000\">A good example of a strong open data community is the Open Street Map project.</span><br /><a href=\"https://www.openstreetmap.org/\" target=\"_blank\"><span style=\"color:#FF0000\">Take me to the Open Street Map project</span></a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "58fdfc60d084d5167a04ddf4",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04ddb0",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/fde5859755a4fd67b14afc7d8914cd1605c89583.png",
-      "small": "course/en/assets/fde5859755a4fd67b14afc7d8914cd1605c89583.png",
-      "attribution": ""
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de01",
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd77",
@@ -1239,7 +765,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd29",
     "_type": "component",
-    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data &ndash; this is public information in a format which allows it to be automatically processed&nbsp;electronically and accessed free of charge for continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorised for further use and free distribution. Anyone is free to copy, publish, distribute and use &ndash; including for commercial purposes &ndash; in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information.</p>",
+    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data &ndash; this is public information in a format which allows it to be automatically processed&nbsp;electronically and accessed free of charge for continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorised for further use and free distribution.</p><p dir=\"ltr\">Anyone is free to copy, publish, distribute and use &ndash; including for commercial purposes &ndash; in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information.</p>",
     "displayTitle": "What is open data?",
     "title": "What is open data?",
     "_isAvailable": true,
@@ -1442,225 +968,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de1d",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd5e",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de1e",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04ddaf",
-    "_type": "component",
-    "body": "<p>Active leadership and engagement helps foster successful open data initiatives and bring about positive change.</p>",
-    "displayTitle": "Leadership and engagement",
-    "title": "Leadership and engagement",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Active leadership",
-        "body": "<p>As an open data programme is launched, it is common for those driving it to meet some resistance from within their organisations.</p><p>Active support from senior figures can help to encourage institutional buy-in.</p>",
-        "_graphic": {
-          "src": "course/en/assets/e476d5412f3c230ba6365724bc2935db25901c21.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Active leadership"
-      },
-      {
-        "title": "Active engagement",
-        "body": "<p>Engagement with civil society, business and government are key aspects of any open data initiative.</p><p>Successful initiatives tend to start with an open dialogue between open data publishers and consumers.</p><p>This dialogue is important for both parties to understand the demand for data and opportunities to draw out its benefits.</p>",
-        "_graphic": {
-          "src": "course/en/assets/67a6ba703a03fcdfe35ffd5b7c2e431069a5239d.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-82049359.html\" target=\"_blank\">Carsten Reisinger</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Active engagement"
-      },
-      {
-        "title": "Finding space to innovate",
-        "body": "<p>Strong leadership and active engagement with key stakeholders is key to any successful initiative.</p><p>Active leadership delivers a &#39;push&#39; from the organisation, active dialogue creates a &#39;pull&#39; from data users.</p><p>Open data leadership and dialogue unlock innovation opportunities by connecting problems with potential solutions.</p>",
-        "_graphic": {
-          "src": "course/en/assets/e9598d5d158af1eb24726e144c1701909c285214.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-33265168.html\" target=\"_blank\">Tonis Pan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Finding space to innovate"
-      }
-    ]
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de1f",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd5f",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
-      "small": "course/en/assets/c6f0379d2e7a1f8ef317013665105ad75165b32c.png",
-      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/creative-circle-abstract-vector-logo-design-245234284\" target=\"_blank\">Positive thinker</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de20",
-    "_layout": "full",
-    "_parentId": "58fdfc5fd084d5167a04dd60",
-    "_type": "component",
-    "body": "<p>Applying technology is the easy part. Implementing culture change can be much harder.</p>",
-    "displayTitle": "Culture change for new markets",
-    "title": "Culture change for new markets",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "allItems",
-    "_items": [
-      {
-        "title": "Identifying new markets",
-        "body": "<p>The traditional market for open data, where governments publish data for others to consume, has changed.</p><p>Governments, businesses and society are all now both suppliers and consumers of open data.</p>",
-        "_graphic": {
-          "src": "course/en/assets/0906f449a4639090ea7a59cef4c8ea9051af9e5a.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "identifying new markets"
-      },
-      {
-        "title": "Culture change",
-        "body": "<p>Adopting open data will often require a change in the way an institution operates.</p><p>People driving initiatives need to spend time developing a shared vision, overcoming barriers and building coalitions for change.</p><p>Consumers should be empowered to engage with open data as a core part of their data infrastructure.</p>",
-        "_graphic": {
-          "src": "course/en/assets/92f6b3128eab84c503bd3d3a052cb1c2f27b60f6.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/beautiful-colorful-cityscape-on-mountains-over-257301595\" target=\"_blank\">Ana Omelchenko </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "Culture change"
-      },
-      {
-        "title": "Planning for change",
-        "body": "<p>Ways to handle and plan for culture change are becoming clearer.</p><p>Governments, organisations and individuals should have free access to key education, tools and guides that help plan for the future.</p><p>Pilots and practical initiatives play important roles in understanding the impact of open data and the change process. There are tools and guides to help you assess and plan for change, such as the ODI&#39;s Open Data Pathway.<br /><a href=\"http://pathway.theodi.org/\" target=\"_blank\">Take me to ODI Open Data Pathway</a></p>",
-        "_graphic": {
-          "src": "course/en/assets/28d509ca037dda8db7ad013059903f4f33da1bd2.jpg",
-          "alt": "",
-          "attribution": "<a href=\"http://www.shutterstock.com/pic-53095825.html\" target=\"_blank\">Mikael Damkier</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-        },
-        "strapline": "planning for change"
-      }
-    ]
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de21",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd31",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "small": "course/en/assets/cdce8ea3ed04a12e226ca17c8e5be93fffe1fb11.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-134315933.html\" target=\"_blank\">Photoraiz</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de22",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd32",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/12e02688090c26dda49cb0e1e91cda8556169546.png",
-      "small": "course/en/assets/12e02688090c26dda49cb0e1e91cda8556169546.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-238771996.html\" target=\"_blank\">Mangsaab</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04de23",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04dd21",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/56953b1782727172d50751bab77d8b79e6045303.jpg",
-      "small": "course/en/assets/56953b1782727172d50751bab77d8b79e6045303.jpg",
-      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/creative-circle-abstract-vector-logo-design-245234284\" target=\"_blank\">Positive thinker</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de2a",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd24",
@@ -1823,7 +1130,7 @@
   },
   {
     "_id": "58fdfc60d084d5167a04de5a",
-    "_layout": "right",
+    "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd7a",
     "_type": "component",
     "body": "<p>A sustainable open dataset is supported by:</p><ul><li><strong>Secure funding</strong> to cover the cost of updates</li><li><strong>Active support</strong> of publishers to prioritise updates</li><li><strong>Wide reuse</strong> by others to demonstrate the value</li></ul>",
@@ -1889,7 +1196,7 @@
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd2c",
     "_type": "component",
-    "body": "<p><strong>Open data awareness is no longer a luxury for public servants, it is now...</strong></p><p>&nbsp;</p>",
+    "body": "<p><strong>Open data awareness is no longer a luxury for public servants, it is now...</strong></p>",
     "displayTitle": "Opportunities for government",
     "title": "Q: Opportunities for government",
     "_isAvailable": true,
@@ -2345,7 +1652,7 @@
     "_items": [
       {
         "title": "Transforming government",
-        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, search and analysis system .007 provides a way of monitoring public budget expenditures and helps identify any abuse in spending. The web-based system provides access to open data and visualisations that help ease the consumption and understanding of specific information from large datasets.<br /><a href=\"http://www.007.org.ua\" target=\"_blank\">Take me to .007</a></p><p dir=\"ltr\">Election Guard - a service for analysis and visualisation of open data on elections in Ukraine is based on publically available data from the State Register of Voters.<br /><a href=\"http://openvote.in.ua\" target=\"_blank\">Take me to election guard</a></p><p dir=\"ltr\">Perhaps the most transformative is what Ukraine is doing with Prozorro and its open contracting procurement reforms. Since the programme&#39;s inception, open contracting and procurement has resulted in a 15% increase in competition from 45% more suppliers who hadn&rsquo;t bid before. This increase in competition has also resulted in 10% saving in spending.<br /><a href=\"http://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/?utm_content=buffer60ceb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\" target=\"_blank\">Take me to Prozorro</a></p>",
+        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, search and analysis system .007 provides a way of monitoring public budget expenditures and helps identify any abuse in spending. The web-based system provides access to open data and visualisations that help ease the consumption and understanding of specific information from large datasets.<br /><a href=\"http://www.007.org.ua\" target=\"_blank\">Take me to .007</a></p><p dir=\"ltr\">An example of Ukrainian practice: the Rada4you service helps to check how deputies vote in a very simple and convenient format.<br /><a href=\"http://lviv.rada4you.org/\" target=\"_blank\">Go to Rada4you</a></p><p dir=\"ltr\">Perhaps the most transformative is what Ukraine is doing with Prozorro and its open contracting procurement reforms. Since the programme&#39;s inception, open contracting and procurement has resulted in a 15% increase in competition from 45% more suppliers who hadn&rsquo;t bid before. This increase in competition has also resulted in 10% saving in spending.<br /><a href=\"http://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/?utm_content=buffer60ceb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\" target=\"_blank\">Take me to Prozorro</a></p>",
         "_graphic": {
           "src": "course/en/assets/5137df5ae627c0cbfd5b8b2a267769e2878d7905.png",
           "alt": "",
@@ -2543,31 +1850,8 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de85",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04dd33",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/2fe19d532716f15da1f88dcfcfb5c64d6bbcf6d9.png",
-      "small": "course/en/assets/2fe19d532716f15da1f88dcfcfb5c64d6bbcf6d9.png",
-      "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de8f",
-    "_layout": "left",
+    "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd7a",
     "_type": "component",
     "body": "",
@@ -2857,29 +2141,6 @@
     }
   },
   {
-    "_id": "58fdfc60d084d5167a04de9b",
-    "_layout": "right",
-    "_parentId": "58fdfc5fd084d5167a04ddae",
-    "_type": "component",
-    "body": "",
-    "displayTitle": " ",
-    "title": " ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "intro-logo",
-    "_component": "graphic",
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
-    }
-  },
-  {
     "_id": "58fdfc60d084d5167a04de9c",
     "_layout": "right",
     "_parentId": "58fdfc5fd084d5167a04dd78",
@@ -2901,40 +2162,6 @@
       "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
       "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
-  },
-  {
-    "_id": "58fdfc60d084d5167a04dea6",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04ddae",
-    "_type": "component",
-    "body": "<p>The most successful open data initiatives share similar characteristics. Understanding successful approaches can help unlock the value of open data.</p><p><strong>In this module we&rsquo;ll explore the following:</strong></p><ul><li>Open data as an agent of change</li><li>Leadership and engagement</li><li>Supply and demand</li><li>Culture change for new markets</li></ul>",
-    "displayTitle": "Open data: agent of change",
-    "title": "Open data: agent of change",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "ticks",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
-    "_id": "58fdfc60d084d5167a04dea7",
-    "_layout": "left",
-    "_parentId": "58fdfc5fd084d5167a04ddb0",
-    "_type": "component",
-    "body": "<p>There are four key characteristics of successful open data initiatives. Can you recall them?</p>",
-    "displayTitle": "Are you ready for culture change? ",
-    "title": "Are you ready for culture change? ",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
   },
   {
     "_id": "58fdfc60d084d5167a04dea9",
@@ -3825,48 +3052,6 @@
     "_shouldCollapseItems": true
   },
   {
-    "_id": "5926d8a6d084d5167a04eac5",
-    "_layout": "full",
-    "_parentId": "5926d878d084d5167a04eac3",
-    "_type": "component",
-    "body": "<p>The remaining&nbsp;two principals of the charter focus on why the data is being made open. Discover more below:</p>",
-    "displayTitle": "Principals 5 and 6",
-    "title": "Principals 5 and 6",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": true,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "5. For Improved Governance and Citizen Engagement",
-        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "5. For Improved Governance and Citizen Engagement"
-      },
-      {
-        "title": "6. For Inclusive Development and Innovation",
-        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "6. For Inclusive Development and Innovation"
-      }
-    ]
-  },
-  {
     "_id": "5927db45d084d5167a04eacb",
     "_layout": "right",
     "_parentId": "5926e587d084d5167a04eac8",
@@ -3990,7 +3175,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "",
+    "instruction": "Choose your answer, then click 'Submit'",
     "_items": [
       {
         "text": "The Open Data Charter supports and holds governments to their open data commitments",
@@ -4114,7 +3299,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "",
+    "instruction": "Choose your answer, then click 'Submit'",
     "_items": [
       {
         "text": "You establish the demand for it from users",
@@ -4215,7 +3400,7 @@
     "_pageLevelProgress": {
       "_isEnabled": true
     },
-    "instruction": "",
+    "instruction": "Select four answers then click 'submit'",
     "_items": [
       {
         "text": "Open data should published as soon as possible",
@@ -4349,5 +3534,47 @@
       "_isEnabled": true
     },
     "instruction": ""
+  },
+  {
+    "_id": "5926d8a6d084d5167a04eac5",
+    "_layout": "full",
+    "_parentId": "5926d878d084d5167a04eac3",
+    "_type": "component",
+    "body": "<p>The remaining&nbsp;two principals of the charter focus on why the data is being made open. Discover more below:</p>",
+    "displayTitle": "Principals 5 and 6",
+    "title": "Principals 5 and 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "5. For Improved Governance and Citizen Engagement",
+        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "5. For Improved Governance and Citizen Engagement"
+      },
+      {
+        "title": "6. For Inclusive Development and Innovation",
+        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "6. For Inclusive Development and Innovation"
+      }
+    ]
   }
 ]

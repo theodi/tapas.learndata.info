@@ -4,7 +4,7 @@
       "alt": "",
       "src": "course/uk/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
-    "_id": "5982e376d084d5167a051dd1",
+    "_id": "58fdfc5ed084d5167a04dceb",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -16,31 +16,34 @@
     "body": "<p dir=\"ltr\"><strong>Відкриті дані &ndash; це дані, які будь-хто може вільно використовувати та поширювати.</strong> Влада, бізнес та громадяни можуть використовувати відкриті дані для одержання певної соціальної, економічної та екологічної користі.</p><p dir=\"ltr\"><strong>У цьому модулі ми довідаємося:</strong></p><ul><li dir=\"ltr\">Що таке відкриті дані?</li><li dir=\"ltr\">Що таке дані?</li><li dir=\"ltr\">Що робить дані відкритими?</li><li dir=\"ltr\">Навіщо нам відкриті дані?</li></ul>",
     "displayTitle": "1. Що таке відкриті дані?",
     "title": "1. Що таке відкриті дані?",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;What is Open Data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01\">What is Open Data?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>"
     },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define open data"
         },
         {
-          "outcome": "Explain the need for open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Explain the need for open data"
         }
       ]
     },
-    "_aboutPage": {
-      "aboutCredit": "<p>This work &quot;What is Open Data?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module1/#/id/co-01\">What is Open Data?</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
-      "SL_text": "",
+    "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -48,7 +51,7 @@
       "alt": "",
       "src": "course/uk/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
     },
-    "_id": "5982e376d084d5167a051dd2",
+    "_id": "58fdfc5ed084d5167a04dcea",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -60,31 +63,34 @@
     "body": "<p dir=\"ltr\">Відкриті дані мають потенціал, щоб сприяти розвитку економіки, трансформувати суспільство та захищати довкілля.</p><p dir=\"ltr\">У цьому модулі ми дізнаємося, як влада, бізнес і громадяни використовують відкриті дані, щоб створювати нову цінність.</p><p dir=\"ltr\"><strong>У цьому модулі ми розглянемо: </strong></p><ul><li dir=\"ltr\">Інновації та розвиток у бізнесі</li><li dir=\"ltr\">Можливості для влади</li><li dir=\"ltr\">Значення для суспільства та державної політики</li><li dir=\"ltr\">Переваги для культури та довкілля</li></ul>",
     "displayTitle": "2. Цінність відкритих даних ",
     "title": "2. Цінність відкритих даних ",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Unlocking value from open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/\">Unlocking value from open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>"
     },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe the benefits of working with open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe the benefits of working with open data"
         },
         {
-          "outcome": "Describe successful case studies of using and publishing open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe successful case studies of using and publishing open data"
         }
       ]
     },
-    "_aboutPage": {
-      "aboutCredit": "<p>This work &quot;Unlocking value from open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module2/\">Unlocking value from open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
-      "SL_text": "",
+    "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -92,7 +98,7 @@
       "alt": "",
       "src": "course/uk/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
     },
-    "_id": "5982e376d084d5167a051dd3",
+    "_id": "59158abfd084d5167a04e35b",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -104,31 +110,34 @@
     "body": "<p dir=\"ltr\">Неможливо швидко оцінити, наскільки корисними є відкриті дані.</p><p dir=\"ltr\">Існує безліч колективно розроблених стандартів та ознак якості, які допомагають визначити, наскільки придатними для використання є такі дані.</p><p><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\">Що робить дані придатними для використання</li><li dir=\"ltr\">Як стандарти допомагають збільшити зручність та простоту використання даних</li><li dir=\"ltr\">Які існують ознаки якості даних</li></ul>",
     "displayTitle": "3. Що робить відкриті дані якісними ",
     "title": "3. Що робить відкриті дані якісними ",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;What makes quality open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module5/\">What makes quality open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>"
     },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Define the benefits of quality open data",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Define the benefits of quality open data"
         },
         {
-          "outcome": "Describe two guidelines for open data quality",
+          "level": "explorer",
           "credits": 5,
-          "level": "explorer"
+          "outcome": "Describe two guidelines for open data quality"
         }
       ]
     },
-    "_aboutPage": {
-      "aboutCredit": "<p>This work &quot;What makes quality open data&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module5/\">What makes quality open data</a>&quot; by&nbsp;<a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
-      "SL_text": "",
+    "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -136,7 +145,7 @@
       "alt": "",
       "src": "course/uk/assets/f15b36a3fb6a0dbc3a9936c8a1631cbdd3feac43.png"
     },
-    "_id": "5982e376d084d5167a051dd5",
+    "_id": "58fdfd16d084d5167a04e021",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -148,36 +157,39 @@
     "body": "<p dir=\"ltr\">Упродовж останнього десятиліття (до 2017 року) спостерігається зростання уваги до прозорості влади та політичних рішень, що базуються на фактичних даних у інтересах кожного громадянина. Наявність узгоджених та загальноприйнятних принципів є критично важливою для розуміння всіх переваг відкритих даних.</p><p dir=\"ltr\">У цьому модулі ми розглянемо Хартію відкритих даних та ключові принципи відкритих даних, які вона описує.</p><p dir=\"ltr\">У модулі підніматимуться такі питання:</p><ul><li dir=\"ltr\">Навіщо нам Хартія?</li><li dir=\"ltr\">Ключові принципи Хартії відкритих даних</li><li dir=\"ltr\">Як Хартія відкритих даних застосовується в Україні</li></ul>",
     "displayTitle": "4. Принципи Хартії відкритих даних",
     "title": "4. Принципи Хартії відкритих даних",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
     },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Explain why a charter is needed",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Explain why a charter is needed"
         },
         {
-          "outcome": "List the key principals of the open data charter",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "List the key principals of the open data charter"
         },
         {
-          "outcome": "Explain how the Open Data Charter has been used in Ukraine",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Explain how the Open Data Charter has been used in Ukraine"
         }
       ]
     },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
+    "_ODILicence": {
       "_items": []
+    },
+    "_pageLevelProgress": {
+      "_showPageCompletion": true,
+      "_isEnabled": true
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
@@ -185,7 +197,7 @@
       "alt": "",
       "src": "course/uk/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
     },
-    "_id": "5982e376d084d5167a051dd4",
+    "_id": "58fdfc5ed084d5167a04dced",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -197,75 +209,34 @@
     "body": "<p dir=\"ltr\">Відкриті дані мають бути релевантними, актуальними і доступними, щоб давати користь.</p><p dir=\"ltr\">Програма сталих відкритих даних &ndash; це програма, яка продовжує випускати дані на регулярній основі в однаковій чи кращій якості або кількості.</p><p dir=\"ltr\"><strong>У цьому модулі ми дізнаємося: </strong></p><ul><li dir=\"ltr\">Як досягти сталості</li><li dir=\"ltr\">Яке значення має сталість для вас</li><li dir=\"ltr\">Що шукати у сталих відкритих наборах даних</li></ul>",
     "displayTitle": "5. Чому ми маємо дбати про сталість?",
     "title": "5. Чому ми маємо дбати про сталість?",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": "<p>This work &quot;Why should we worry about sustainability?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module7/\">Why should we worry about sustainability?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>"
     },
     "_skillsFramework": {
       "_skills": [
         {
-          "outcome": "Describe key success factors for open data sustainability",
+          "level": "strategist",
           "credits": 5,
-          "level": "strategist"
+          "outcome": "Describe key success factors for open data sustainability"
         },
         {
-          "outcome": "Evaluate sustainability for an open dataset",
+          "level": "strategist",
           "credits": 10,
-          "level": "strategist"
+          "outcome": "Evaluate sustainability for an open dataset"
         }
       ]
     },
-    "_aboutPage": {
-      "aboutCredit": "<p>This work &quot;Why should we worry about sustainability?&quot;, is a derivative of &quot;<a href=\"https://www.europeandataportal.eu/elearning/en/module7/\">Why should we worry about sustainability?</a>&quot; by <a href=\"https://ec.europa.eu/commission/index_en\">European Commission</a>, used under<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> CC-BY-SA 4.0</a>.</p>",
-      "SL_text": "",
-      "_items": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": "course/uk/assets/a699447adb040b8b78c36f46d46356ba124debf3.png"
-    },
-    "_id": "5982e376d084d5167a051dd0",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "hidden",
-    "body": "",
-    "displayTitle": "3. Open data: agent of change",
-    "title": "3. Open data: agent of change",
     "_ODILicence": {
       "_items": []
     },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "outcome": "Describe the importance of organisational change to an open data iniative",
-          "credits": 5,
-          "level": "explorer"
-        },
-        {
-          "outcome": "Define key aspects of open data leadership",
-          "credits": 5,
-          "level": "explorer"
-        }
-      ]
-    },
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
+      "_showPageCompletion": true,
+      "_isEnabled": true
     },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
-      "_items": []
+    "_trackingHub": {
+      "_pageID": ""
     }
   }
 ]

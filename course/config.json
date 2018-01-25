@@ -23,6 +23,27 @@
     "_isEnabled": false
   },
   "__v": 0,
+  "_trackingHub": {
+    "_channels": [
+      {
+        "_isStateSource": true,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "ODILRS"
+      }
+    ],
+    "_courseID": "http://tapas.learndata.info",
+    "_isEnabled": true
+  },
   "_languagePicker": {
     "_accessibility": {
       "_accessibilityInstructions": {
@@ -35,26 +56,26 @@
     },
     "_languages": [
       {
-        "_language": "en",
-        "_direction": "ltr",
-        "displayName": "English",
-        "warningTitle": "Change to English?",
-        "warningMessage": "Are you sure you want to change language to English?",
         "_buttons": {
-          "yes": "Yes",
-          "no": "No"
-        }
+          "no": "No",
+          "yes": "Yes"
+        },
+        "warningMessage": "Are you sure you want to change language to English?",
+        "warningTitle": "Change to English?",
+        "displayName": "English",
+        "_direction": "ltr",
+        "_language": "en"
       },
       {
-        "_language": "uk",
-        "_direction": "ltr",
-        "displayName": "Українська",
-        "warningTitle": "Ти впевнений?",
-        "warningMessage": "Ви впевнені, що хочете змінити англійську мову?",
         "_buttons": {
-          "yes": "Tak",
-          "no": "Скасувати"
-        }
+          "no": "Скасувати",
+          "yes": "Tak"
+        },
+        "warningMessage": "Ви впевнені, що хочете змінити англійську мову?",
+        "warningTitle": "Ти впевнений?",
+        "displayName": "Українська",
+        "_direction": "ltr",
+        "_language": "uk"
       }
     ],
     "_classes": "",
@@ -72,6 +93,7 @@
     "includes": [
       "adapt-theme-ukraine",
       "adapt-contrib-blockMenu",
+      "adapt-trackingHub",
       "adapt-contrib-languagePickerNavFlags",
       "adapt-odi-licence",
       "adapt-contrib-pageLevelProgress",

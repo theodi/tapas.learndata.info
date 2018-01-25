@@ -129,91 +129,104 @@
     "remainingAttemptText": "Остання спроба ",
     "disabledAriaLabel": "Наразі кнопка неактивна"
   },
-  "_latestTrackingId": 67,
-  "body": "<p>Ласкаво просимо до цього набору модулів. Перегляньте наше відео нижче, щоб дізнатись, що ви вивчите.</p><div class=\"video\"><iframe src=\"https://player.vimeo.com/video/246252426\" width=\"100%\" height=\"250\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
-  "displayTitle": "TAPAS (UKR)",
+  "_latestTrackingId": 55,
+  "body": "<p>Шановні користувачі,<br /><br />Вітаємо вас на електронному навчальному курсі про відкриті дані. Тут ви зможете дізнатися що таке відкриті дані та в чому їхня цінність, а також які є принципи публікації та використання відкритих даних.<br /><br />Цей навчальний курс підготовлений Державним агентством з питань електронного урядування в рамках проекту, фінансованого USAID та UK Aid &quot;Прозорість та підзвітність в державному управлінні та послугах&quot; в партнерстві з Open Data Intitute за матеріалами European Data Portal.<br /><br />Сподіваємось, цей курс допоможе вам у роботі з відкритими даними! Гортайте вниз, щоб перейти до навчальних модулів.</p><div class=\"video\"><iframe src=\"https://player.vimeo.com/video/246252426\" width=\"100%\" height=\"250\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
+  "displayTitle": "",
   "title": "TAPAS (UKR)",
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true
   },
-  "_aboutPage": {
-    "_items": [
-      {
-        "title": "ODI Training Team",
-        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\">Open Data Institute</a> training team.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/logo-small.png"
-        }
-      },
-      {
-        "title": "Sponge UK",
-        "description": "<p>Learning solutions, content production and eLearning expertise originally provided by<a href=\"https://spongeuk.com/\"> Sponge UK</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/sponge.png"
-        }
-      },
-      {
-        "title": "Adapt learning",
-        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\">Adapt learning</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/adapt.png"
-        }
-      }
-    ]
-  },
   "_ODILicence": {
     "_items": [
       {
-        "title": "",
+        "_graphic": {
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png",
+          "alt": "CC-BY-SA 4.0"
+        },
         "description": "<p>TAPAS eLearning by <a href=\"https://theodi.org\">Open Data Institute</a> is licensed under a<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"> Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
-        "_graphic": {
-          "alt": "CC-BY-SA 4.0",
-          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
-        }
+        "title": ""
       },
       {
-        "title": "Attribution requirements",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\"> here</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Attribution requirements"
       },
       {
-        "title": "Content usage",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Content usage"
       },
       {
-        "title": "Exclusions",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p dir=\"ltr\">This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Exclusions"
       },
       {
-        "title": "Non-endorsement",
+        "_graphic": {
+          "src": "",
+          "alt": ""
+        },
         "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Non-endorsement"
       },
       {
-        "title": "No warranty",
-        "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
         "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+          "src": "",
+          "alt": ""
+        },
+        "description": "<p>The Information is licensed &#39;as is&#39;. The Open Data Institute is not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "title": "No warranty"
+      }
+    ]
+  },
+  "_trackingHub": {
+    "saveTitle": "Зберегти прогрес",
+    "saveBody": "<p>Будь ласка, введіть свою адресу електронної пошти в поле нижче. Ви отримаєте електронний лист із посиланням на ваш унікальний профіль, щоб ви могли зберегти ваш прогрес, заробити нагороди та відновити навчання на будь-якому пристрої.</p><p>Дані про прогрес зберігаються Інститутом інтелектуальної власності (ODI) Learning Record System (LRS), щоб (1) дозволити вам відновити ваше навчання і (2) використовувати як ODI, так і data.gov.ua для створення серії навчання аналітики. Для отримання додаткової інформації, будь ласка, перегляньте <a href=\"https://theodi.org/privacy-policy\" target=\"_blank\">політику конфіденційності</a> ODI та / або політику конфіденційності data.gov.ua.</p>",
+    "fields": [
+      {
+        "id": "email",
+        "title": "Email",
+        "type": "email",
+        "placeholder": "",
+        "required": true
+      }
+    ]
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by <a href=\"https://theodi.org\">Open Data Institute</a> training team.</p>",
+        "title": "ODI Training Team"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/sponge.png",
+          "alt": ""
+        },
+        "description": "<p>Learning solutions, content production and eLearning expertise originally provided by<a href=\"https://spongeuk.com/\"> Sponge UK</a>.</p>",
+        "title": "Sponge UK"
+      },
+      {
+        "_graphic": {
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\">Adapt learning</a>.</p>",
+        "title": "Adapt learning"
       }
     ]
   }
