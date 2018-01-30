@@ -166,9 +166,9 @@
     "duration": "",
     "linkText": "View",
     "_classes": "ticks",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principals is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principals it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principals of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
-    "displayTitle": "4. The principals of the Open Data Charter",
-    "title": "4. The principals of the Open Data Charter",
+    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principles is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principles it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principles of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
+    "displayTitle": "4. The principles of the Open Data Charter",
+    "title": "4. The principles of the Open Data Charter",
     "_trackingHub": {
       "_pageID": ""
     },
@@ -189,7 +189,7 @@
         {
           "level": "strategist",
           "credits": 5,
-          "outcome": "List the key principals of the open data charter"
+          "outcome": "List the key principles of the open data charter"
         },
         {
           "level": "strategist",
