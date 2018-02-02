@@ -1,10 +1,10 @@
 [
   {
+    "_id": "58fdfc5ed084d5167a04dceb",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/94164aeed2f6885fcdf44f9fe5484855c5238353.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dceb",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -51,11 +51,11 @@
     }
   },
   {
+    "_id": "58fdfc5ed084d5167a04dcea",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dcea",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -64,18 +64,16 @@
     "duration": "",
     "linkText": "View",
     "_classes": "ticks",
-    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment.</li></ul>",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment</li></ul>",
     "displayTitle": "2. Unlocking value from open data",
     "title": "2. Unlocking value from open data",
-    "_trackingHub": {
-      "_pageID": ""
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -96,17 +94,19 @@
       "SL_text": "",
       "_items": []
     },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
+    "_id": "59158abfd084d5167a04e35b",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/b0a1356f5ad57eff61e6a22b69a2e1b6d9773220.jpg"
     },
-    "_id": "59158abfd084d5167a04e35b",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -153,11 +153,11 @@
     }
   },
   {
+    "_id": "58fdfd16d084d5167a04e021",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/f15b36a3fb6a0dbc3a9936c8a1631cbdd3feac43.png"
     },
-    "_id": "58fdfd16d084d5167a04e021",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -166,18 +166,16 @@
     "duration": "",
     "linkText": "View",
     "_classes": "ticks",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principles is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principles it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principles of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
+    "body": "<p>The last decade has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principles&nbsp;is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principles&nbsp;it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principles&nbsp;of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
     "displayTitle": "4. The principles of the Open Data Charter",
     "title": "4. The principles of the Open Data Charter",
-    "_trackingHub": {
-      "_pageID": ""
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_ODILicence": {
-      "_items": []
     },
     "_skillsFramework": {
       "_skills": [
@@ -187,9 +185,9 @@
           "outcome": "Explain why a charter is needed"
         },
         {
-          "level": "strategist",
+          "outcome": "List the key principles of the open data charter",
           "credits": 5,
-          "outcome": "List the key principles of the open data charter"
+          "level": "strategist"
         },
         {
           "level": "strategist",
@@ -203,17 +201,19 @@
       "SL_text": "",
       "_items": []
     },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "page"
+    "_ODILicence": {
+      "_items": []
+    },
+    "_trackingHub": {
+      "_pageID": ""
     }
   },
   {
+    "_id": "58fdfc5ed084d5167a04dced",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/4c2b01ae0adef53b38affc904b2955a52b07e2ce.jpg"
     },
-    "_id": "58fdfc5ed084d5167a04dced",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,

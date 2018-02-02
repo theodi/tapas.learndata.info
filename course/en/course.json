@@ -1,4 +1,5 @@
 {
+  "_id": "course",
   "_globals": {
     "_accessibility": {
       "accessibilityToggleTextOn": "Turn accessibility on?",
@@ -94,7 +95,6 @@
       }
     }
   },
-  "_id": "course",
   "_start": {
     "_isEnabled": false,
     "_startIds": [],
@@ -130,8 +130,8 @@
     "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 55,
-  "body": "<p>Welcome to the e-learning course on open data. Here you can find out what&nbsp;open data is, the value of open data and the principles of publishing and using open data.<br /><br />This learning course was prepared by the State Agency for E-Governance in a project funded by USAID and UK Aid &quot;Transparency and accountability in public administration and services&quot; in partnership with Open Data Institute.<br /><br />Scroll down to discover each of the available lessons.</p><div class=\"video\"><iframe src=\"https://player.vimeo.com/video/246252426\" width=\"100%\" height=\"250\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div>",
-  "displayTitle": "",
+  "body": "<p>Welcome to the State Agency for E-Governance&rsquo;s e-learning programme. Here you can find out about open data, the value of open data and the principles of publishing and using open data.<br/><br/>This course was prepared by the USAID and UK Aid funded project &quot;Transparency and Accountability in Public Administration and Services&quot; in partnership with Open Data Institute.<br/><br/>Scroll down to discover all available lessons.</p><div class=\"video\"><iframe src=\"https://player.vimeo.com/video/246252426\" width=\"100%\" height=\"250\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe></div>",
+  "displayTitle": "Welcome",
   "title": "TAPAS (EN)",
   "_aboutPage": {
     "_items": [

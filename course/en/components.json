@@ -127,10 +127,11 @@
     "_items": [
       {
         "title": "Limitations",
-        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way</p>\n\n<p>Anyone should be free to use, modify, combine and share the data, even commercially</p>\n",
+        "body": "<p>For data to be open, it should have no limitations that prevent it from being used in any particular way.</p><p>Anyone should be free to use, modify, combine and share the data, even commercially.</p>",
         "_graphic": {
           "alt": "",
-          "src": ""
+          "src": "",
+          "attribution": ""
         },
         "_classes": ""
       },
@@ -559,7 +560,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd9f",
     "_type": "component",
-    "body": "<p><strong>Data is...</strong></p>",
+    "body": "<p><strong>Open data is...</strong></p>",
     "displayTitle": "What is open data?",
     "title": "Q: What is open data?",
     "_isAvailable": true,
@@ -654,7 +655,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dda5",
     "_type": "component",
-    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment.</li></ul>",
+    "body": "<p>Open data has the potential to help grow economies, transform societies and protect the environment.</p><p>In this module, we explore how governments, businesses and individuals are using open data to create new value.</p><p><strong>In this module we&rsquo;ll explore:</strong></p><ul><li>Innovation and growth in businesses</li><li>Opportunities for governments</li><li>Impact on society and public policy</li><li>Benefits for culture and the environment</li></ul>",
     "displayTitle": "Unlocking value from open data",
     "title": "Unlocking value from open data",
     "_isAvailable": true,
@@ -765,7 +766,7 @@
     "_layout": "left",
     "_parentId": "58fdfc5fd084d5167a04dd29",
     "_type": "component",
-    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data &ndash; this is public information in a format which allows it to be automatically processed&nbsp;electronically and accessed free of charge for continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorised for further use and free distribution.</p><p dir=\"ltr\">Anyone is free to copy, publish, distribute and use &ndash; including for commercial purposes &ndash; in conjunction with other information, or by the inclusion of its own product in the form of public information open data with reference to source of such information.</p>",
+    "body": "<p dir=\"ltr\">In Ukraine, open data is part of the Law on <a href=\"http://zakon3.rada.gov.ua/laws/show/2939-17?lang=en\" target=\"_blank\">Access to Public Information</a>. This law both defines open data (article 10.1) and its conditions of use (article 10.2).</p><p dir=\"ltr\">10.1 Public information in the form of open data &ndash; this is public information in a format which allows it to be automatically processed&nbsp;electronically and accessed free of charge for continued use.</p><p dir=\"ltr\">10.2 Public information in the form of open data is authorised for further use and free distribution.</p><p dir=\"ltr\">Anyone is free to&nbsp;exploit the Information commercially and non-commercially for example, by combining it with other Information, or by including it in a product or application. Suitable acknowledgement of the source of the information must be given.</p>",
     "displayTitle": "What is open data?",
     "title": "What is open data?",
     "_isAvailable": true,
@@ -1454,7 +1455,7 @@
       },
       {
         "title": "Improving the way we work",
-        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p><p>For example YouControl is using open data on corporations to help businesses identify the best partners for different projects. This saves time manually searching for the best partners while identifying those who may not be known.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p>",
+        "body": "<p>Open data is changing the way we work.</p><p>Open data reduces the time needed to find information and allows professionals to focus more of their time on productive activities.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1652,7 +1653,7 @@
     "_items": [
       {
         "title": "Transforming government",
-        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, search and analysis system .007 provides a way of monitoring public budget expenditures and helps identify any abuse in spending. The web-based system provides access to open data and visualisations that help ease the consumption and understanding of specific information from large datasets.<br /><a href=\"http://www.007.org.ua\" target=\"_blank\">Take me to .007</a></p><p dir=\"ltr\">An example of Ukrainian practice: the Rada4you service helps to check how deputies vote in a very simple and convenient format.<br /><a href=\"http://lviv.rada4you.org/\" target=\"_blank\">Go to Rada4you</a></p><p dir=\"ltr\">Perhaps the most transformative is what Ukraine is doing with Prozorro and its open contracting procurement reforms. Since the programme&#39;s inception, open contracting and procurement has resulted in a 15% increase in competition from 45% more suppliers who hadn&rsquo;t bid before. This increase in competition has also resulted in 10% saving in spending.<br /><a href=\"http://www.open-contracting.org/2017/04/19/learning-insights-measuring-results-ukraine/?utm_content=buffer60ceb&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer\" target=\"_blank\">Take me to Prozorro</a></p>",
+        "body": "<p>Open data can help make governments more transparent. It can provide the evidence that public money is being well spent and policies are being implemented.</p><p dir=\"ltr\">For example, search and analysis system .007 provides a way of monitoring public budget expenditures and helps identify any abuse in spending. The web-based system provides access to open data and visualisations that help ease the consumption and understanding of specific information from large datasets.<br /><a href=\"http://www.007.org.ua\" target=\"_blank\">Take me to .007</a></p><p dir=\"ltr\">In Ukraine, the Rada4you service helps to check how deputies vote in a very simple and convenient format.<br /><a href=\"http://lviv.rada4you.org/\" target=\"_blank\">Go to Rada4you</a></p><p dir=\"ltr\">Perhaps the most transformative is what Ukraine is doing with Prozorro and its open contracting procurement reforms. Since the programme&#39;s inception, open contracting and procurement has resulted in a 15% increase in competition from 45% more suppliers who hadn&rsquo;t bid before. This increase in competition has also resulted in 10% saving in spending.<br /><a href=\"https://prozorro.gov.ua/\" target=\"_blank\">Take me to Prozorro</a></p>",
         "_graphic": {
           "src": "course/en/assets/5137df5ae627c0cbfd5b8b2a267769e2878d7905.png",
           "alt": "",
@@ -1662,7 +1663,7 @@
       },
       {
         "title": "Building new business opportunities",
-        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p dir=\"ltr\">Opendatabot is a service that uses open data to allow users to monitor registration of Ukrainian companies and court register. With this information, it is possible to procure more effective contractors and protect against corporate raids.<br /><a href=\"https://opendatabot.com/en\" target=\"_blank\">Take me to Opendatabot</a></p><p dir=\"ltr\">Similarly YouControl is using the same corporation data to help businesses identify the best partners for different projects.<br /><a href=\"https://youcontrol.com.ua/landing_002/\" target=\"_blank\">Take me to YouControl</a></p>",
+        "body": "<p>Open data is opening up new opportunities for businesses to connect with customers.</p><p dir=\"ltr\">Opendatabot is a service that uses open data to allow users to monitor registration of Ukrainian companies and court register. With this information, it is possible to procure more effective contractors and protect against corporate raids.<br /><a href=\"https://opendatabot.com/en\" target=\"_blank\">Take me to Opendatabot</a></p>",
         "_graphic": {
           "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
           "alt": "",
@@ -1672,7 +1673,7 @@
       },
       {
         "title": "Protecting our planet",
-        "body": "<p dir=\"ltr\">The web has become a core part of our infrastructure and open data will build on this.</p><p dir=\"ltr\">Open data about weather can provide an early warning system for environmental disasters, for example.</p><p dir=\"ltr\"><a href=\"http://www.un.org/apps/news/story.asp?NewsID=13077&amp;Cr=natural&amp;Cr1=disaster#.VVyWK_lVhBc\" target=\"_blank\">Take me to the United Nations news centre</a></p><p dir=\"ltr\">Open data is helping citizens to report on unsanctioned landfills so government can take steps to clear it</p><p dir=\"ltr\"><a href=\"https://ecomapa.gov.ua/\" target=\"_blank\">Take me the interactive map of the Ministry of Ecology and Natural Resources of Ukraine </a></p><p dir=\"ltr\">In the Ukraine Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.</p><p dir=\"ltr\"><a href=\"http://agrieye.io/\" target=\"_blank\">Take me to Agri Eye</a></p>",
+        "body": "<p dir=\"ltr\">The web has become a core part of our infrastructure and open data will build on this.</p><p dir=\"ltr\">Open data about weather can provide an early warning system for environmental disasters, for example.</p><p dir=\"ltr\"><a href=\"http://www.un.org/apps/news/story.asp?NewsID=13077&amp;Cr=natural&amp;Cr1=disaster#.VVyWK_lVhBc\" target=\"_blank\">Take me to the United Nations news centre</a></p><p dir=\"ltr\">Open data is helping citizens to report on unsanctioned landfills so government can take steps to clear it.</p><p dir=\"ltr\"><a href=\"https://ecomapa.gov.ua/\" target=\"_blank\">Take me the interactive map of the Ministry of Ecology and Natural Resources of Ukraine </a></p><p dir=\"ltr\">In Ukraine, Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.</p><p dir=\"ltr\"><a href=\"http://agrieye.io/\" target=\"_blank\">Take me to Agri Eye</a></p>",
         "_graphic": {
           "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg",
           "alt": "",
@@ -1773,7 +1774,7 @@
     "_items": [
       {
         "title": "Environment",
-        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p dir=\"ltr\">In the Ukraine Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.<br /><a href=\"http://agrieye.io/\" target=\"_blank\">Take me to Agri Eye</a></p><p>Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.<br /><a href=\"https://www.plantwise.org/\" target=\"_blank\">Take me to Plantwise</a></p>",
+        "body": "<p>Open data helps farmers to improve yields and support a growing population without the need to destroy valuable habitats.</p><p dir=\"ltr\">In Ukraine, Agri Eye uses open data to build an analytical system for remote vegetation and soil sensing for farmers. They claim that up to a 30% saving can be achieved through efficient land usage.<br /><a href=\"http://agrieye.io/\" target=\"_blank\">Take me to Agri Eye</a></p><p>Plantwise are collecting open data to produce valuable information packs for farmers about plant health and threats from diseases.<br /><a href=\"https://www.plantwise.org/\" target=\"_blank\">Take me to Plantwise</a></p>",
         "_graphic": {
           "src": "course/en/assets/4462daa4541eb11f9a09ea005d9f160480451597.jpg",
           "alt": "",
@@ -2208,7 +2209,7 @@
     "_layout": "left",
     "_parentId": "58fdfd16d084d5167a04e023",
     "_type": "component",
-    "body": "<p>The last decade (up to 2017)&nbsp;has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principles is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principles it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principles of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
+    "body": "<p>The last decade has seen growing support for greater government transparency and evidence-based policy making for the benefit of every&nbsp;citizen. Having a set of agreed and supported principles is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>This module introduces the Open Data Charter and the key principles&nbsp;it outlines for open data.</p><p>This module looks at:</p><ul><li>Why have a charter?</li><li>The key principles&nbsp;of the Open Data Charter</li><li>How the Open Data Charter has been used in Ukraine</li></ul>",
     "displayTitle": "The key principles of the Open Data Charter",
     "title": "The key principles of the Open Data Charter",
     "_isAvailable": true,
@@ -2908,7 +2909,7 @@
       },
       {
         "title": "Technical requirements",
-        "body": "<p>There are three recommendations that define the technical aspects of open data:</p><ul><li>The format in which the data is published.</li><li>The structure of the data.</li><li>The channels through which the data is available.</li></ul>",
+        "body": "<p>There are three requirements&nbsp;that define the technical aspects of open data:</p><ul><li>The format in which the data is published.</li><li>The structure of the data.</li><li>The channels through which the data is available.</li></ul>",
         "_graphic": {
           "src": "course/en/assets/14fad81b7ca38acf03071734b8362c47fd3d3997.jpg",
           "alt": "",
@@ -2979,7 +2980,7 @@
     "_layout": "right",
     "_parentId": "5926d62fd084d5167a04eabe",
     "_type": "component",
-    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principles is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spread&nbsp;lessons from those who are implementing open data projects and connect them with each other</li><li>Works with different sectors to turn high-level open data principles into practical action</li><li>Drives momentum for the open data movement by supporting governments to commit publicly to the charter principles</li></ul>",
+    "body": "<p>Open data and transparency provide&nbsp;equal opportunity for all businesses and citizens to question, engage and innovate with government data.&nbsp;Having a set of agreed and supported principles&nbsp;is of critical importance to maintain the focus on the benefit that open data can bring.&nbsp;</p><p>The Open Data Charter helps maintain focus in a number of key ways:</p><ul><li>Helps advocate for open data at a high political level</li><li>Helps spread&nbsp;lessons from those who are implementing open data projects and connect them with each other</li><li>Works with different sectors to turn high-level open data principles into practical action</li><li>Drives momentum for the open data movement by supporting governments to commit publicly to the charter principles</li></ul>",
     "displayTitle": "Why have a charter?",
     "title": "Why have a charter?",
     "_isAvailable": true,
@@ -3010,7 +3011,7 @@
     "_items": [
       {
         "title": "1. Open by default",
-        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>&#39;Open by default&#39; is the principle that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well-defined sensitive or personal data).&nbsp;</p><p>With &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
+        "body": "<p>If your government is constantly making decisions on which data to open, they are closed by default.&nbsp;</p><p>&#39;Open by default&#39; is the principle&nbsp;that everything should be open automatically. A case must be made to close the data. There must be decisions and clearly defined policies on what to close (e.g. well-defined sensitive or personal data).&nbsp;</p><p>With &#39;open by default&#39; civil servants are encouraged to automatically open up data and information resources to the public.&nbsp;</p><p>The charter encourages a culture and reward system based upon being open.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3050,6 +3051,65 @@
       }
     ],
     "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5926d8a6d084d5167a04eac5",
+    "_layout": "full",
+    "_parentId": "5926d878d084d5167a04eac3",
+    "_type": "component",
+    "body": "<p>The remaining&nbsp;two principles&nbsp;of the charter focus on why the data is being made open. Discover more below:</p>",
+    "displayTitle": "Principles 5 and 6",
+    "title": "Principles 5 and 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Click the forward arrow to see more.",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "5. For Improved Governance and Citizen Engagement",
+        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "5. For Improved Governance and Citizen Engagement"
+      },
+      {
+        "title": "6. For Inclusive Development and Innovation",
+        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "6. For Inclusive Development and Innovation"
+      }
+    ]
+  },
+  {
+    "_id": "5926e5aed084d5167a04eaca",
+    "_layout": "left",
+    "_parentId": "5926e587d084d5167a04eac8",
+    "_type": "component",
+    "body": "<p>Ukraine joined the <a href=\"https://opendatacharter.net/\" target=\"_blank\">Open Data Charter</a> in October 2016, a decision that helps demonstrate action following&nbsp;the mass protests for&nbsp;government transparency in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-Government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The six principles have helped define&nbsp;the 21 units and 59 tasks that&nbsp;determine the development of the open data initiative in 2017.</p><p>In 2017 five Ukrainian cities joined the Open Data Charter - Lviv, Vinnytsia, Drohobych, Dnipro and Chernivtsi</p>",
+    "displayTitle": " How the Open Data Charter has been used in Ukraine",
+    "title": " How the Open Data Charter has been used in Ukraine",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
   },
   {
     "_id": "5927db45d084d5167a04eacb",
@@ -3327,9 +3387,9 @@
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open by default&nbsp;is the principle that everything should be open automatically. A case must be made to close the data.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure?</strong></p><p>Open by default&nbsp;is the principle that everything should be open automatically. A case must be made to close the data.</p>",
+        "final": "<p><strong>Are you sure?</strong></p><p>Open by default&nbsp;is the principal that everything should be open automatically. A case must be made to close the data.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3502,23 +3562,6 @@
     }
   },
   {
-    "_id": "5926e5aed084d5167a04eaca",
-    "_layout": "left",
-    "_parentId": "5926e587d084d5167a04eac8",
-    "_type": "component",
-    "body": "<p>Ukraine joined the Open Data Charter in October 2016, a decision that helps demonstrate action following&nbsp;the mass protests for&nbsp;government transparency in 2014.</p><p>Joining the&nbsp;Open Data Charter&nbsp;has helped to drive the open data agenda within the Ukrainian government. This engagement with the international community has strengthened the political will of those at the top of government to support the work of the&nbsp;<a href=\"http://www.dknii.gov.ua/\" onclick=\"__gaTracker('send', 'event', 'outbound-article', 'http://www.dknii.gov.ua/', 'State Agency for E-government');\">State Agency for E-government</a>.&nbsp;</p><p>The charter forms the basis of the <a href=\"http://tapas.org.ua/dorozhnya-karta-rozvytku-vidkrytyh-danyh-v-ukrayini-na-2017-rik-povnyj-tekst/\" target=\"_blank\">roadmap for open data development in Ukraine</a>. The six principles have helped define&nbsp;the 21 units and 59 tasks that&nbsp;determine the development of the open data initiative in 2017.</p><p>In 2017 five Ukrainian cities joined the Open Data Charter - Lviv, Vinnytsia, Drohobych, Dnipro and Chernivtsi</p>",
-    "displayTitle": " How the Open Data Charter has been used in Ukraine",
-    "title": " How the Open Data Charter has been used in Ukraine",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "text",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": ""
-  },
-  {
     "_id": "59280ffed084d5167a04eafa",
     "_layout": "left",
     "_parentId": "59280fb9d084d5167a04eaf8",
@@ -3534,47 +3577,5 @@
       "_isEnabled": true
     },
     "instruction": ""
-  },
-  {
-    "_id": "5926d8a6d084d5167a04eac5",
-    "_layout": "full",
-    "_parentId": "5926d878d084d5167a04eac3",
-    "_type": "component",
-    "body": "<p>The remaining&nbsp;two principles of the charter focus on why the data is being made open. Discover more below:</p>",
-    "displayTitle": "Principles 5 and 6",
-    "title": "Principles 5 and 6",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "narrative",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Click the forward arrow to see more.",
-    "mobileInstruction": "",
-    "_hasNavigationInTextArea": false,
-    "_setCompletionOn": "inview",
-    "_items": [
-      {
-        "title": "5. For Improved Governance and Citizen Engagement",
-        "body": "<p>Open data&nbsp;strengthens the governance of and trust&nbsp;in public institutions, reinforces governments&rsquo; obligation to respect the rule of law and provides a transparent and accountable foundation to improve decision-making&nbsp;and enhance the provision of public services.</p><p>Open by default is a responsibility to proactively and automatically give citizens access to data and information. Additionally, citizens&#39; rights to freedom of expression will be respected, even to those using open data to identify corruption.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/44692b04753e36675bd12acf35820956832091e4.jpg",
-          "alt": "",
-          "attribution": "<a href=\"https://commons.wikimedia.org/wiki/File:Ghozt_Tramp_-_Business_Communication_Duplicat_model.jpg\" target=\"_blank\">Ghozt Tramp</a> <span class='assetLicence'>[CC-BY-SA]</span>"
-        },
-        "strapline": "5. For Improved Governance and Citizen Engagement"
-      },
-      {
-        "title": "6. For Inclusive Development and Innovation",
-        "body": "<p>Open data is, by&nbsp;nature, an equitable resource that empowers&nbsp;all people by allowing them to access data regardless of who they are or where they&nbsp;live.</p><p>Open data can&nbsp;stimulate&nbsp;creativity and innovation, as well as help meet global challenges such as&nbsp;poverty, hunger, climate change&nbsp;and inequality.</p><p>Businesses and citizens alike should be encouraged and supported to use open&nbsp;data, both for commercial gain and collective benefit.&nbsp;</p><p>Open data can empower the future generation of innovators, providing benefits to the whole of society, much like the Web has today.&nbsp;</p>",
-        "_graphic": {
-          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
-          "alt": "",
-          "attribution": ""
-        },
-        "strapline": "6. For Inclusive Development and Innovation"
-      }
-    ]
   }
 ]
